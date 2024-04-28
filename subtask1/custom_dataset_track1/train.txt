@@ -1176,11 +1176,11 @@ que O
 no O
 hay O
 ninguna O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
-continuación I-ENFERMEDAD
+A O
+continuación O
 se O
 diseca O
 el O
@@ -2959,16 +2959,16 @@ diagnóstico O
 definitivo O
 es O
 de O
-LEIOMIOSARCOMA O
-DE O
-CAVA O
+LEIOMIOSARCOMA B-ENFERMEDAD
+DE I-ENFERMEDAD
+CAVA I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-cuanto I-ENFERMEDAD
-a I-ENFERMEDAD
-la I-ENFERMEDAD
-evolución I-ENFERMEDAD
+En O
+cuanto O
+a O
+la O
+evolución O
 , O
 los O
 controles O
@@ -3430,7 +3430,7 @@ por O
 el O
 riesgo O
 de O
-ceguera O
+ceguera B-ENFERMEDAD
 . O
 
 Varón O
@@ -3460,8 +3460,8 @@ mismo O
 lado O
 . O
 
-Como B-ENFERMEDAD
-tratamiento I-ENFERMEDAD
+Como O
+tratamiento O
 se O
 retiró O
 la O
@@ -5088,7 +5088,7 @@ resultado O
 en O
 ambos O
 de O
-azooospermia O
+azooospermia B-ENFERMEDAD
 . O
 
 Varón O
@@ -5341,11 +5341,11 @@ trombosis B-ENFERMEDAD
 venosa I-ENFERMEDAD
 profunda I-ENFERMEDAD
 ( O
-TVP O
+TVP B-ENFERMEDAD
 ) O
 . O
 
-Analíticamente B-ENFERMEDAD
+Analíticamente O
 presenta O
 bioquímica O
 normal O
@@ -5540,13 +5540,13 @@ extrahepática O
 normales O
 . O
 
-Lipoma O
-en O
-VCI O
+Lipoma B-ENFERMEDAD
+en I-ENFERMEDAD
+VCI I-ENFERMEDAD
 . O
 
-Signos B-ENFERMEDAD
-ecográficos I-ENFERMEDAD
+Signos O
+ecográficos O
 de O
 colecistitis B-ENFERMEDAD
 , O
@@ -5554,11 +5554,11 @@ probablemente O
 perforada O
 y O
 posible O
-pancreatitis O
+pancreatitis B-ENFERMEDAD
 . O
 
-Líquido B-ENFERMEDAD
-libre I-ENFERMEDAD
+Líquido O
+libre O
 en O
 pelvis O
 , O
@@ -5622,9 +5622,9 @@ captación O
 de O
 contraste O
 y O
-angiomiolipoma O
+angiomiolipoma B-ENFERMEDAD
 ( O
-AML O
+AML B-ENFERMEDAD
 ) O
 vs O
 . O
@@ -5765,13 +5765,13 @@ analítico O
 de O
 trasudado O
 descartando O
-proceso O
-peritoneal O
+proceso B-ENFERMEDAD
+peritoneal I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-ecografía I-ENFERMEDAD
-transesofágica I-ENFERMEDAD
+En O
+ecografía O
+transesofágica O
 la O
 paciente O
 presenta O
@@ -5788,14 +5788,14 @@ tricúspide O
 libre O
 y O
 existiendo O
-derrame O
-pericárdico O
+derrame B-ENFERMEDAD
+pericárdico I-ENFERMEDAD
 . O
 
-Finalmente B-ENFERMEDAD
-, I-ENFERMEDAD
-con I-ENFERMEDAD
-diagnóstico I-ENFERMEDAD
+Finalmente O
+, O
+con O
+diagnóstico O
 de O
 Síndrome B-ENFERMEDAD
 de I-ENFERMEDAD
@@ -5808,15 +5808,15 @@ trombo I-ENFERMEDAD
 en I-ENFERMEDAD
 cava I-ENFERMEDAD
 ( O
-AML O
+AML B-ENFERMEDAD
 vs O
 . O
 
 Lipoma B-ENFERMEDAD
-) I-ENFERMEDAD
-, I-ENFERMEDAD
-y I-ENFERMEDAD
-ante I-ENFERMEDAD
+) O
+, O
+y O
+ante O
 empeoramiento O
 clínico O
 de O
@@ -6118,10 +6118,10 @@ percutáneo O
 y O
 esclerosis O
 del O
-quiste O
+quiste B-ENFERMEDAD
 . O
 
-Posteriormente B-ENFERMEDAD
+Posteriormente O
 la O
 paciente O
 presentó O
@@ -6224,11 +6224,11 @@ presentó O
 cólico O
 derecho O
 y O
-cistitis O
+cistitis B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-litiasis I-ENFERMEDAD
+La O
+litiasis B-ENFERMEDAD
 se I-ENFERMEDAD
 encontraba I-ENFERMEDAD
 en I-ENFERMEDAD
@@ -7881,8 +7881,8 @@ metastásicos I-ENFERMEDAD
 peritoneales I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-realizó I-ENFERMEDAD
+Se O
+realizó O
 TAC O
 tóracoabdominal O
 que O
@@ -8227,7 +8227,7 @@ no O
 afectados O
 por O
 el O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
 Mujer O
@@ -8254,7 +8254,7 @@ con O
 doble O
 anexectomía O
 por O
-endometriosis O
+endometriosis B-ENFERMEDAD
 45 O
 días O
 antes O
@@ -8423,7 +8423,7 @@ ureterolisis O
 y O
 exéresis O
 del O
-urinoma O
+urinoma B-ENFERMEDAD
 , O
 con O
 anastomosis O
@@ -10650,19 +10650,19 @@ la O
 cirugía O
 . O
 
-Se B-ENFERMEDAD
-realiza I-ENFERMEDAD
-uretrocistoscopia I-ENFERMEDAD
-el I-ENFERMEDAD
-mismo I-ENFERMEDAD
-día I-ENFERMEDAD
-de I-ENFERMEDAD
-la I-ENFERMEDAD
-consulta I-ENFERMEDAD
-para I-ENFERMEDAD
-confirmar I-ENFERMEDAD
-sospecha I-ENFERMEDAD
-diagnóstica I-ENFERMEDAD
+Se O
+realiza O
+uretrocistoscopia O
+el O
+mismo O
+día O
+de O
+la O
+consulta O
+para O
+confirmar O
+sospecha O
+diagnóstica O
 que O
 así O
 se O
@@ -10671,23 +10671,23 @@ produce O
 apreciándose O
 un O
 gran O
-" O
-pelotón O
-de O
-gasas O
-" O
-adherida O
-a O
-la O
-pared O
-vesical O
-que O
-no O
-se O
-moviliza O
-por O
-estar O
-calcificada O
+" B-ENFERMEDAD
+pelotón I-ENFERMEDAD
+de I-ENFERMEDAD
+gasas I-ENFERMEDAD
+" I-ENFERMEDAD
+adherida I-ENFERMEDAD
+a I-ENFERMEDAD
+la I-ENFERMEDAD
+pared I-ENFERMEDAD
+vesical I-ENFERMEDAD
+que I-ENFERMEDAD
+no I-ENFERMEDAD
+se I-ENFERMEDAD
+moviliza I-ENFERMEDAD
+por I-ENFERMEDAD
+estar I-ENFERMEDAD
+calcificada I-ENFERMEDAD
 ; O
 se O
 solicita O
@@ -11946,7 +11946,7 @@ es O
 de O
 poliorquidismo B-ENFERMEDAD
 con O
-hidrocele O
+hidrocele B-ENFERMEDAD
 asociado O
 . O
 
@@ -12388,24 +12388,24 @@ linfadenectomía O
 izquierda O
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
-estudio I-ENFERMEDAD
-anatomopatológico I-ENFERMEDAD
-de I-ENFERMEDAD
-la I-ENFERMEDAD
-pieza I-ENFERMEDAD
-se I-ENFERMEDAD
-informa I-ENFERMEDAD
-como I-ENFERMEDAD
-riñón I-ENFERMEDAD
-que I-ENFERMEDAD
-presenta O
-tumoración O
+En O
+el O
+estudio O
+anatomopatológico O
 de O
-9x10 O
-cm O
-. O
+la O
+pieza O
+se O
+informa O
+como O
+riñón O
+que O
+presenta O
+tumoración B-ENFERMEDAD
+de I-ENFERMEDAD
+9x10 I-ENFERMEDAD
+cm I-ENFERMEDAD
+. I-ENFERMEDAD
 
 multiquística O
 que O
@@ -13404,7 +13404,7 @@ fue O
 normal O
 . O
 
-Relata B-ENFERMEDAD
+Relata O
 que O
 en O
 las O
@@ -13786,7 +13786,7 @@ cólicos O
 . O
 
 No O
-ITUs O
+ITUs B-ENFERMEDAD
 . O
 
 En O
@@ -14230,11 +14230,11 @@ heterogénea O
 de O
 todas O
 las O
-lesiones O
+lesiones B-ENFERMEDAD
 descritas O
 . O
 
-Recibió B-ENFERMEDAD
+Recibió O
 irradiación O
 de O
 las O
@@ -15658,10 +15658,10 @@ Márgenes O
 quirúrgicos O
 libres O
 de O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-Inmunohistoquímica B-ENFERMEDAD
+Inmunohistoquímica O
 
 Las O
 células O
@@ -16008,7 +16008,7 @@ en O
 vejiga O
 como O
 en O
-divertículo O
+divertículo B-ENFERMEDAD
 , O
 hallazgos O
 sugestivos O
@@ -16839,7 +16839,7 @@ la O
 sospecha O
 clínica O
 de O
-linfocele O
+linfocele B-ENFERMEDAD
 . O
 
 Se O
@@ -16901,7 +16901,7 @@ comprueba O
 la O
 resolución O
 del O
-linfocele O
+linfocele B-ENFERMEDAD
 
 Presentamos O
 el O
@@ -17807,11 +17807,11 @@ coagulación B-ENFERMEDAD
 intravascular I-ENFERMEDAD
 diseminada I-ENFERMEDAD
 ( O
-CID O
+CID B-ENFERMEDAD
 ) O
 . O
 
-También B-ENFERMEDAD
+También O
 se O
 descartó O
 un O
@@ -19226,8 +19226,8 @@ clínicos O
 ni O
 paraclínicos O
 de O
-recidiva O
-tumoral O
+recidiva B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
 Tiene O
@@ -21392,10 +21392,10 @@ venoso O
 pT3 O
 G3 O
 N0 O
-M0 O
+M0 B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
+Tras O
 la O
 cirugía O
 el O
@@ -21657,8 +21657,8 @@ el O
 paciente O
 presenta O
 nuevo O
-hematoma O
-retroperitoneal O
+hematoma B-ENFERMEDAD
+retroperitoneal I-ENFERMEDAD
 . O
 
 Como O
@@ -22597,7 +22597,7 @@ conocidas O
 . O
 
 No O
-diabetes O
+diabetes B-ENFERMEDAD
 . O
 
 Una O
@@ -22623,22 +22623,22 @@ de I-ENFERMEDAD
 repetición I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-fuma I-ENFERMEDAD
+No O
+fuma B-ENFERMEDAD
 ni O
-bebe O
+bebe B-ENFERMEDAD
 . O
 
-Exploración B-ENFERMEDAD
+Exploración O
 física O
 : O
-Obesidad O
-mórbida O
+Obesidad B-ENFERMEDAD
+mórbida I-ENFERMEDAD
 . O
 
-Buen B-ENFERMEDAD
-estado I-ENFERMEDAD
-de I-ENFERMEDAD
+Buen O
+estado O
+de O
 salud O
 general O
 . O
@@ -22674,13 +22674,13 @@ no O
 doloroso O
 , O
 no O
-hepatoesplenomegalia O
+hepatoesplenomegalia B-ENFERMEDAD
 . O
 
-Examen B-ENFERMEDAD
-pélvico I-ENFERMEDAD
-en I-ENFERMEDAD
-posición I-ENFERMEDAD
+Examen O
+pélvico O
+en O
+posición O
 de O
 litotomía O
 dorsal O
@@ -22718,30 +22718,30 @@ fluctuante O
 compatible O
 con O
 un O
-divertículo O
-uretral O
+divertículo B-ENFERMEDAD
+uretral I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
-obtuvo I-ENFERMEDAD
-pus I-ENFERMEDAD
-al I-ENFERMEDAD
+No O
+se O
+obtuvo O
+pus O
+al O
 presionarlo O
 . O
 
 No O
 se O
 observó O
-incontinencia O
-de O
-estrés O
+incontinencia B-ENFERMEDAD
+de I-ENFERMEDAD
+estrés I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-realizó I-ENFERMEDAD
-una I-ENFERMEDAD
-resonancia I-ENFERMEDAD
+Se O
+realizó O
+una O
+resonancia O
 magnética O
 nuclear O
 ( O
@@ -23298,21 +23298,21 @@ un O
 plano O
 entre O
 el O
-divertículo O
-uretral O
+divertículo B-ENFERMEDAD
+uretral I-ENFERMEDAD
 y O
 la O
 fascia O
 periuretral O
 . O
 
-A B-ENFERMEDAD
-señalar I-ENFERMEDAD
-que I-ENFERMEDAD
-la I-ENFERMEDAD
-pared I-ENFERMEDAD
+A O
+señalar O
+que O
+la O
+pared O
 del O
-divertículo O
+divertículo B-ENFERMEDAD
 era O
 muy O
 gruesa O
@@ -23343,8 +23343,8 @@ urgencia O
 ocasional O
 . O
 
-Se B-ENFERMEDAD
-seccionó I-ENFERMEDAD
+Se O
+seccionó O
 el O
 cuello O
 diverticular O
@@ -23503,7 +23503,7 @@ hasta O
 el O
 cuello O
 del O
-divertículo O
+divertículo B-ENFERMEDAD
 . O
 
 Informe O
@@ -23697,12 +23697,12 @@ epidídimo O
 , O
 no O
 - O
-hidrocele O
+hidrocele B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
-la I-ENFERMEDAD
-sospecha I-ENFERMEDAD
+Con O
+la O
+sospecha O
 diagnóstica O
 de O
 absceso B-ENFERMEDAD
@@ -25772,12 +25772,12 @@ pulmonares I-ENFERMEDAD
 , O
 compatibles O
 con O
-micrometástasis O
+micrometástasis B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-realiza I-ENFERMEDAD
-tiroidectomía I-ENFERMEDAD
+Se O
+realiza O
+tiroidectomía O
 total O
 y O
 vaciamiento O
@@ -25792,11 +25792,11 @@ invasión O
 local O
 de O
 la O
-neoplasia O
+neoplasia B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-informe I-ENFERMEDAD
+El O
+informe O
 anatomopatológico O
 confirma O
 la O
@@ -26807,8 +26807,8 @@ lesiones B-ENFERMEDAD
 abdominales I-ENFERMEDAD
 sugestivas O
 de O
-pseudomixoma O
-peritoneal O
+pseudomixoma B-ENFERMEDAD
+peritoneal I-ENFERMEDAD
 . O
 
 Entre O
@@ -29341,10 +29341,10 @@ tuberculoide I-ENFERMEDAD
 , O
 compatible O
 con O
-TBC O
+TBC B-ENFERMEDAD
 . O
 
-Lowenstein B-ENFERMEDAD
+Lowenstein O
 en O
 orina O
 : O
@@ -29523,15 +29523,15 @@ ambos O
 epidídimos O
 con O
 pequeño O
-hidrocele O
-bilateral O
+hidrocele B-ENFERMEDAD
+bilateral I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-llevan I-ENFERMEDAD
-a I-ENFERMEDAD
-cabo I-ENFERMEDAD
-UIV I-ENFERMEDAD
+Se O
+llevan O
+a O
+cabo O
+UIV O
 de O
 control O
 presentando O
@@ -29597,10 +29597,10 @@ con O
 su O
 diagnóstico O
 de O
-TBC O
+TBC B-ENFERMEDAD
 . O
 
-Uréteres B-ENFERMEDAD
+Uréteres O
 de O
 calibre O
 y O
@@ -29612,13 +29612,13 @@ Vejiga B-ENFERMEDAD
 de I-ENFERMEDAD
 esfuerzo I-ENFERMEDAD
 e O
-hipertrofia O
-prostática O
+hipertrofia B-ENFERMEDAD
+prostática I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-mantuvieron I-ENFERMEDAD
-cultivos I-ENFERMEDAD
+Se O
+mantuvieron O
+cultivos O
 de O
 orina O
 en O
@@ -29826,13 +29826,13 @@ riñón O
 derecho O
 normal O
 , O
-litiasis O
-en O
-polo O
-inferior O
-de O
-riñón O
-izquierdo O
+litiasis B-ENFERMEDAD
+en I-ENFERMEDAD
+polo I-ENFERMEDAD
+inferior I-ENFERMEDAD
+de I-ENFERMEDAD
+riñón I-ENFERMEDAD
+izquierdo I-ENFERMEDAD
 y O
 dilatación B-ENFERMEDAD
 irregular I-ENFERMEDAD
@@ -29968,10 +29968,10 @@ el O
 contexto O
 de O
 una O
-HBP O
+HBP B-ENFERMEDAD
 . O
 
-se B-ENFERMEDAD
+se O
 decidió O
 continuar O
 con O
@@ -30251,11 +30251,11 @@ y O
 descartar O
 complicaciones O
 del O
-absceso O
+absceso B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
+En O
+la O
 TC O
 apareció O
 un O
@@ -31519,21 +31519,21 @@ o O
 la O
 existencia O
 de O
-vegetaciones O
-valvulares O
+vegetaciones B-ENFERMEDAD
+valvulares I-ENFERMEDAD
 . O
 
-Ausencia B-ENFERMEDAD
-de I-ENFERMEDAD
-áreas I-ENFERMEDAD
-de I-ENFERMEDAD
-discinesia I-ENFERMEDAD
-miocárdica O
+Ausencia O
+de O
+áreas O
+de O
+discinesia B-ENFERMEDAD
+miocárdica I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-arteriografía I-ENFERMEDAD
-mostró I-ENFERMEDAD
+La O
+arteriografía O
+mostró O
 un O
 déficit O
 de O
@@ -31653,14 +31653,14 @@ embolismo B-ENFERMEDAD
 o O
 manifestaciones O
 de O
-enfermedad O
-sistémica O
+enfermedad B-ENFERMEDAD
+sistémica I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-ha I-ENFERMEDAD
-suspendido I-ENFERMEDAD
-la I-ENFERMEDAD
+Se O
+ha O
+suspendido O
+la O
 anti O
 - O
 coagulación O
@@ -32519,12 +32519,12 @@ hemodiálisis O
 por O
 hiperpotasemia B-ENFERMEDAD
 y O
-acidosis O
+acidosis B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
-Angio I-ENFERMEDAD
+En O
+la O
+Angio O
 RMN O
 de O
 control O
@@ -34080,11 +34080,11 @@ misma O
 siendo O
 sugestivo O
 de O
-cistitis O
+cistitis B-ENFERMEDAD
 . O
 
-Además B-ENFERMEDAD
-, I-ENFERMEDAD
+Además O
+, O
 en O
 la O
 zona O
@@ -34379,12 +34379,12 @@ necrosis O
 pero O
 sin O
 apreciarse O
-infiltración O
-tumoral O
+infiltración B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
-Imagen B-ENFERMEDAD
-2 I-ENFERMEDAD
+Imagen O
+2 O
 
 El O
 postoperatorio O
@@ -35171,11 +35171,11 @@ decidió O
 la O
 extirpación O
 del O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
+En O
+el O
 tacto O
 bimanual O
 , O
@@ -35360,10 +35360,10 @@ que O
 predominan O
 en O
 el O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-Había B-ENFERMEDAD
+Había O
 focos O
 muy O
 aislados O
@@ -35485,16 +35485,16 @@ diagnóstico O
 definitivo O
 fue O
 de O
-tumor O
-fibroso O
-solitario O
+tumor B-ENFERMEDAD
+fibroso I-ENFERMEDAD
+solitario I-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-tres I-ENFERMEDAD
-años I-ENFERMEDAD
-de I-ENFERMEDAD
-seguimiento I-ENFERMEDAD
+Tras O
+tres O
+años O
+de O
+seguimiento O
 el O
 paciente O
 no O
@@ -36470,7 +36470,7 @@ microscópico O
 con O
 ausencia O
 de O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
 Paciente O
@@ -36671,7 +36671,7 @@ el O
 origen O
 preciso O
 del O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
 La O
@@ -36692,8 +36692,8 @@ para O
 tumor B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-espera I-ENFERMEDAD
+En O
+espera O
 de O
 los O
 resultados O
@@ -36907,11 +36907,11 @@ bilateral I-ENFERMEDAD
 y O
 ausencia O
 de O
-adenopatías O
+adenopatías B-ENFERMEDAD
 . O
 
-Ante B-ENFERMEDAD
-estos I-ENFERMEDAD
+Ante O
+estos O
 hallazgos O
 se O
 realizó O
@@ -37244,13 +37244,13 @@ colecciones O
 ni O
 signos O
 de O
-recidiva O
-tumoral O
+recidiva B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
-Otros B-ENFERMEDAD
-tres I-ENFERMEDAD
-meses I-ENFERMEDAD
+Otros O
+tres O
+meses O
 después O
 , O
 el O
@@ -38607,7 +38607,7 @@ aunque O
 en O
 zonas O
 el O
-tumor O
+tumor B-ENFERMEDAD
 contacta O
 con O
 el O
@@ -38699,13 +38699,13 @@ ellos O
 existe O
 resto O
 de O
-tumor O
-papilar O
+tumor B-ENFERMEDAD
+papilar I-ENFERMEDAD
 fulgurado O
 adosado O
 . O
 
-Diagnóstico B-ENFERMEDAD
+Diagnóstico O
 Final O
 
 Carcinoma B-ENFERMEDAD
@@ -41304,13 +41304,13 @@ po O
 tencialmente O
 causantes O
 del O
-cuadro O
-séptico O
+cuadro B-ENFERMEDAD
+séptico I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-resto I-ENFERMEDAD
-del I-ENFERMEDAD
+El O
+resto O
+del O
 postoperatorio O
 transcurre O
 sin O
@@ -42472,11 +42472,11 @@ lesiones B-ENFERMEDAD
 metastásicas I-ENFERMEDAD
 hepáticas I-ENFERMEDAD
 ( O
-M1 O
+M1 B-ENFERMEDAD
 ) O
 . O
 
-Tratamiento B-ENFERMEDAD
+Tratamiento O
 complementario O
 : O
 quimioterapia O
@@ -43092,7 +43092,7 @@ sin O
 evidencia O
 clínica O
 de O
-varicocele O
+varicocele B-ENFERMEDAD
 . O
 
 Padecimiento O
@@ -43549,12 +43549,12 @@ ninguna O
 clínica O
 sugestiva O
 de O
-infección O
+infección B-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
-las I-ENFERMEDAD
-24 I-ENFERMEDAD
+A O
+las O
+24 O
 horas O
 acude O
 con O
@@ -44821,7 +44821,7 @@ pleural O
 es O
 compatible O
 con O
-adenocarcinoma O
+adenocarcinoma B-ENFERMEDAD
 . O
 
 No O
@@ -45470,12 +45470,12 @@ subdural I-ENFERMEDAD
 sin O
 signos O
 de O
-espondilodiscitis O
+espondilodiscitis B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-control I-ENFERMEDAD
-posterior I-ENFERMEDAD
+El O
+control O
+posterior O
 en O
 base O
 a O
@@ -45555,8 +45555,8 @@ la O
 total O
 resolución O
 del O
-empiema O
-subdural O
+empiema B-ENFERMEDAD
+subdural I-ENFERMEDAD
 . O
 
 Como O
@@ -48039,11 +48039,11 @@ testículo O
 derecho O
 sospechoso O
 de O
-neoplasia O
+neoplasia B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-exploración I-ENFERMEDAD
+La O
+exploración O
 física O
 y O
 los O
@@ -48703,11 +48703,11 @@ endodérmico I-ENFERMEDAD
 , O
 coriocarcinoma B-ENFERMEDAD
 y O
-teratoma O
+teratoma B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-bazo I-ENFERMEDAD
+El O
+bazo O
 media O
 15x7x3 O
 cm O
@@ -50248,8 +50248,8 @@ naturaleza I-ENFERMEDAD
 metastásica I-ENFERMEDAD
 o O
 de O
-tuberculosis O
-activa O
+tuberculosis B-ENFERMEDAD
+activa I-ENFERMEDAD
 . O
 
 Antecedentes O
@@ -50279,10 +50279,10 @@ AINE O
 s O
 . O
 
-Mantoux B-ENFERMEDAD
-( I-ENFERMEDAD
-prueba I-ENFERMEDAD
-de I-ENFERMEDAD
+Mantoux O
+( O
+prueba O
+de O
 tuberculina O
 ) O
 negativa O
@@ -50431,20 +50431,20 @@ parénquima O
 mostraba O
 señales O
 de O
-pielonefritis O
-con O
-discreta O
-atrofia O
+pielonefritis B-ENFERMEDAD
+con I-ENFERMEDAD
+discreta I-ENFERMEDAD
+atrofia I-ENFERMEDAD
 . O
 
-Márgenes B-ENFERMEDAD
-quirúrgicas I-ENFERMEDAD
-libres I-ENFERMEDAD
-de I-ENFERMEDAD
-tumor I-ENFERMEDAD
+Márgenes O
+quirúrgicas O
+libres O
+de O
+tumor B-ENFERMEDAD
 . O
 
-Conclusión B-ENFERMEDAD
+Conclusión O
 : O
 adenocarcinoma B-ENFERMEDAD
 mucinoso I-ENFERMEDAD
@@ -50653,10 +50653,10 @@ laparotomía O
 exploradora O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
+Tras O
 realizar O
 laparotomía O
 media O
@@ -51353,7 +51353,7 @@ persistencia O
 del O
 tamaño O
 del O
-hematoma O
+hematoma B-ENFERMEDAD
 en O
 Tac O
 de O
@@ -51616,10 +51616,10 @@ izquierdo O
 . O
 
 No O
-HTA O
+HTA B-ENFERMEDAD
 . O
 
-Leoch B-ENFERMEDAD
+Leoch O
 de O
 litiasis B-ENFERMEDAD
 de I-ENFERMEDAD
@@ -51752,7 +51752,7 @@ conservador O
 , O
 reabsorbiéndose O
 el O
-hematoma O
+hematoma B-ENFERMEDAD
 casi O
 completamente O
 en O
@@ -51772,7 +51772,7 @@ aprecian O
 pequeños O
 restos O
 de O
-hematoma O
+hematoma B-ENFERMEDAD
 . O
 
 Varón O
@@ -54080,15 +54080,15 @@ diferencial O
 entre O
 linfoma B-ENFERMEDAD
 , O
-ca O
-. O
+ca B-ENFERMEDAD
+. I-ENFERMEDAD
 
-de B-ENFERMEDAD
-células I-ENFERMEDAD
-pequeñas I-ENFERMEDAD
-anaplásico I-ENFERMEDAD
-, I-ENFERMEDAD
-y I-ENFERMEDAD
+de O
+células O
+pequeñas O
+anaplásico O
+, O
+y O
 un O
 tumor B-ENFERMEDAD
 neuroectodérmico I-ENFERMEDAD
@@ -54544,12 +54544,12 @@ la O
 desaparición O
 de O
 las O
-adenopatías O
+adenopatías B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-un I-ENFERMEDAD
-control I-ENFERMEDAD
+Tras O
+un O
+control O
 de O
 24 O
 meses O
@@ -55978,10 +55978,10 @@ escasa O
 respuesta O
 de O
 las O
-letálides O
+letálides B-ENFERMEDAD
 . O
 
-Actualmente B-ENFERMEDAD
+Actualmente O
 está O
 en O
 tratamiento O
@@ -61879,14 +61879,14 @@ en O
 la O
 coagulación O
 ni O
-fallo O
-hepático O
+fallo B-ENFERMEDAD
+hepático I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-nivel I-ENFERMEDAD
-de I-ENFERMEDAD
-metahemoglobinemia I-ENFERMEDAD
+El O
+nivel O
+de O
+metahemoglobinemia O
 no O
 se O
 determinó O
@@ -64389,7 +64389,7 @@ planta O
 para O
 extirpación O
 del O
-adenoma O
+adenoma B-ENFERMEDAD
 
 Mujer O
 de O
@@ -65030,7 +65030,7 @@ hacer O
 un O
 diagnóstico O
 de O
-SB O
+SB B-ENFERMEDAD
 . O
 
 Varón O
@@ -65185,10 +65185,10 @@ un O
 patrón O
 electrocardiográfico O
 de O
-SB O
+SB B-ENFERMEDAD
 . O
 
-Cinco B-ENFERMEDAD
+Cinco O
 horas O
 más O
 tarde O
@@ -65338,7 +65338,7 @@ V4 O
 sugerente O
 de O
 un O
-SRP O
+SRP B-ENFERMEDAD
 . O
 
 Varón O
@@ -65797,10 +65797,10 @@ V5 O
 que O
 sugerían O
 un O
-SRP O
+SRP B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
+La O
 creatinquinasa O
 ascendió O
 hasta O
@@ -72191,14 +72191,14 @@ TAB B-ENFERMEDAD
 tipo O
 II O
 y O
-catatonia O
-maligna O
+catatonia B-ENFERMEDAD
+maligna I-ENFERMEDAD
 . O
 
-Al B-ENFERMEDAD
-alta I-ENFERMEDAD
-la I-ENFERMEDAD
-paciente I-ENFERMEDAD
+Al O
+alta O
+la O
+paciente O
 se O
 encontraba O
 eutímica O
@@ -72833,13 +72833,13 @@ presentar O
 ánimo O
 bajo O
 , O
-ansiedad O
+ansiedad B-ENFERMEDAD
 y O
 apatía O
 . O
 
-El B-ENFERMEDAD
-paciente I-ENFERMEDAD
+El O
+paciente O
 había O
 permanecido O
 desde O
@@ -73144,15 +73144,15 @@ de O
 ansiedad B-ENFERMEDAD
 e O
 intensos O
-temores O
-hipocondríacos O
+temores B-ENFERMEDAD
+hipocondríacos I-ENFERMEDAD
 . O
 
-Tanto B-ENFERMEDAD
-él I-ENFERMEDAD
-como I-ENFERMEDAD
-la I-ENFERMEDAD
-familia I-ENFERMEDAD
+Tanto O
+él O
+como O
+la O
+familia O
 demandan O
 otro O
 tratamiento O
@@ -73487,11 +73487,11 @@ una O
 Hemorragia B-ENFERMEDAD
 Subaracnoidea I-ENFERMEDAD
 ( O
-HSA O
+HSA B-ENFERMEDAD
 ) O
 . O
 
-El B-ENFERMEDAD
+El O
 TAC O
 revela O
 afectación O
@@ -73614,7 +73614,7 @@ Evolución O
 del O
 caso O
 tras O
-HSA O
+HSA B-ENFERMEDAD
 . O
 
 Antecedentes O
@@ -73631,7 +73631,7 @@ Subaracnoidea I-ENFERMEDAD
 HSA B-ENFERMEDAD
 ) O
 
-Posteriormente B-ENFERMEDAD
+Posteriormente O
 requiere O
 varios O
 ingresos O
@@ -73726,16 +73726,16 @@ congruentes I-ENFERMEDAD
 " O
 ; O
 " O
-Abuso O
-de O
-alcohol O
+Abuso B-ENFERMEDAD
+de I-ENFERMEDAD
+alcohol I-ENFERMEDAD
 " O
 . O
 
-En B-ENFERMEDAD
-febrero I-ENFERMEDAD
-de I-ENFERMEDAD
-2012 I-ENFERMEDAD
+En O
+febrero O
+de O
+2012 O
 ingresa O
 en O
 UME O
@@ -73962,7 +73962,7 @@ cristales O
 Las O
 características O
 del O
-DC O
+DC B-ENFERMEDAD
 se O
 recogen O
 en O
@@ -73971,7 +73971,7 @@ tabla O
 1 O
 . O
 
-Destacar B-ENFERMEDAD
+Destacar O
 que O
 aunque O
 al O
@@ -74010,10 +74010,10 @@ del O
 episodio O
 de O
 la O
-HSA O
+HSA B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
+La O
 estabilización O
 psicopatológica O
 se O
@@ -74835,8 +74835,8 @@ dudas O
 respecto O
 a O
 la O
-evitación O
-social O
+evitación B-ENFERMEDAD
+social I-ENFERMEDAD
 ( O
 ¿ O
 incómoda O
@@ -74844,11 +74844,11 @@ vs O
 . O
 
 ansiosa B-ENFERMEDAD
-? I-ENFERMEDAD
-) I-ENFERMEDAD
-, I-ENFERMEDAD
-y I-ENFERMEDAD
-en I-ENFERMEDAD
+? O
+) O
+, O
+y O
+en O
 cuanto O
 al O
 deseo O
@@ -74937,31 +74937,31 @@ II O
 
 - O
 Criterios O
-Trastorno O
-Esquizoide O
-de O
-la O
-Personalidad O
+Trastorno B-ENFERMEDAD
+Esquizoide I-ENFERMEDAD
+de I-ENFERMEDAD
+la I-ENFERMEDAD
+Personalidad I-ENFERMEDAD
 : O
 4 O
 / O
 5 O
 . O
 
-Próxima B-ENFERMEDAD
-a I-ENFERMEDAD
-punto I-ENFERMEDAD
-de I-ENFERMEDAD
-corte I-ENFERMEDAD
-. I-ENFERMEDAD
+Próxima O
+a O
+punto O
+de O
+corte O
+. O
 
 - O
 Criterios O
-Trastorno O
-Evitativo O
-de O
-la O
-Personalidad O
+Trastorno B-ENFERMEDAD
+Evitativo I-ENFERMEDAD
+de I-ENFERMEDAD
+la I-ENFERMEDAD
+Personalidad I-ENFERMEDAD
 : O
 5 O
 / O
@@ -74977,11 +74977,11 @@ la O
 hermana O
 . O
 
-Cumple B-ENFERMEDAD
-punto I-ENFERMEDAD
-de I-ENFERMEDAD
-corte I-ENFERMEDAD
-. I-ENFERMEDAD
+Cumple O
+punto O
+de O
+corte O
+. O
 
 • O
 Pruebas O
@@ -75374,10 +75374,10 @@ perfil O
 observado O
 en O
 pacientes O
-TEA O
-de O
-alto O
-funcionamiento O
+TEA B-ENFERMEDAD
+de I-ENFERMEDAD
+alto I-ENFERMEDAD
+funcionamiento I-ENFERMEDAD
 ( O
 1 O
 ) O
@@ -76001,12 +76001,12 @@ la O
 presencia O
 de O
 una O
-leucodistrofia O
+leucodistrofia B-ENFERMEDAD
 . O
 
-Durante B-ENFERMEDAD
-su I-ENFERMEDAD
-estancia I-ENFERMEDAD
+Durante O
+su O
+estancia O
 en O
 Neurología O
 el O
@@ -77141,12 +77141,12 @@ Se O
 corrigen O
 valores O
 de O
-hipo O
-- O
-Ca O
+hipo B-ENFERMEDAD
+- I-ENFERMEDAD
+Ca I-ENFERMEDAD
 . O
 
-Colagenograma B-ENFERMEDAD
+Colagenograma O
 y O
 coagulograma O
 normales O
@@ -77311,13 +77311,13 @@ moderado O
 , O
 compatible O
 con O
-neuropatía O
-óptica O
+neuropatía B-ENFERMEDAD
+óptica I-ENFERMEDAD
 . O
 
-Agudeza B-ENFERMEDAD
-visual I-ENFERMEDAD
-: I-ENFERMEDAD
+Agudeza O
+visual O
+: O
 0 O
 , O
 5 O
@@ -77407,9 +77407,9 @@ bulto O
 en O
 OD O
 y O
-amaurosis O
-del O
-OI O
+amaurosis B-ENFERMEDAD
+del I-ENFERMEDAD
+OI I-ENFERMEDAD
 . O
 
 Ingresa O
@@ -77421,10 +77421,10 @@ los O
 años O
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
-fondo I-ENFERMEDAD
-de I-ENFERMEDAD
+En O
+el O
+fondo O
+de O
 ojo O
 a O
 los O
@@ -77669,10 +77669,10 @@ que O
 fuera O
 diagnosticado O
 el O
-SSp O
+SSp B-ENFERMEDAD
 . O
 
-También B-ENFERMEDAD
+También O
 había O
 presentado O
 , O
@@ -78690,12 +78690,12 @@ creatininuria O
 , O
 1 O
 sin O
-síndrome O
-nefrótico O
+síndrome B-ENFERMEDAD
+nefrótico I-ENFERMEDAD
 . O
 
-Únicamente B-ENFERMEDAD
-cabía I-ENFERMEDAD
+Únicamente O
+cabía O
 destacar O
 en O
 el O
@@ -80675,7 +80675,7 @@ sangre O
 periférica O
 compatible O
 con O
-LLP O
+LLP B-ENFERMEDAD
 . O
 
 Se O
@@ -81315,7 +81315,7 @@ inmediata O
 de O
 éste O
 el O
-shock O
+shock B-ENFERMEDAD
 refractario O
 a O
 tratamiento O
@@ -82018,10 +82018,10 @@ epitelioides O
 ; O
 compatible O
 con O
-EC O
+EC B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
+En O
 la O
 mucosa O
 del O
@@ -82229,7 +82229,7 @@ tratamiento O
 etiológico O
 de O
 la O
-EC O
+EC B-ENFERMEDAD
 basado O
 en O
 infliximab O
@@ -82706,9 +82706,9 @@ la O
 región O
 radial O
 un O
-aneurisma O
+aneurisma B-ENFERMEDAD
 o O
-pseudoaneurisma O
+pseudoaneurisma B-ENFERMEDAD
 de O
 62 O
 milímetros O
@@ -83215,12 +83215,12 @@ compontente O
 vascular O
 no O
 tenían O
-lesiones O
+lesiones B-ENFERMEDAD
 » O
 . O
 
-El B-ENFERMEDAD
-diagnóstico I-ENFERMEDAD
+El O
+diagnóstico O
 final O
 fue O
 de O
@@ -83229,11 +83229,11 @@ de I-ENFERMEDAD
 cambios I-ENFERMEDAD
 mínimos I-ENFERMEDAD
 ( O
-NCM O
+NCM B-ENFERMEDAD
 ) O
 . O
 
-Con B-ENFERMEDAD
+Con O
 los O
 hallazgos O
 de O
@@ -85262,8 +85262,8 @@ como O
 manejo O
 de O
 la O
-crisis O
-falciforme O
+crisis B-ENFERMEDAD
+falciforme I-ENFERMEDAD
 . O
 
 Diez O
@@ -91421,7 +91421,7 @@ otras O
 causas O
 secundarias O
 de O
-HTA O
+HTA B-ENFERMEDAD
 en O
 estudios O
 anteriores O
@@ -94047,10 +94047,10 @@ el O
 diagnóstico O
 de O
 la O
-EF O
+EF B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
+La O
 actividad O
 de O
 la O
@@ -95541,13 +95541,13 @@ distal I-ENFERMEDAD
 autosómica I-ENFERMEDAD
 dominante I-ENFERMEDAD
 ( O
-ATR O
-- O
-AD O
+ATR B-ENFERMEDAD
+- I-ENFERMEDAD
+AD I-ENFERMEDAD
 ) O
 . O
 
-Dicha B-ENFERMEDAD
+Dicha O
 mutación O
 ( O
 c O
@@ -95991,7 +95991,7 @@ era O
 normal O
 . O
 
-El B-ENFERMEDAD
+El O
 estado O
 ácido O
 - O
@@ -96372,7 +96372,7 @@ no O
 selectiva O
 , O
 indicando O
-DTP O
+DTP B-ENFERMEDAD
 . O
 
 Una O
@@ -97099,11 +97099,11 @@ mostró O
 la O
 existencia O
 de O
-arritmias O
+arritmias B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-gasometría I-ENFERMEDAD
+La O
+gasometría O
 arterial O
 era O
 similar O
@@ -97120,11 +97120,11 @@ grave I-ENFERMEDAD
 con O
 hipomagnesemia B-ENFERMEDAD
 e O
-hipopotasemia O
+hipopotasemia B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-administraron I-ENFERMEDAD
+Se O
+administraron O
 sales O
 de O
 fosfato O
@@ -97305,14 +97305,14 @@ síntomas O
 o O
 signos O
 de O
-insuficiencia O
-suprarrenal O
+insuficiencia B-ENFERMEDAD
+suprarrenal I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-cortisol I-ENFERMEDAD
-tras I-ENFERMEDAD
-estímulo I-ENFERMEDAD
+El O
+cortisol O
+tras O
+estímulo O
 con O
 ACTH O
 ( O
@@ -99770,13 +99770,13 @@ demostró O
 desprendimiento B-ENFERMEDAD
 placentario I-ENFERMEDAD
 y O
-muerte O
-fetal O
+muerte B-ENFERMEDAD
+fetal I-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
-la I-ENFERMEDAD
-pérdida I-ENFERMEDAD
+Con O
+la O
+pérdida O
 del O
 producto O
 y O
@@ -99879,7 +99879,7 @@ gestación O
 sin O
 evidencia O
 de O
-malformaciones O
+malformaciones B-ENFERMEDAD
 . O
 
 Mediante O
@@ -102274,12 +102274,12 @@ intolerancia O
 . O
 
 Niega O
-hábitos O
-tóxicos O
+hábitos B-ENFERMEDAD
+tóxicos I-ENFERMEDAD
 . O
 
-Nuligesta B-ENFERMEDAD
-. I-ENFERMEDAD
+Nuligesta O
+. O
 
 Analíticamente O
 , O
@@ -102622,16 +102622,16 @@ control O
 no O
 se O
 observa O
-líquido O
-libre O
-en O
-abdomen O
+líquido B-ENFERMEDAD
+libre I-ENFERMEDAD
+en I-ENFERMEDAD
+abdomen I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-ha I-ENFERMEDAD
-presentado I-ENFERMEDAD
-nuevos I-ENFERMEDAD
+No O
+ha O
+presentado O
+nuevos O
 episodios O
 de O
 ascitis B-ENFERMEDAD
@@ -105259,7 +105259,7 @@ abdominal O
 , O
 oliguria O
 e O
-hiperglucemia O
+hiperglucemia B-ENFERMEDAD
 . O
 
 Varón O
@@ -105279,9 +105279,9 @@ quilotórax B-ENFERMEDAD
 posquirúrgico I-ENFERMEDAD
 . O
 
-Ante B-ENFERMEDAD
-la I-ENFERMEDAD
-sospecha I-ENFERMEDAD
+Ante O
+la O
+sospecha O
 de O
 reacción B-ENFERMEDAD
 adversa I-ENFERMEDAD
@@ -108543,10 +108543,10 @@ confirmando O
 el O
 diagnóstico O
 de O
-PLE O
+PLE B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
+Tras O
 tratamiento O
 con O
 azatioprina O
@@ -109269,11 +109269,11 @@ equilibrio O
 base O
 y O
 la O
-hipernatremia O
+hipernatremia B-ENFERMEDAD
 . O
 
-Sin B-ENFERMEDAD
-embargo I-ENFERMEDAD
+Sin O
+embargo O
 fue O
 necesario O
 mantener O
@@ -113577,10 +113577,10 @@ presentado O
 ningún O
 brote O
 de O
-CU O
+CU B-ENFERMEDAD
 . O
 
-Refería B-ENFERMEDAD
+Refería O
 2 O
 - O
 3 O
@@ -115364,12 +115364,12 @@ diagnóstico O
 diferencial O
 toxoplasmosis B-ENFERMEDAD
 / O
-linfoma O
+linfoma B-ENFERMEDAD
 ) O
 . O
 
-Se B-ENFERMEDAD
-inició I-ENFERMEDAD
+Se O
+inició O
 tratamiento O
 con O
 Ganciclovir O
@@ -115863,11 +115863,11 @@ izquierdo O
 sin O
 evidencia O
 de O
-neumotórax O
+neumotórax B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-evolución I-ENFERMEDAD
+La O
+evolución O
 fue O
 favorable O
 con O
@@ -116253,7 +116253,7 @@ muestras O
 del O
 contenido O
 del O
-absceso O
+absceso B-ENFERMEDAD
 para O
 cultivo O
 donde O
@@ -116363,7 +116363,7 @@ las O
 cavidades O
 de O
 los O
-abscesos O
+abscesos B-ENFERMEDAD
 . O
 
 Desde O
@@ -116590,11 +116590,11 @@ HV O
 , O
 toxoplasma O
 y O
-lúes O
+lúes B-ENFERMEDAD
 ) O
 . O
 
-En B-ENFERMEDAD
+En O
 el O
 estudio O
 inmunológico O
@@ -119041,11 +119041,11 @@ derecha O
 No O
 se O
 palpaban O
-adenopatías O
+adenopatías B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-auscultación I-ENFERMEDAD
+La O
+auscultación O
 cardiopulmonar O
 era O
 normal O
@@ -119475,15 +119475,15 @@ serie O
 metastásica O
 se O
 apreció O
-osteosclerosis O
-generalizada O
+osteosclerosis B-ENFERMEDAD
+generalizada I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-rastreo I-ENFERMEDAD
-óseo I-ENFERMEDAD
-mostró I-ENFERMEDAD
-refuerzo I-ENFERMEDAD
+El O
+rastreo O
+óseo O
+mostró O
+refuerzo O
 de O
 actividad O
 en O
@@ -119499,7 +119499,7 @@ parietal O
 , O
 compatible O
 con O
-hiperostosis O
+hiperostosis B-ENFERMEDAD
 . O
 
 El O
@@ -119540,8 +119540,8 @@ arteritis B-ENFERMEDAD
 temporal I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-biopsia I-ENFERMEDAD
+La O
+biopsia O
 de O
 cresta O
 iliaca O
@@ -119637,13 +119637,13 @@ hacia O
 el O
 origen O
 del O
-tumor O
-primario O
+tumor B-ENFERMEDAD
+primario I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-indicó I-ENFERMEDAD
-tratamiento I-ENFERMEDAD
+Se O
+indicó O
+tratamiento O
 radioterápico O
 craneal O
 que O
@@ -119661,14 +119661,14 @@ la O
 sospecha O
 de O
 un O
-tumor O
-mamario O
+tumor B-ENFERMEDAD
+mamario I-ENFERMEDAD
 . O
 
-De B-ENFERMEDAD
-hecho I-ENFERMEDAD
-, I-ENFERMEDAD
-unos I-ENFERMEDAD
+De O
+hecho O
+, O
+unos O
 meses O
 después O
 de O
@@ -120237,10 +120237,10 @@ tórax O
 mostraba O
 signos O
 de O
-ICC O
+ICC B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 realizaron O
 hemocultivos O
 seriados O
@@ -121269,7 +121269,7 @@ descendente O
 proximal O
 para O
 descartar O
-colitis O
+colitis B-ENFERMEDAD
 macroscópica O
 . O
 
@@ -121336,19 +121336,19 @@ hipocinesia O
 global O
 . O
 
-Insuficiencia O
-mitral O
-ligera O
+Insuficiencia B-ENFERMEDAD
+mitral I-ENFERMEDAD
+ligera I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-datos I-ENFERMEDAD
-de I-ENFERMEDAD
-amiloidosis I-ENFERMEDAD
-. I-ENFERMEDAD
+No O
+datos O
+de O
+amiloidosis B-ENFERMEDAD
+. O
 
-Estudio B-ENFERMEDAD
-arritmológico I-ENFERMEDAD
+Estudio O
+arritmológico O
 : O
 marcapasos O
 VDD O
@@ -122908,15 +122908,15 @@ articulación O
 esternal O
 compatible O
 con O
-artritis O
+artritis B-ENFERMEDAD
 a O
 ese O
 nivel O
 . O
 
-Se B-ENFERMEDAD
-le I-ENFERMEDAD
-practicó I-ENFERMEDAD
+Se O
+le O
+practicó O
 una O
 RMN O
 del O
@@ -122985,12 +122985,12 @@ y O
 muy O
 sugerentes O
 de O
-osteomielitis O
+osteomielitis B-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-había I-ENFERMEDAD
-signos I-ENFERMEDAD
+No O
+había O
+signos O
 de O
 destrucción O
 ósea O
@@ -124144,11 +124144,11 @@ patrón O
 vascular O
 compatibles O
 con O
-hemangiomas O
+hemangiomas B-ENFERMEDAD
 . O
 
 Lesión B-ENFERMEDAD
-de I-ENFERMEDAD
+de O
 1 O
 , O
 1 O
@@ -124172,7 +124172,7 @@ suprarrenal O
 izquierda O
 sugestiva O
 de O
-adenoma O
+adenoma B-ENFERMEDAD
 . O
 
 Lesión B-ENFERMEDAD
@@ -124192,8 +124192,8 @@ posiblemente O
 en O
 relación O
 con O
-tumor O
-primario O
+tumor B-ENFERMEDAD
+primario I-ENFERMEDAD
 . O
 
 Implantes B-ENFERMEDAD
@@ -130622,7 +130622,7 @@ esteatosis B-ENFERMEDAD
 hepática I-ENFERMEDAD
 y O
 discreta O
-esplenomegalia O
+esplenomegalia B-ENFERMEDAD
 . O
 
 Mujer O
@@ -130663,9 +130663,9 @@ of O
 Rheumatology O
 . O
 
-Además B-ENFERMEDAD
-de I-ENFERMEDAD
-drenaje I-ENFERMEDAD
+Además O
+de O
+drenaje O
 y O
 lavado O
 de O
@@ -131874,10 +131874,10 @@ parénquima O
 hepático O
 que O
 sugerían O
-abscesos O
+abscesos B-ENFERMEDAD
 . O
 
-Ecocardiograma B-ENFERMEDAD
+Ecocardiograma O
 transtorácico O
 y O
 transesofágico O
@@ -132064,8 +132064,8 @@ el O
 germen O
 responsable O
 del O
-cuadro O
-séptico O
+cuadro B-ENFERMEDAD
+séptico I-ENFERMEDAD
 . O
 
 Durante O
@@ -132701,17 +132701,17 @@ Serología O
 virus O
 VIH O
 , O
-hepatitis O
-B O
-y O
-C O
+hepatitis B-ENFERMEDAD
+B I-ENFERMEDAD
+y I-ENFERMEDAD
+C I-ENFERMEDAD
 negativos O
 . O
 
-ZN B-ENFERMEDAD
-de I-ENFERMEDAD
-esputo I-ENFERMEDAD
-negativo I-ENFERMEDAD
+ZN O
+de O
+esputo O
+negativo O
 . O
 
 La O
@@ -132835,11 +132835,11 @@ de O
 tórax O
 se O
 evidencia O
-cardiomegalia O
+cardiomegalia B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-radiografía I-ENFERMEDAD
+La O
+radiografía O
 de O
 raquis O
 presentaba O
@@ -132859,16 +132859,16 @@ lumbar O
 correspondía O
 a O
 un O
-infarto O
-óseo O
-en O
-L4 O
+infarto B-ENFERMEDAD
+óseo I-ENFERMEDAD
+en I-ENFERMEDAD
+L4 I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
-ecografía I-ENFERMEDAD
-abdominal I-ENFERMEDAD
+En O
+la O
+ecografía O
+abdominal O
 no O
 había O
 hallazgos O
@@ -132885,13 +132885,13 @@ solo O
 se O
 evidenció O
 un O
-derrame O
-pericárdico O
+derrame B-ENFERMEDAD
+pericárdico I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-gastroscopia I-ENFERMEDAD
-era I-ENFERMEDAD
+La O
+gastroscopia O
+era O
 normal O
 y O
 en O
@@ -132899,17 +132899,17 @@ la O
 colonoscopia O
 se O
 observaron O
-divertículos O
+divertículos B-ENFERMEDAD
 , O
 y O
-hemorroides O
-internas O
+hemorroides B-ENFERMEDAD
+internas I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-ECG I-ENFERMEDAD
-mostro I-ENFERMEDAD
-ritmo I-ENFERMEDAD
+El O
+ECG O
+mostro O
+ritmo O
 sinusal O
 Fc O
 90 O
@@ -133107,17 +133107,17 @@ la O
 perfusión O
 que O
 sugieran O
-isquemia O
-o O
-necrosis O
-miocardica O
+isquemia B-ENFERMEDAD
+o I-ENFERMEDAD
+necrosis I-ENFERMEDAD
+miocardica I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-practicó I-ENFERMEDAD
-biopsia I-ENFERMEDAD
-arteria I-ENFERMEDAD
-temporal I-ENFERMEDAD
+Se O
+practicó O
+biopsia O
+arteria O
+temporal O
 observándose O
 un O
 infiltrado O
@@ -133165,8 +133165,8 @@ días O
 , O
 resolviéndose O
 el O
-derrame O
-pericárdico O
+derrame B-ENFERMEDAD
+pericárdico I-ENFERMEDAD
 en O
 3 O
 meses O
@@ -133374,11 +133374,11 @@ en O
 los O
 bordes O
 del O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-procedió I-ENFERMEDAD
+Se O
+procedió O
 a O
 la O
 realización O
@@ -133492,7 +133492,7 @@ quirúrgico O
 con O
 resección O
 del O
-tumor O
+tumor B-ENFERMEDAD
 y O
 posterior O
 anastomosis O
@@ -137947,12 +137947,12 @@ días O
 después O
 de O
 la O
-intoxicación O
+intoxicación B-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
-partir I-ENFERMEDAD
-de I-ENFERMEDAD
+A O
+partir O
+de O
 este O
 día O
 , O
@@ -139720,15 +139720,15 @@ II O
 , O
 secundario O
 a O
-daño O
-pulmonar O
-agudo O
+daño B-ENFERMEDAD
+pulmonar I-ENFERMEDAD
+agudo I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-pensó I-ENFERMEDAD
-que I-ENFERMEDAD
-podría I-ENFERMEDAD
+Se O
+pensó O
+que O
+podría O
 presentar O
 una O
 enfermedad B-ENFERMEDAD
@@ -139903,7 +139903,7 @@ de O
 malignidad O
 compatibles O
 con O
-adenocarcinoma O
+adenocarcinoma B-ENFERMEDAD
 . O
 
 Se O
@@ -139913,17 +139913,17 @@ de O
 histoquímica O
 confirmando O
 el O
-origen O
-pulmonar O
-del O
-adenocarcinoma B-ENFERMEDAD
+origen B-ENFERMEDAD
+pulmonar I-ENFERMEDAD
+del I-ENFERMEDAD
+adenocarcinoma I-ENFERMEDAD
 . O
 
-Actualmente B-ENFERMEDAD
-se I-ENFERMEDAD
-encuentra I-ENFERMEDAD
-en I-ENFERMEDAD
-tratamiento I-ENFERMEDAD
+Actualmente O
+se O
+encuentra O
+en O
+tratamiento O
 con O
 quimioterapia O
 con O
@@ -141191,14 +141191,14 @@ y O
 pies O
 no O
 mostraban O
-lesiones O
-erosivas O
+lesiones B-ENFERMEDAD
+erosivas I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
-TAC I-ENFERMEDAD
-torácica I-ENFERMEDAD
+En O
+la O
+TAC O
+torácica O
 en O
 el O
 segmento O
@@ -141449,17 +141449,17 @@ por O
 la O
 sospecha O
 de O
-enfermedad O
-de O
-Poncet O
+enfermedad B-ENFERMEDAD
+de I-ENFERMEDAD
+Poncet I-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
-los I-ENFERMEDAD
-3 I-ENFERMEDAD
-meses I-ENFERMEDAD
-de I-ENFERMEDAD
-iniciar I-ENFERMEDAD
+A O
+los O
+3 O
+meses O
+de O
+iniciar O
 los O
 tuberculostáticos O
 y O
@@ -143389,11 +143389,11 @@ como O
 leucoplasia B-ENFERMEDAD
 vellosa I-ENFERMEDAD
 ( O
-LV O
+LV B-ENFERMEDAD
 ) O
 . O
 
-La B-ENFERMEDAD
+La O
 paciente O
 dio O
 la O
@@ -143568,12 +143568,12 @@ de O
 la O
 biopsia O
 de O
-LV O
+LV B-ENFERMEDAD
 fue O
 confirmado O
 . O
 
-La B-ENFERMEDAD
+La O
 paciente O
 no O
 concurrió O
@@ -143628,7 +143628,7 @@ y O
 seguimiento O
 de O
 su O
-inmunodeficiencia O
+inmunodeficiencia B-ENFERMEDAD
 . O
 
 No O
@@ -144862,10 +144862,10 @@ riñón O
 compatibles O
 con O
 el O
-Linfoma O
+Linfoma B-ENFERMEDAD
 . O
 
-Además B-ENFERMEDAD
+Además O
 , O
 reactivación B-ENFERMEDAD
 del I-ENFERMEDAD
@@ -146456,13 +146456,13 @@ acceso O
 completo O
 a O
 la O
-cavidad O
-quística O
+cavidad B-ENFERMEDAD
+quística I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-encuentra I-ENFERMEDAD
-y I-ENFERMEDAD
+Se O
+encuentra O
+y O
 remueve O
 cápsula O
 fibrosa O
@@ -146470,8 +146470,8 @@ gruesa O
 que O
 recubre O
 el O
-defecto O
-óseo O
+defecto B-ENFERMEDAD
+óseo I-ENFERMEDAD
 . O
 
 Paciente O
@@ -146813,7 +146813,7 @@ y O
 se O
 resolvió O
 la O
-infección O
+infección B-ENFERMEDAD
 . O
 
 Intraoralmente O
@@ -146864,8 +146864,8 @@ inferiores O
 derechos O
 . O
 
-Además B-ENFERMEDAD
-presentó I-ENFERMEDAD
+Además O
+presentó O
 una O
 parestesia B-ENFERMEDAD
 del I-ENFERMEDAD
@@ -146937,8 +146937,8 @@ intruyeron O
 y O
 produjeron O
 una O
-mordida O
-abierta O
+mordida B-ENFERMEDAD
+abierta I-ENFERMEDAD
 . O
 
 Dos O
@@ -147493,10 +147493,10 @@ confirmaba O
 el O
 diagnóstico O
 de O
-NVSR O
+NVSR B-ENFERMEDAD
 . O
 
-Tanto B-ENFERMEDAD
+Tanto O
 en O
 la O
 AGF O
@@ -155280,11 +155280,11 @@ izquierdo O
 completa O
 ( O
 incluyendo O
-ptosis O
+ptosis B-ENFERMEDAD
 ) O
 . O
 
-Clínicamente B-ENFERMEDAD
+Clínicamente O
 se O
 manifestaba O
 con O
@@ -156982,7 +156982,7 @@ pero O
 sin O
 datos O
 de O
-DG O
+DG B-ENFERMEDAD
 . O
 
 En O
@@ -160456,7 +160456,7 @@ el O
 gran O
 tamaño O
 del O
-coloboma O
+coloboma B-ENFERMEDAD
 del O
 OD O
 . O
@@ -160488,8 +160488,8 @@ el O
 dominante O
 . O
 
-Sería B-ENFERMEDAD
-interesante I-ENFERMEDAD
+Sería O
+interesante O
 hacer O
 una O
 ecografía O
@@ -162769,11 +162769,11 @@ parte O
 más O
 inferior O
 del O
-hematoma O
+hematoma B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-hialoides I-ENFERMEDAD
+La O
+hialoides B-ENFERMEDAD
 posterior I-ENFERMEDAD
 se I-ENFERMEDAD
 rompió I-ENFERMEDAD
@@ -163971,14 +163971,14 @@ hipertonía B-ENFERMEDAD
 de I-ENFERMEDAD
 extremidades I-ENFERMEDAD
 e O
-hipotonía O
-cervicoaxial O
+hipotonía B-ENFERMEDAD
+cervicoaxial I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-hay I-ENFERMEDAD
-control I-ENFERMEDAD
-cefálico I-ENFERMEDAD
+No O
+hay O
+control O
+cefálico O
 ni O
 sedestación O
 . O
@@ -164100,17 +164100,17 @@ se O
 realiza O
 traqueostomía O
 por O
-laringotraqueomalacia O
+laringotraqueomalacia B-ENFERMEDAD
 . O
 
-Fallece B-ENFERMEDAD
-al I-ENFERMEDAD
-sexto I-ENFERMEDAD
-día I-ENFERMEDAD
+Fallece O
+al O
+sexto O
+día O
 del O
 postoperatorio O
 por O
-neumonía O
+neumonía B-ENFERMEDAD
 . O
 
 Detección O
@@ -164842,7 +164842,7 @@ de O
 , O
 viscodisección O
 del O
-quiste O
+quiste B-ENFERMEDAD
 para O
 separarlo O
 del O
@@ -164991,7 +164991,7 @@ de O
 recidiva O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Un O
@@ -165247,9 +165247,9 @@ así O
 la O
 sospecha O
 de O
-Síndrome O
-de O
-Alagille O
+Síndrome B-ENFERMEDAD
+de I-ENFERMEDAD
+Alagille I-ENFERMEDAD
 . O
 
 En O
@@ -166043,7 +166043,7 @@ pendiente O
 de O
 intervención O
 de O
-catarata O
+catarata B-ENFERMEDAD
 . O
 
 Un O
@@ -166328,11 +166328,11 @@ poner O
 en O
 evidencia O
 otras O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
-Un B-ENFERMEDAD
-profundo I-ENFERMEDAD
+Un O
+profundo O
 estudio O
 en O
 busca O
@@ -166440,11 +166440,11 @@ sarcoidosis B-ENFERMEDAD
 ni O
 de O
 una O
-tuberculosis O
+tuberculosis B-ENFERMEDAD
 . O
 
-Teniendo B-ENFERMEDAD
-en I-ENFERMEDAD
+Teniendo O
+en O
 cuenta O
 la O
 anamnesis O
@@ -166644,13 +166644,13 @@ día O
 para O
 disminuir O
 el O
-espasmo O
-ciliar O
+espasmo B-ENFERMEDAD
+ciliar I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-examen I-ENFERMEDAD
-de I-ENFERMEDAD
+El O
+examen O
+de O
 control O
 del O
 OI O
@@ -166965,11 +166965,11 @@ resección O
 completa O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-estudio I-ENFERMEDAD
+El O
+estudio O
 anatomopatológico O
 de O
 la O
@@ -167352,12 +167352,12 @@ tamaño O
 del O
 foco O
 de O
-retinitis O
+retinitis B-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
-las I-ENFERMEDAD
-2 I-ENFERMEDAD
+A O
+las O
+2 O
 semanas O
 se O
 pasa O
@@ -167844,7 +167844,7 @@ de O
 sospecha O
 de O
 una O
-MNVSR O
+MNVSR B-ENFERMEDAD
 . O
 
 La O
@@ -168602,7 +168602,7 @@ visual O
 y O
 controlar O
 su O
-foria O
+foria B-ENFERMEDAD
 . O
 
 En O
@@ -173759,7 +173759,7 @@ se O
 observaban O
 signos O
 de O
-vasculitis O
+vasculitis B-ENFERMEDAD
 . O
 
 Se O
@@ -173864,7 +173864,7 @@ la O
 semana O
 desapareció O
 la O
-diplopía O
+diplopía B-ENFERMEDAD
 . O
 
 En O
@@ -175320,8 +175320,8 @@ el O
 paciente O
 clínica O
 de O
-cierre O
-angular O
+cierre B-ENFERMEDAD
+angular I-ENFERMEDAD
 . O
 
 Varón O
@@ -178510,10 +178510,10 @@ de O
 aspecto O
 inactivo O
 sin O
-escleritis O
+escleritis B-ENFERMEDAD
 . O
 
-Actualmente B-ENFERMEDAD
+Actualmente O
 mantiene O
 tratamiento O
 con O
@@ -178837,10 +178837,10 @@ remisión O
 clínica O
 de O
 la O
-AR O
+AR B-ENFERMEDAD
 . O
 
-A B-ENFERMEDAD
+A O
 los O
 10 O
 meses O
@@ -179110,11 +179110,11 @@ resolución O
 completa O
 de O
 la O
-quemosis O
+quemosis B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-histología I-ENFERMEDAD
+La O
+histología O
 de O
 la O
 tumoración O
@@ -179238,8 +179238,8 @@ falleciendo O
 debido O
 a O
 la O
-insuficiencia O
-respiratoria O
+insuficiencia B-ENFERMEDAD
+respiratoria I-ENFERMEDAD
 progresiva O
 que O
 presentaba O
@@ -179544,7 +179544,7 @@ la O
 periferia O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Varón O
@@ -179758,7 +179758,7 @@ y O
 hemorragia B-ENFERMEDAD
 vítrea I-ENFERMEDAD
 ( O
-HV O
+HV B-ENFERMEDAD
 ) O
 . O
 
@@ -181507,7 +181507,7 @@ sanguíneo O
 activo O
 en O
 la O
-AHP O
+AHP B-ENFERMEDAD
 . O
 
 Mujer O
@@ -181534,7 +181534,7 @@ OI I-ENFERMEDAD
 ambliope I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
+El O
 hemograma O
 y O
 las O
@@ -184880,7 +184880,7 @@ OI O
 compatible O
 con O
 una O
-NVC O
+NVC B-ENFERMEDAD
 . O
 
 En O
@@ -185231,10 +185231,10 @@ hemorragias O
 , O
 compatible O
 con O
-NVC O
+NVC B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 realizaron O
 , O
 por O
@@ -186222,7 +186222,7 @@ manteniéndose O
 las O
 características O
 del O
-AM O
+AM B-ENFERMEDAD
 . O
 
 Se O
@@ -187236,7 +187236,7 @@ amarillento O
 , O
 con O
 otro O
-HCR O
+HCR B-ENFERMEDAD
 satélite O
 , O
 que O
@@ -189413,14 +189413,14 @@ la O
 persistencia O
 de O
 las O
-lesiones O
-intraorales O
+lesiones B-ENFERMEDAD
+intraorales I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-retiró I-ENFERMEDAD
-el I-ENFERMEDAD
-catéter I-ENFERMEDAD
+Se O
+retiró O
+el O
+catéter O
 central O
 y O
 la O
@@ -190085,7 +190085,7 @@ inguinales I-ENFERMEDAD
 algunas O
 de O
 estas O
-adenopatías O
+adenopatías B-ENFERMEDAD
 superaban O
 el O
 centímetro O
@@ -190536,13 +190536,13 @@ pero O
 están O
 libres O
 de O
-metástasis O
-tumorales O
+metástasis B-ENFERMEDAD
+tumorales I-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-la I-ENFERMEDAD
-intervención I-ENFERMEDAD
+Tras O
+la O
+intervención O
 quirúrgica O
 el O
 paciente O
@@ -196979,11 +196979,11 @@ de O
 los O
 esfacelos B-ENFERMEDAD
 y O
-escaras O
+escaras B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-20 I-ENFERMEDAD
+Tras O
+20 O
 días O
 de O
 desbridamientos O
@@ -197108,11 +197108,11 @@ dada O
 la O
 persistencia O
 de O
-esfacelos O
+esfacelos B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-contenedor I-ENFERMEDAD
+El O
+contenedor O
 del O
 VAC O
 ® O
@@ -199252,7 +199252,7 @@ previa O
 infiltración O
 de O
 la O
-cicatriz O
+cicatriz B-ENFERMEDAD
 con O
 3 O
 cc O
@@ -199938,14 +199938,14 @@ meticulosa O
 y O
 evitar O
 una O
-lesión O
+lesión B-ENFERMEDAD
 de O
 estas O
 estructuras O
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
+En O
+la O
 corticotomía O
 semicircular O
 , O
@@ -200916,11 +200916,11 @@ la O
 limpieza O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-planificación I-ENFERMEDAD
+La O
+planificación O
 del O
 procedimiento O
 quirúrgico O
@@ -201162,7 +201162,7 @@ volviendo O
 a O
 cerrar O
 la O
-herida O
+herida B-ENFERMEDAD
 . O
 
 Mujer O
@@ -201212,8 +201212,8 @@ de O
 edad O
 . O
 
-A B-ENFERMEDAD
-los I-ENFERMEDAD
+A O
+los O
 18 O
 días O
 la O
@@ -204647,8 +204647,8 @@ defecto B-ENFERMEDAD
 óseo I-ENFERMEDAD
 ( O
 el O
-defecto O
-óseo O
+defecto B-ENFERMEDAD
+óseo I-ENFERMEDAD
 previo O
 quedaba O
 cubierto O
@@ -205745,10 +205745,10 @@ ni O
 de O
 foco O
 de O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Practicamos B-ENFERMEDAD
+Practicamos O
 resección O
 quirúrgica O
 en O
@@ -205948,12 +205948,12 @@ los O
 5 O
 meses O
 del O
-traumatismo O
+traumatismo B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-la I-ENFERMEDAD
-revisión I-ENFERMEDAD
+En O
+la O
+revisión O
 al O
 año O
 , O
@@ -208402,11 +208402,11 @@ quirúrgicos O
 profundos O
 libres O
 de O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-paciente I-ENFERMEDAD
+El O
+paciente O
 cursó O
 con O
 6 O
@@ -209078,10 +209078,10 @@ cierre O
 completo O
 de O
 las O
-heridas O
+heridas B-ENFERMEDAD
 . O
 
-Durante B-ENFERMEDAD
+Durante O
 el O
 periodo O
 de O
@@ -211314,11 +211314,11 @@ neoplásicas O
 infiltradas O
 por O
 el O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
+En O
+el O
 estudio O
 inmunohistoquímico O
 las O
@@ -214415,11 +214415,11 @@ linfoma B-ENFERMEDAD
 no I-ENFERMEDAD
 Hodgkin I-ENFERMEDAD
 ( O
-LNH O
+LNH B-ENFERMEDAD
 ) O
 . O
 
-Una B-ENFERMEDAD
+Una O
 biopsia O
 pulmonar O
 mediante O
@@ -214514,11 +214514,11 @@ TAC O
 abdominal O
 no O
 mostraba O
-adenopatías O
+adenopatías B-ENFERMEDAD
 . O
 
-Una B-ENFERMEDAD
-nueva I-ENFERMEDAD
+Una O
+nueva O
 TAC O
 torácica O
 confirmó O
@@ -215219,12 +215219,12 @@ Research O
 and O
 Treatment O
 of O
-Cancer O
+Cancer B-ENFERMEDAD
 ) O
 . O
 
-A B-ENFERMEDAD
-los I-ENFERMEDAD
+A O
+los O
 8 O
 meses O
 de O
@@ -215874,12 +215874,12 @@ se O
 encontraba O
 infiltrado O
 por O
-leiomiosarcoma O
+leiomiosarcoma B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
-tejido I-ENFERMEDAD
+En O
+el O
+tejido B-ENFERMEDAD
 adiposo I-ENFERMEDAD
 perisuprarrenal I-ENFERMEDAD
 se I-ENFERMEDAD
@@ -215906,8 +215906,8 @@ sarcoma I-ENFERMEDAD
 ) I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-glándula I-ENFERMEDAD
+La O
+glándula O
 suprarrenal O
 izquierda O
 , O
@@ -216222,9 +216222,9 @@ que O
 se O
 observan O
 múltiples O
-metástasis O
-pulmonares O
-bilaterales O
+metástasis B-ENFERMEDAD
+pulmonares I-ENFERMEDAD
+bilaterales I-ENFERMEDAD
 milimétricas O
 . O
 
@@ -216692,17 +216692,17 @@ Adriamicina O
 liposomial O
 frente O
 al O
-componente O
-sarcomatoso O
-del O
-tumor O
+componente B-ENFERMEDAD
+sarcomatoso I-ENFERMEDAD
+del I-ENFERMEDAD
+tumor I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
-acepta I-ENFERMEDAD
-la I-ENFERMEDAD
-propuesta I-ENFERMEDAD
+La O
+paciente O
+acepta O
+la O
+propuesta O
 y O
 recibe O
 un O
@@ -216750,13 +216750,13 @@ días O
 de O
 evolución O
 y O
-anemia O
+anemia B-ENFERMEDAD
 grado O
 4 O
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
+La O
+paciente O
 se O
 recupera O
 de O
@@ -218323,15 +218323,15 @@ vertebral O
 , O
 sugerentes O
 de O
-metástasis O
-pulmonares O
+metástasis B-ENFERMEDAD
+pulmonares I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
-abdomen I-ENFERMEDAD
-se I-ENFERMEDAD
-visualizan I-ENFERMEDAD
+En O
+el O
+abdomen O
+se O
+visualizan O
 múltiples O
 imágenes O
 nodulares O
@@ -218874,11 +218874,11 @@ la O
 piel O
 suprayacente O
 al O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
+No O
+se O
 apreció O
 infiltración B-ENFERMEDAD
 mediastínica I-ENFERMEDAD
@@ -220133,7 +220133,7 @@ con O
 antihistamínicos O
 . O
 
-Siendo B-ENFERMEDAD
+Siendo O
 los O
 resultados O
 anatomo O
@@ -220664,7 +220664,7 @@ Imagen O
 Biopsia O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 
 Al O
 observar O
@@ -220695,7 +220695,7 @@ y O
 exéresis O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Posteriormente O
@@ -220819,7 +220819,7 @@ recuperada O
 totalmente O
 de O
 su O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Mujer O
@@ -221081,7 +221081,7 @@ accidente B-ENFERMEDAD
 laboral I-ENFERMEDAD
 . O
 
-Para B-ENFERMEDAD
+Para O
 completar O
 la O
 estratificación O
@@ -221363,7 +221363,7 @@ realizó O
 un O
 diagnóstico O
 de O
-SB O
+SB B-ENFERMEDAD
 . O
 
 Posteriormente O
@@ -226277,7 +226277,7 @@ estabilización O
 del O
 número O
 de O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
 Mujer O
@@ -227419,7 +227419,7 @@ de O
 hemorragia O
 . O
 
-En B-ENFERMEDAD
+En O
 una O
 RMN O
 pélvica O
@@ -227516,7 +227516,7 @@ desarrollo O
 de O
 estas O
 graves O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
 Varón O
@@ -227746,7 +227746,7 @@ enfermedad I-ENFERMEDAD
 de I-ENFERMEDAD
 Crohn I-ENFERMEDAD
 ( O
-EC O
+EC B-ENFERMEDAD
 ) O
 . O
 
@@ -230990,8 +230990,8 @@ evidencia O
 de O
 complicaciones O
 ni O
-recidivas O
-hepáticas O
+recidivas B-ENFERMEDAD
+hepáticas I-ENFERMEDAD
 . O
 
 Alérgica B-ENFERMEDAD
@@ -234324,7 +234324,7 @@ intravascular I-ENFERMEDAD
 diseminada I-ENFERMEDAD
 y O
 probable O
-sepsis O
+sepsis B-ENFERMEDAD
 . O
 
 Una O
@@ -235837,8 +235837,8 @@ biopsia O
 duodenal O
 compatible O
 con O
-enfermedad O
-celiaca O
+enfermedad B-ENFERMEDAD
+celiaca I-ENFERMEDAD
 . O
 
 Posteriormente O
@@ -236976,7 +236976,7 @@ el O
 tratamiento O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 mediante O
 una O
 colangioloyeyunostomía O
@@ -237532,10 +237532,10 @@ bronquiolitis I-ENFERMEDAD
 obliterante I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-inició I-ENFERMEDAD
-tratamiento I-ENFERMEDAD
-con I-ENFERMEDAD
+Se O
+inició O
+tratamiento O
+con O
 prednisona O
 a O
 dosis O
@@ -238285,12 +238285,12 @@ y O
 no O
 se O
 apreció O
-lesión O
+lesión B-ENFERMEDAD
 residual O
 . O
 
-No B-ENFERMEDAD
-hubo I-ENFERMEDAD
+No O
+hubo O
 ninguna O
 complicación O
 postoperatoria O
@@ -238352,8 +238352,8 @@ necrosis O
 completa O
 de O
 la O
-lesión O
-tumoral O
+lesión B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
 Entre O
@@ -244458,7 +244458,7 @@ confirmándose O
 la O
 histología O
 de O
-leiomiosarcoma O
+leiomiosarcoma B-ENFERMEDAD
 en O
 la O
 pieza O
@@ -245165,19 +245165,19 @@ friabilidad O
 que O
 impresionaba O
 como O
-colitis O
-ulcerosa O
+colitis B-ENFERMEDAD
+ulcerosa I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-recto I-ENFERMEDAD
-no I-ENFERMEDAD
-presentaba I-ENFERMEDAD
-lesiones O
+El O
+recto O
+no O
+presentaba O
+lesiones B-ENFERMEDAD
 . O
 
-Las B-ENFERMEDAD
-biopsias I-ENFERMEDAD
+Las O
+biopsias O
 del O
 colon O
 sugerían O
@@ -245220,14 +245220,14 @@ pulmonar I-ENFERMEDAD
 y O
 sufrió O
 un O
-neumotórax O
-bilateral O
+neumotórax B-ENFERMEDAD
+bilateral I-ENFERMEDAD
 . O
 
-Fue B-ENFERMEDAD
-seguido I-ENFERMEDAD
-ya I-ENFERMEDAD
-sólo I-ENFERMEDAD
+Fue O
+seguido O
+ya O
+sólo O
 en O
 consultas O
 de O
@@ -245335,7 +245335,7 @@ el O
 seno O
 de O
 la O
-úlcera O
+úlcera B-ENFERMEDAD
 . O
 
 El O
@@ -246426,7 +246426,7 @@ naturaleza O
 benigna O
 de O
 la O
-ulceración O
+ulceración B-ENFERMEDAD
 . O
 
 Paciente O
@@ -247608,7 +247608,7 @@ el O
 crecimiento O
 de O
 la O
-lesión B-ENFERMEDAD
+lesión O
 , O
 se O
 decide O
@@ -247623,7 +247623,7 @@ de O
 malignidad O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 En O
@@ -249123,7 +249123,7 @@ que O
 no O
 detectan O
 otras O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
 Mujer O
@@ -249763,7 +249763,7 @@ VI I-ENFERMEDAD
 hepático I-ENFERMEDAD
 compatible O
 con O
-hepatocarcinoma O
+hepatocarcinoma B-ENFERMEDAD
 probablemente O
 roto O
 y O
@@ -250303,11 +250303,11 @@ también O
 aparecen O
 signos O
 de O
-pancreatitis O
-crónica O
+pancreatitis B-ENFERMEDAD
+crónica I-ENFERMEDAD
 y O
-páncreas O
-divisum O
+páncreas B-ENFERMEDAD
+divisum I-ENFERMEDAD
 . O
 
 Se O
@@ -254059,11 +254059,11 @@ cava O
 inferior O
 . O
 
-Ascitis O
+Ascitis B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-amplía I-ENFERMEDAD
+Se O
+amplía O
 el O
 estudio O
 mediante O
@@ -254137,14 +254137,14 @@ Porta O
 permeable O
 . O
 
-Hepatomegalia O
+Hepatomegalia B-ENFERMEDAD
 . O
 
 Ascitis B-ENFERMEDAD
-. I-ENFERMEDAD
+. O
 
-Se B-ENFERMEDAD
-descartan I-ENFERMEDAD
+Se O
+descartan O
 otras O
 causas O
 de O
@@ -254353,14 +254353,14 @@ conjunta O
 de O
 fibrinólisis O
 por O
-trombosis O
-portal O
+trombosis B-ENFERMEDAD
+portal I-ENFERMEDAD
 asociada O
 . O
 
-La B-ENFERMEDAD
-evolución I-ENFERMEDAD
-posterior I-ENFERMEDAD
+La O
+evolución O
+posterior O
 es O
 tórpida O
 con O
@@ -254536,10 +254536,10 @@ el O
 tratamiento O
 de O
 las O
-LCG O
+LCG B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 realizaron O
 dos O
 series O
@@ -254643,7 +254643,7 @@ se O
 accedió O
 a O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Contrariamente O
@@ -255116,10 +255116,10 @@ el O
 tratamiento O
 de O
 las O
-LCG O
+LCG B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
+La O
 anestesia O
 regional O
 se O
@@ -255315,7 +255315,7 @@ lesión B-ENFERMEDAD
 correspondió O
 a O
 una O
-lesión O
+lesión B-ENFERMEDAD
 fibrosa O
 , O
 encapsulada O
@@ -255341,10 +255341,10 @@ histológico O
 correspondió O
 a O
 una O
-LCG O
+LCG B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
+En O
 la O
 descripción O
 de O
@@ -255401,7 +255401,7 @@ la O
 enucleación O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Desde O
@@ -255735,10 +255735,10 @@ el O
 tratamiento O
 de O
 las O
-LCG O
+LCG B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 realizó O
 una O
 serie O
@@ -255821,7 +255821,7 @@ la O
 palpación O
 toda O
 la O
-lesión O
+lesión B-ENFERMEDAD
 era O
 de O
 consistencia O
@@ -255939,11 +255939,11 @@ se O
 accedió O
 a O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Al B-ENFERMEDAD
-igual I-ENFERMEDAD
+Al O
+igual O
 que O
 en O
 el O
@@ -255974,13 +255974,13 @@ remodelación O
 quirúrgica O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 con O
 fresas O
 . O
 
-Fue B-ENFERMEDAD
-necesario I-ENFERMEDAD
+Fue O
+necesario O
 remodelar O
 el O
 reborde O
@@ -256709,13 +256709,13 @@ no O
 presenta O
 signos O
 de O
-recidiva O
-local O
+recidiva B-ENFERMEDAD
+local I-ENFERMEDAD
 . O
 
-Desde B-ENFERMEDAD
-el I-ENFERMEDAD
-punto I-ENFERMEDAD
+Desde O
+el O
+punto O
 de O
 vista O
 estético O
@@ -257395,7 +257395,7 @@ residual O
 generada O
 por O
 el O
-quiste O
+quiste B-ENFERMEDAD
 . O
 
 Paciente O
@@ -258572,11 +258572,11 @@ facial O
 izquierda O
 no O
 presentaba O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-evolución I-ENFERMEDAD
+La O
+evolución O
 postoperatoria O
 fue O
 favorable O
@@ -262942,14 +262942,14 @@ largo I-ENFERMEDAD
 del I-ENFERMEDAD
 tríceps I-ENFERMEDAD
 y O
-dehiscencia O
-de O
-herida O
+dehiscencia B-ENFERMEDAD
+de I-ENFERMEDAD
+herida I-ENFERMEDAD
 . O
 
-Para B-ENFERMEDAD
-tratamiento I-ENFERMEDAD
-de I-ENFERMEDAD
+Para O
+tratamiento O
+de O
 dicha O
 dehiscencia O
 se O
@@ -264424,14 +264424,14 @@ resistencia O
 y O
 evitar O
 una O
-fractura O
-patológica O
+fractura B-ENFERMEDAD
+patológica I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
-planificó I-ENFERMEDAD
-el I-ENFERMEDAD
+No O
+se O
+planificó O
+el O
 injerto O
 inmediato O
 debido O
@@ -265398,10 +265398,10 @@ endoteliales O
 dilatados O
 sugestivo O
 de O
-MAV O
+MAV B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
+Tras O
 consultar O
 con O
 un O
@@ -268411,7 +268411,7 @@ resección O
 quirúrgica O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 con O
 abordaje O
 laterocervical O
@@ -268426,7 +268426,7 @@ planos O
 hasta O
 ubicar O
 la O
-lesión O
+lesión B-ENFERMEDAD
 , O
 la O
 cual O
@@ -269250,11 +269250,11 @@ las O
 sospechas O
 iniciales O
 de O
-lipoma O
+lipoma B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-decidió I-ENFERMEDAD
+Se O
+decidió O
 realizar O
 escisión O
 quirúrgica O
@@ -269641,7 +269641,7 @@ biopsia O
 incisional O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 El O
@@ -269758,7 +269758,7 @@ límites O
 los O
 bordes O
 del O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
 Paciente O
@@ -269803,7 +269803,7 @@ evolución O
 indeterminada O
 . O
 
-Posteriormente B-ENFERMEDAD
+Posteriormente O
 se O
 realizó O
 la O
@@ -270440,12 +270440,12 @@ esfenoidal O
 con O
 visualización O
 del O
-meningocele O
-herniado O
+meningocele B-ENFERMEDAD
+herniado I-ENFERMEDAD
 . O
 
-Disección B-ENFERMEDAD
-intracraneal I-ENFERMEDAD
+Disección O
+intracraneal O
 y O
 coagulación O
 con O
@@ -271177,11 +271177,11 @@ biopsia O
 incisional O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-examen I-ENFERMEDAD
+El O
+examen O
 histopatológico O
 teñido O
 con O
@@ -271255,10 +271255,10 @@ El O
 diagnóstico O
 histopatológico O
 fue O
-FOA O
+FOA B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
+Con O
 este O
 diagnóstico O
 se O
@@ -272763,13 +272763,13 @@ y O
 / O
 o O
 posibles O
-tumores O
-primarios O
+tumores B-ENFERMEDAD
+primarios I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
-fue I-ENFERMEDAD
+La O
+paciente O
+fue O
 derivada O
 para O
 tratamiento O
@@ -272779,7 +272779,7 @@ falleciendo O
 a O
 causa O
 de O
-neumonía O
+neumonía B-ENFERMEDAD
 . O
 
 La O
@@ -275357,12 +275357,12 @@ prolene O
 / O
 0 O
 la O
-herida O
-submandibular O
+herida B-ENFERMEDAD
+submandibular I-ENFERMEDAD
 . O
 
-Inmediatamente B-ENFERMEDAD
-después I-ENFERMEDAD
+Inmediatamente O
+después O
 de O
 la O
 operación O
@@ -275381,11 +275381,11 @@ se O
 observa O
 un O
 pequeño O
-neumoencéfalo O
+neumoencéfalo B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-paciente I-ENFERMEDAD
+El O
+paciente O
 se O
 mantuvo O
 en O
@@ -275418,14 +275418,14 @@ sin O
 ningún O
 tipo O
 de O
-trastorno O
-neurológico O
+trastorno B-ENFERMEDAD
+neurológico I-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
-reportaron I-ENFERMEDAD
-complicaciones I-ENFERMEDAD
+No O
+se O
+reportaron O
+complicaciones O
 . O
 
 Un O
@@ -276287,15 +276287,15 @@ desaparición O
 completa O
 de O
 la O
-lesión O
-de O
-la O
-encía O
+lesión B-ENFERMEDAD
+de I-ENFERMEDAD
+la I-ENFERMEDAD
+encía I-ENFERMEDAD
 . O
 
-Cuatro B-ENFERMEDAD
-años I-ENFERMEDAD
-después I-ENFERMEDAD
+Cuatro O
+años O
+después O
 , O
 la O
 paciente O
@@ -278540,7 +278540,7 @@ de O
 recidiva B-ENFERMEDAD
 tumoral I-ENFERMEDAD
 ni O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
 No O
@@ -279854,7 +279854,7 @@ tumoral I-ENFERMEDAD
 realizándose O
 exéresis O
 del O
-paraganglioma O
+paraganglioma B-ENFERMEDAD
 por O
 vía O
 laterocervical O
@@ -280400,11 +280400,11 @@ alta O
 celularidad O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
+No O
+se O
 identificaron O
 alteraciones O
 óseas O
@@ -281191,11 +281191,11 @@ en O
 bloque O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Al B-ENFERMEDAD
-final I-ENFERMEDAD
+Al O
+final O
 de O
 la O
 cirugía O
@@ -283277,12 +283277,12 @@ histológico O
 y O
 reducir O
 la O
-masa O
-tumoral O
+masa B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
-E1 B-ENFERMEDAD
-procedimiento I-ENFERMEDAD
+E1 O
+procedimiento O
 transcurre O
 sin O
 incidentes O
@@ -283584,8 +283584,8 @@ estudio O
 RMN O
 constata O
 la O
-recidiva O
-tumoral O
+recidiva B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
 Sin O
@@ -283598,9 +283598,9 @@ quirúrgicas O
 previas O
 . O
 
-Se B-ENFERMEDAD
-practica I-ENFERMEDAD
-exéresis I-ENFERMEDAD
+Se O
+practica O
+exéresis O
 de O
 la O
 adenopatía B-ENFERMEDAD
@@ -285121,11 +285121,11 @@ ser O
 el O
 origen O
 del O
-hematoma O
+hematoma B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-completó I-ENFERMEDAD
+Se O
+completó O
 el O
 acto O
 quirúrgico O
@@ -287947,11 +287947,11 @@ con O
 resección O
 completa O
 del O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-informe I-ENFERMEDAD
+El O
+informe O
 histológico O
 confirma O
 que O
@@ -288033,11 +288033,11 @@ un O
 nuevo O
 foco O
 de O
-glioblastoma O
+glioblastoma B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
+La O
+paciente O
 rechaza O
 tratamientos O
 invasivos O
@@ -288058,8 +288058,8 @@ imagen O
 se O
 objetivan O
 nuevas O
-lesiones O
-tumorales O
+lesiones B-ENFERMEDAD
+tumorales I-ENFERMEDAD
 . O
 
 Paciente O
@@ -288079,9 +288079,9 @@ e O
 histerectomía O
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
-fallece I-ENFERMEDAD
+La O
+paciente O
+fallece O
 26 O
 meses O
 después O
@@ -288632,11 +288632,11 @@ de O
 crecimiento O
 sobre O
 la O
-cicatriz O
+cicatriz B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-remitió I-ENFERMEDAD
+Se O
+remitió O
 el O
 material O
 legrado O
@@ -289130,11 +289130,11 @@ zonas O
 de O
 necrosis O
 ni O
-alopecia O
+alopecia B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-resultado I-ENFERMEDAD
+El O
+resultado O
 cosmético O
 fue O
 excelente O
@@ -291271,11 +291271,11 @@ no O
 presentaba O
 datos O
 de O
-infección O
+infección B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-inició I-ENFERMEDAD
+Se O
+inició O
 tratamiento O
 anticonvulsivante O
 y O
@@ -309490,10 +309490,10 @@ la O
 mitad O
 . O
 
-Se B-ENFERMEDAD
-trataba I-ENFERMEDAD
-de I-ENFERMEDAD
-un I-ENFERMEDAD
+Se O
+trataba O
+de O
+un O
 paciente O
 de O
 11 O
@@ -309515,11 +309515,11 @@ bilateral O
 para O
 corrección O
 de O
-" O
-flexo O
-" O
-de O
-rodilla O
+" B-ENFERMEDAD
+flexo I-ENFERMEDAD
+" I-ENFERMEDAD
+de I-ENFERMEDAD
+rodilla I-ENFERMEDAD
 que O
 le O
 impedía O
@@ -317997,12 +317997,12 @@ la O
 paciente O
 . O
 
-Cardiomegalia O
+Cardiomegalia B-ENFERMEDAD
 . O
 
-- B-ENFERMEDAD
-TC I-ENFERMEDAD
-abdominal I-ENFERMEDAD
+- O
+TC O
+abdominal O
 ( O
 abril O
 de O
@@ -318244,13 +318244,13 @@ leves I-ENFERMEDAD
 posturas O
 anómalas O
 , O
-cuadros O
-virales O
+cuadros B-ENFERMEDAD
+virales I-ENFERMEDAD
 , O
 etc O
 . O
 
-Progresivamente B-ENFERMEDAD
+Progresivamente O
 le O
 fuimos O
 retirando O
@@ -320087,9 +320087,9 @@ hay O
 un O
 patrón O
 de O
-abuso O
-de O
-sustancias O
+abuso B-ENFERMEDAD
+de I-ENFERMEDAD
+sustancias I-ENFERMEDAD
 ( O
 la O
 familia O
@@ -321999,7 +321999,7 @@ leve I-ENFERMEDAD
 sin O
 datos O
 de O
-depresión O
+depresión B-ENFERMEDAD
 . O
 
 Hombre O
@@ -322159,7 +322159,7 @@ de O
 salud O
 de O
 Goldberg O
-depresión O
+depresión B-ENFERMEDAD
 y O
 ansiedad B-ENFERMEDAD
 leve I-ENFERMEDAD
@@ -322526,13 +322526,13 @@ macroscópicos O
 de O
 esteatosis B-ENFERMEDAD
 y O
-edema O
-pulmonar O
+edema B-ENFERMEDAD
+pulmonar I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-las I-ENFERMEDAD
-arteriolas I-ENFERMEDAD
+En O
+las O
+arteriolas B-ENFERMEDAD
 encargadas I-ENFERMEDAD
 de I-ENFERMEDAD
 irrigar I-ENFERMEDAD
@@ -323296,7 +323296,7 @@ aracnoideo O
 en O
 torno O
 al O
-hematoma O
+hematoma B-ENFERMEDAD
 . O
 
 En O
@@ -323541,7 +323541,7 @@ a O
 hipertensión B-ENFERMEDAD
 intracraneal I-ENFERMEDAD
 , O
-enclavamiento O
+enclavamiento B-ENFERMEDAD
 y O
 muerte O
 . O
@@ -325000,7 +325000,7 @@ etiología O
 médico O
 legal O
 de O
-suicidio O
+suicidio B-ENFERMEDAD
 . O
 
 La O
@@ -328780,8 +328780,8 @@ asociada O
 probablemente O
 a O
 un O
-síndrome O
-HELLP O
+síndrome B-ENFERMEDAD
+HELLP I-ENFERMEDAD
 . O
 
 Por O
@@ -330045,23 +330045,23 @@ hay O
 alteraciones O
 compatibles O
 con O
-CID O
+CID B-ENFERMEDAD
 . O
 
-Además B-ENFERMEDAD
+Además O
 , O
 se O
 diagnostica O
 esplenomegalia B-ENFERMEDAD
 y O
 cierta O
-miocarditis O
-neutrofílica O
+miocarditis B-ENFERMEDAD
+neutrofílica I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-estudio I-ENFERMEDAD
-toxicológico I-ENFERMEDAD
+El O
+estudio O
+toxicológico O
 muestra O
 tan O
 solo O
@@ -330073,31 +330073,31 @@ o O
 metamizol O
 . O
 
-Basándose B-ENFERMEDAD
-en I-ENFERMEDAD
-los I-ENFERMEDAD
-hallazgos I-ENFERMEDAD
-descritos I-ENFERMEDAD
-se I-ENFERMEDAD
-establecen I-ENFERMEDAD
-como I-ENFERMEDAD
-causas I-ENFERMEDAD
-de I-ENFERMEDAD
-la I-ENFERMEDAD
-muerte I-ENFERMEDAD
-: I-ENFERMEDAD
-fallo I-ENFERMEDAD
+Basándose O
+en O
+los O
+hallazgos O
+descritos O
+se O
+establecen O
+como O
+causas O
+de O
+la O
+muerte O
+: O
+fallo B-ENFERMEDAD
 multiorgánico I-ENFERMEDAD
 producido I-ENFERMEDAD
-por O
-una O
-septicemia O
-fulminante O
-por O
-meningococo O
-( O
-N O
-. O
+por I-ENFERMEDAD
+una I-ENFERMEDAD
+septicemia I-ENFERMEDAD
+fulminante I-ENFERMEDAD
+por I-ENFERMEDAD
+meningococo I-ENFERMEDAD
+( I-ENFERMEDAD
+N I-ENFERMEDAD
+. I-ENFERMEDAD
 
 meningitidis O
 serogrupo O
@@ -330791,8 +330791,8 @@ huir O
 ; O
 manifestó O
 otras O
-distorsiones O
-cognitivas O
+distorsiones B-ENFERMEDAD
+cognitivas I-ENFERMEDAD
 acerca O
 de O
 las O
@@ -331377,12 +331377,12 @@ hipermadura O
 con O
 signos O
 de O
-corioamnionitis O
+corioamnionitis B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-el I-ENFERMEDAD
-alumbramiento I-ENFERMEDAD
+Tras O
+el O
+alumbramiento O
 se O
 efectuaron O
 biopsias O
@@ -331844,7 +331844,7 @@ presente O
 antes O
 de O
 la O
-luxación O
+luxación B-ENFERMEDAD
 . O
 
 Presentaba O
@@ -333516,11 +333516,11 @@ sin O
 datos O
 inflamatorios O
 ni O
-anemia O
+anemia B-ENFERMEDAD
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
+No O
+se O
 han O
 detectado O
 malformaciones B-ENFERMEDAD
@@ -334810,10 +334810,10 @@ tratamiento O
 quirúrgico O
 de O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Éste B-ENFERMEDAD
+Éste O
 se O
 realizó O
 mediante O
@@ -335439,11 +335439,11 @@ búsqueda O
 de O
 un O
 posible O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-solicitó I-ENFERMEDAD
+Se O
+solicitó O
 una O
 ecografía O
 abdominal O
@@ -336925,10 +336925,10 @@ diagnóstico O
 de O
 sospecha O
 de O
-NCC O
+NCC B-ENFERMEDAD
 . O
 
-Durante B-ENFERMEDAD
+Durante O
 su O
 ingreso O
 se O
@@ -338445,10 +338445,10 @@ ascitis B-ENFERMEDAD
 , O
 masas O
 ni O
-trombosis O
+trombosis B-ENFERMEDAD
 . O
 
-Arteria B-ENFERMEDAD
+Arteria O
 hepática O
 y O
 vena O
@@ -338542,13 +338542,13 @@ psicomotriz O
 , O
 seguido O
 de O
-coma O
+coma B-ENFERMEDAD
 con O
 GCS O
 7 O
 . O
 
-Se B-ENFERMEDAD
+Se O
 procede O
 a O
 intubación O
@@ -338806,13 +338806,13 @@ y O
 cambios O
 sugestivos O
 de O
-patología O
-metabólica O
+patología B-ENFERMEDAD
+metabólica I-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-examen I-ENFERMEDAD
-posterior I-ENFERMEDAD
+El O
+examen O
+posterior O
 de O
 sangre O
 y O
@@ -340868,7 +340868,7 @@ instaura O
 tratamiento O
 para O
 el O
-asma O
+asma B-ENFERMEDAD
 con O
 importante O
 mejoría O
@@ -342801,14 +342801,14 @@ muy O
 probablemente O
 relacionada O
 con O
-mielopatía O
-infecciosa O
+mielopatía B-ENFERMEDAD
+infecciosa I-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-lesión I-ENFERMEDAD
-mostró I-ENFERMEDAD
-leve I-ENFERMEDAD
+La O
+lesión O
+mostró O
+leve O
 hipointensidad O
 en O
 T1 O
@@ -343020,16 +343020,16 @@ posteriores O
 ningún O
 episodio O
 de O
-retención O
-aguda O
-de O
-orina O
+retención B-ENFERMEDAD
+aguda I-ENFERMEDAD
+de I-ENFERMEDAD
+orina I-ENFERMEDAD
 . O
 
-Al B-ENFERMEDAD
-alta I-ENFERMEDAD
-continuó I-ENFERMEDAD
-tratamiento I-ENFERMEDAD
+Al O
+alta O
+continuó O
+tratamiento O
 rehabilitador O
 . O
 
@@ -343542,11 +343542,11 @@ TSH O
 Exploración O
 ginecológica O
 : O
-útero O
-bicorne O
+útero B-ENFERMEDAD
+bicorne I-ENFERMEDAD
 . O
 
-Exploración B-ENFERMEDAD
+Exploración O
 del O
 fondo O
 de O
@@ -343745,13 +343745,13 @@ mg O
 , O
 desapareciendo O
 las O
-lesiones O
-micóticas O
+lesiones B-ENFERMEDAD
+micóticas I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-los I-ENFERMEDAD
-controles I-ENFERMEDAD
+En O
+los O
+controles O
 realizados O
 posteriormente O
 se O
@@ -344169,7 +344169,7 @@ de O
 metanefrinas O
 por O
 probable O
-feocromocitoma O
+feocromocitoma B-ENFERMEDAD
 . O
 
 Una O
@@ -349015,7 +349015,7 @@ discretamente O
 hiperintensas O
 , O
 sin O
-lesiones O
+lesiones B-ENFERMEDAD
 ocupacionales O
 . O
 
@@ -349023,9 +349023,9 @@ Leve B-ENFERMEDAD
 esplenomegalia I-ENFERMEDAD
 . O
 
-Resto B-ENFERMEDAD
-de I-ENFERMEDAD
-estructuras I-ENFERMEDAD
+Resto O
+de O
+estructuras O
 sin O
 alteraciones O
 . O
@@ -349131,15 +349131,15 @@ se O
 aprecia O
 colestasis O
 ni O
-hemosiderosis O
+hemosiderosis B-ENFERMEDAD
 . O
 
 No O
 macrófagos O
 . O
 
-PAS B-ENFERMEDAD
-diastasa I-ENFERMEDAD
+PAS O
+diastasa O
 positivo O
 . O
 
@@ -349267,8 +349267,8 @@ y O
 desaparición O
 de O
 las O
-varices O
-esofágicas O
+varices B-ENFERMEDAD
+esofágicas I-ENFERMEDAD
 . O
 
 Desde O
@@ -349749,13 +349749,13 @@ ureteral O
 sugestiva O
 de O
 nueva O
-lesión O
-tumoral O
+lesión B-ENFERMEDAD
+tumoral I-ENFERMEDAD
 . O
 
-Además B-ENFERMEDAD
-presentaba I-ENFERMEDAD
-atrofia I-ENFERMEDAD
+Además O
+presentaba O
+atrofia B-ENFERMEDAD
 funcional I-ENFERMEDAD
 del I-ENFERMEDAD
 riñón I-ENFERMEDAD
@@ -350500,7 +350500,7 @@ El O
 diagnóstico O
 definitivo O
 es O
-HQR O
+HQR B-ENFERMEDAD
 . O
 
 Mujer O
@@ -350841,11 +350841,11 @@ No O
 tenía O
 adenopatías B-ENFERMEDAD
 ni O
-acropaquias O
+acropaquias B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-auscultación I-ENFERMEDAD
+La O
+auscultación O
 cardiopulmonar O
 era O
 normal O
@@ -351115,13 +351115,13 @@ paciente O
 el O
 abandono O
 del O
-hábito O
-tabáquico O
+hábito B-ENFERMEDAD
+tabáquico I-ENFERMEDAD
 . O
 
-Fue B-ENFERMEDAD
-revisado I-ENFERMEDAD
-en I-ENFERMEDAD
+Fue O
+revisado O
+en O
 consulta O
 3 O
 meses O
@@ -351525,12 +351525,12 @@ de O
 30 O
 mm O
 el O
-tumor O
+tumor B-ENFERMEDAD
 completo O
 . O
 
-No B-ENFERMEDAD
-se I-ENFERMEDAD
+No O
+se O
 apreció O
 extensión O
 extratiroidea O
@@ -351566,7 +351566,7 @@ que O
 resultaron O
 libres O
 de O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
 Mujer O
@@ -351608,8 +351608,8 @@ el O
 roce O
 . O
 
-Se B-ENFERMEDAD
-le I-ENFERMEDAD
+Se O
+le O
 realizó O
 estudio O
 de O
@@ -351748,12 +351748,12 @@ parénquimas O
 pulmonares O
 compatible O
 con O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
-Al B-ENFERMEDAD
-mes I-ENFERMEDAD
-de I-ENFERMEDAD
+Al O
+mes O
+de O
 la O
 ablación O
 con O
@@ -353698,10 +353698,10 @@ muy O
 favorable O
 de O
 las O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
-Posteriormente B-ENFERMEDAD
+Posteriormente O
 el O
 hemocultivo O
 fue O
@@ -356351,8 +356351,8 @@ la O
 línea O
 medial O
 y O
-osteopenia O
-local O
+osteopenia B-ENFERMEDAD
+local I-ENFERMEDAD
 . O
 
 Paciente O
@@ -356382,9 +356382,9 @@ el O
 reposo O
 . O
 
-La B-ENFERMEDAD
-evolución I-ENFERMEDAD
-clínica I-ENFERMEDAD
+La O
+evolución O
+clínica O
 fue O
 favorable O
 con O
@@ -357387,15 +357387,15 @@ enclavada I-ENFERMEDAD
 en I-ENFERMEDAD
 duodeno I-ENFERMEDAD
 ( O
-Síndrome O
-de O
-Bouveret O
+Síndrome B-ENFERMEDAD
+de I-ENFERMEDAD
+Bouveret I-ENFERMEDAD
 ) O
 . O
 
-El B-ENFERMEDAD
-tratamiento I-ENFERMEDAD
-habitual I-ENFERMEDAD
+El O
+tratamiento O
+habitual O
 de O
 esta O
 entidad O
@@ -357451,7 +357451,7 @@ y O
 se O
 transporta O
 la O
-litiasis O
+litiasis B-ENFERMEDAD
 a O
 estómago O
 . O
@@ -357492,7 +357492,7 @@ el O
 diamétro O
 de O
 la O
-litiasis O
+litiasis B-ENFERMEDAD
 era O
 superior O
 . O
@@ -357560,14 +357560,14 @@ sin O
 observar O
 erosiones O
 ni O
-lesiones O
+lesiones B-ENFERMEDAD
 de O
 la O
 mucosa O
 . O
 
-Tras B-ENFERMEDAD
-extracción I-ENFERMEDAD
+Tras O
+extracción O
 de O
 la O
 litiasis B-ENFERMEDAD
@@ -360217,12 +360217,12 @@ produjera O
 recidiva O
 inicial O
 del O
-hidrotórax O
+hidrotórax B-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-4 I-ENFERMEDAD
-días I-ENFERMEDAD
+Tras O
+4 O
+días O
 sin O
 problemas O
 se O
@@ -360482,12 +360482,12 @@ toracocentesis O
 demostró O
 ausencia O
 de O
-derrame O
-pleural O
+derrame B-ENFERMEDAD
+pleural I-ENFERMEDAD
 . O
 
-Tras B-ENFERMEDAD
-mantener I-ENFERMEDAD
+Tras O
+mantener O
 al O
 paciente O
 en O
@@ -362569,7 +362569,7 @@ superficie O
 pretibial O
 sin O
 observarse O
-lesiones O
+lesiones B-ENFERMEDAD
 en O
 otras O
 localizaciones O
@@ -362735,8 +362735,8 @@ neoplasia B-ENFERMEDAD
 endocrina I-ENFERMEDAD
 múltiple I-ENFERMEDAD
 ( O
-MEN O
-1 O
+MEN B-ENFERMEDAD
+1 I-ENFERMEDAD
 ) O
 . O
 
@@ -363139,12 +363139,12 @@ hiliares I-ENFERMEDAD
 abdomen O
 con O
 moderada O
-esplenomegalia O
+esplenomegalia B-ENFERMEDAD
 . O
 
-Cuatro B-ENFERMEDAD
-días I-ENFERMEDAD
-más I-ENFERMEDAD
+Cuatro O
+días O
+más O
 tarde O
 se O
 repite O
@@ -363365,16 +363365,16 @@ segmentaria I-ENFERMEDAD
 probablemente O
 residual O
 al O
-proceso O
-infeccioso O
+proceso B-ENFERMEDAD
+infeccioso I-ENFERMEDAD
 . O
 
-Diagnóstico B-ENFERMEDAD
-: I-ENFERMEDAD
-mononucleosis I-ENFERMEDAD
+Diagnóstico O
+: O
+mononucleosis B-ENFERMEDAD
 infecciosa I-ENFERMEDAD
 con O
-neumonia2 O
+neumonia2 B-ENFERMEDAD
 - O
 6 O
 . O
@@ -364868,13 +364868,13 @@ distendida I-ENFERMEDAD
 con O
 imagen O
 de O
-litiasis O
+litiasis B-ENFERMEDAD
 de O
 15 O
 mm O
 . O
 
-Páncreas B-ENFERMEDAD
+Páncreas O
 no O
 valorable O
 por O
@@ -366119,7 +366119,7 @@ de I-ENFERMEDAD
 la I-ENFERMEDAD
 infancia I-ENFERMEDAD
 ( O
-HTBI O
+HTBI B-ENFERMEDAD
 ) O
 . O
 
@@ -367844,7 +367844,7 @@ diámetro O
 ) O
 y O
 un O
-quiste O
+quiste B-ENFERMEDAD
 de O
 mayores O
 dimensiones O
@@ -379934,11 +379934,11 @@ ombligo O
 sin O
 signos O
 de O
-infección O
+infección B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-deriva I-ENFERMEDAD
+Se O
+deriva O
 para O
 valoración O
 por O
@@ -380583,12 +380583,12 @@ el O
 diagnóstico O
 clínico O
 de O
-piebaldismo O
+piebaldismo B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
-la I-ENFERMEDAD
-valoración I-ENFERMEDAD
+Con O
+la O
+valoración O
 oftalmológica O
 se O
 descartaron O
@@ -381661,11 +381661,11 @@ en O
 el O
 episodio O
 de O
-amigdalitis O
+amigdalitis B-ENFERMEDAD
 previo O
 . O
 
-Permanece B-ENFERMEDAD
+Permanece O
 sin O
 recaídas O
 . O
@@ -382909,7 +382909,7 @@ la O
 mayor O
 de O
 las O
-adenopatías O
+adenopatías B-ENFERMEDAD
 de O
 2 O
 × O
@@ -383792,8 +383792,8 @@ corticoide O
 tópico O
 . O
 
-- B-ENFERMEDAD
-dermatitis I-ENFERMEDAD
+- O
+dermatitis B-ENFERMEDAD
 seborreica I-ENFERMEDAD
 prácticamente O
 constante O
@@ -384131,7 +384131,7 @@ toxoplasmosis I-ENFERMEDAD
 y O
 / O
 o O
-TB O
+TB B-ENFERMEDAD
 
 Los O
 episodios B-ENFERMEDAD
@@ -384337,11 +384337,11 @@ las O
 piernas O
 y O
 ligera O
-agorafobia O
+agorafobia B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
+La O
+paciente O
 no O
 estaba O
 satisfecha O
@@ -384599,11 +384599,11 @@ puede O
 deberse O
 a O
 la O
-ansiedad O
+ansiedad B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-Rorschach I-ENFERMEDAD
+El O
+Rorschach O
 reveló O
 una O
 personalidad O
@@ -384656,11 +384656,11 @@ neuroticismo O
 pero O
 no O
 demostró O
-daño O
-cerebral O
+daño B-ENFERMEDAD
+cerebral I-ENFERMEDAD
 . O
 
-Neuroimagen B-ENFERMEDAD
+Neuroimagen O
 
 Se O
 obtuvieron O
@@ -386827,11 +386827,11 @@ objetivar O
 la O
 presencia O
 de O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
-Los B-ENFERMEDAD
-valores I-ENFERMEDAD
+Los O
+valores O
 séricos O
 de O
 alfa O
@@ -387243,7 +387243,7 @@ poder O
 apreciar O
 bien O
 la O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Para O
@@ -389258,11 +389258,11 @@ en O
 estadio O
 IV O
 ( O
-T4N2CMx O
+T4N2CMx B-ENFERMEDAD
 ) O
 . O
 
-Se B-ENFERMEDAD
+Se O
 realiza O
 una O
 punción O
@@ -389275,10 +389275,10 @@ que O
 informa O
 de O
 probable O
-PLGA O
+PLGA B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
+La O
 RM O
 muestra O
 una O
@@ -391382,8 +391382,8 @@ inferior O
 por O
 parte O
 del O
-diente O
-incluido O
+diente B-ENFERMEDAD
+incluido I-ENFERMEDAD
 ( O
 9 O
 , O
@@ -396100,11 +396100,11 @@ presentar O
 movimientos O
 involuntarios O
 y O
-distonías O
+distonías B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-ecocardiografía I-ENFERMEDAD
+La O
+ecocardiografía O
 transtorácica O
 fue O
 normal O
@@ -396310,13 +396310,13 @@ siguió O
 mostrando O
 signos O
 de O
-encefalopatía O
-difusa O
+encefalopatía B-ENFERMEDAD
+difusa I-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-descartó I-ENFERMEDAD
-enfermedad I-ENFERMEDAD
+Se O
+descartó O
+enfermedad B-ENFERMEDAD
 por I-ENFERMEDAD
 priones I-ENFERMEDAD
 ( O
@@ -396375,13 +396375,13 @@ encefalitis B-ENFERMEDAD
 con O
 relación O
 a O
-teratoma O
+teratoma B-ENFERMEDAD
 no O
 objetivado O
 . O
 
-Se B-ENFERMEDAD
-repitió I-ENFERMEDAD
+Se O
+repitió O
 la O
 PL O
 buscando O
@@ -396492,9 +396492,9 @@ a I-ENFERMEDAD
 patología I-ENFERMEDAD
 orgánica I-ENFERMEDAD
 ( O
-ECR O
-- O
-NMDA O
+ECR B-ENFERMEDAD
+- I-ENFERMEDAD
+NMDA I-ENFERMEDAD
 ) O
 . O
 
@@ -397440,7 +397440,7 @@ con O
 el O
 diagnóstico O
 de O
-morfea O
+morfea B-ENFERMEDAD
 . O
 
 Ante O
@@ -397718,11 +397718,11 @@ Esclerosis B-ENFERMEDAD
 lateral I-ENFERMEDAD
 amiotrófica I-ENFERMEDAD
 ( O
-ELA O
+ELA B-ENFERMEDAD
 ) O
 . O
 
-En B-ENFERMEDAD
+En O
 la O
 exploración O
 neurológica O
@@ -397956,15 +397956,15 @@ positivas O
 , O
 compatible O
 con O
-enfermedad O
-de O
-motoneurona O
+enfermedad B-ENFERMEDAD
+de I-ENFERMEDAD
+motoneurona I-ENFERMEDAD
 , O
 probable O
-ELA O
+ELA B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
+Con O
 estos O
 resultados O
 se O
@@ -398073,7 +398073,7 @@ diagnóstico O
 en O
 concreto O
 una O
-miopatía O
+miopatía B-ENFERMEDAD
 . O
 
 Presenta O
@@ -398201,10 +398201,10 @@ corporales O
 así O
 como O
 leve O
-afonía O
+afonía B-ENFERMEDAD
 . O
 
-Finalmente B-ENFERMEDAD
+Finalmente O
 se O
 sugiere O
 el O
@@ -398215,10 +398215,10 @@ de I-ENFERMEDAD
 motoneurona I-ENFERMEDAD
 , O
 probable O
-ELA O
+ELA B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 continúa O
 tratamiento O
 con O
@@ -398838,7 +398838,7 @@ presentado O
 nuevos O
 episodios O
 de O
-parálisis O
+parálisis B-ENFERMEDAD
 . O
 
 Se O
@@ -402323,7 +402323,7 @@ mejoría O
 progresiva O
 de O
 la O
-diplopía O
+diplopía B-ENFERMEDAD
 . O
 
 Paciente O
@@ -402755,10 +402755,10 @@ con O
 el O
 diagnóstico O
 de O
-PCT2 O
+PCT2 B-ENFERMEDAD
 . O
 
-Las B-ENFERMEDAD
+Las O
 serologías O
 a O
 virus O
@@ -402879,10 +402879,10 @@ por I-ENFERMEDAD
 PNJ I-ENFERMEDAD
 ) O
 y O
-PCT O
+PCT B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
+Se O
 inició O
 tratamiento O
 con O
@@ -404301,11 +404301,11 @@ encontraba O
 intensamente O
 infiltrado O
 por O
-hematoma O
+hematoma B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-realizó I-ENFERMEDAD
+Se O
+realizó O
 una O
 sección O
 longitudinal O
@@ -405357,13 +405357,13 @@ refractario O
 efectivo O
 de O
 la O
-vía O
-anómala O
+vía B-ENFERMEDAD
+anómala I-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
-el I-ENFERMEDAD
-primer I-ENFERMEDAD
+En O
+el O
+primer O
 control O
 posterior O
 , O
@@ -405383,7 +405383,7 @@ manejo O
 para O
 interrumpir O
 las O
-taquicardias O
+taquicardias B-ENFERMEDAD
 . O
 
 El O
@@ -405408,9 +405408,9 @@ documentarse O
 taquicardias B-ENFERMEDAD
 . O
 
-Se B-ENFERMEDAD
-ha I-ENFERMEDAD
-planteado I-ENFERMEDAD
+Se O
+ha O
+planteado O
 a O
 los O
 padres O
@@ -406954,7 +406954,7 @@ contusión B-ENFERMEDAD
 al O
 no O
 evidenciarse O
-fractura O
+fractura B-ENFERMEDAD
 alguna O
 , O
 pero O
@@ -407195,11 +407195,11 @@ desde O
 entonces O
 una O
 cierta O
-deformidad O
+deformidad B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-dolor I-ENFERMEDAD
+El O
+dolor O
 remitió O
 semanas O
 después O
@@ -407281,7 +407281,7 @@ relación O
 directa O
 con O
 la O
-hiperostosis O
+hiperostosis B-ENFERMEDAD
 . O
 
 Además O
@@ -409133,11 +409133,11 @@ otras O
 causas O
 endocrinas O
 de O
-osteoporosis O
+osteoporosis B-ENFERMEDAD
 . O
 
-Como B-ENFERMEDAD
-parte I-ENFERMEDAD
+Como O
+parte O
 de O
 nuestro O
 protocolo O
@@ -409203,8 +409203,8 @@ de O
 abdomen O
 se O
 descartó O
-litiasis O
-renal O
+litiasis B-ENFERMEDAD
+renal I-ENFERMEDAD
 . O
 
 Paciente O
@@ -409226,9 +409226,9 @@ también O
 afectada O
 . O
 
-Se B-ENFERMEDAD
-realizó I-ENFERMEDAD
-estudio I-ENFERMEDAD
+Se O
+realizó O
+estudio O
 genético O
 mediante O
 secuenciación O
@@ -411078,7 +411078,7 @@ en O
 el O
 contexto O
 del O
-LES O
+LES B-ENFERMEDAD
 . O
 
 Mujer O
@@ -411120,7 +411120,7 @@ por O
 reumatología O
 . O
 
-A B-ENFERMEDAD
+A O
 su O
 ingreso O
 se O
@@ -413212,12 +413212,12 @@ interior O
 que O
 pueden O
 representar O
-microabscesos O
+microabscesos B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
-el I-ENFERMEDAD
-diagnóstico I-ENFERMEDAD
+Con O
+el O
+diagnóstico O
 de O
 orquiepididimitis B-ENFERMEDAD
 secundaria I-ENFERMEDAD
@@ -413797,7 +413797,7 @@ apreciado O
 recidiva O
 de O
 dichas O
-lesiones O
+lesiones B-ENFERMEDAD
 . O
 
 Varón O
@@ -416638,11 +416638,11 @@ con O
 el O
 diagnóstico O
 de O
-endometriosis O
+endometriosis B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-paciente I-ENFERMEDAD
+La O
+paciente O
 fue O
 tratada O
 durante O
@@ -416947,10 +416947,10 @@ estudio O
 y O
 filiar O
 dicha O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-Siguiendo B-ENFERMEDAD
+Siguiendo O
 el O
 protocolo O
 oncológico O
@@ -418618,11 +418618,11 @@ pélvico O
 no O
 se O
 observaban O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
-La B-ENFERMEDAD
-analítica I-ENFERMEDAD
+La O
+analítica O
 tampoco O
 mostraba O
 alteraciones O
@@ -418830,13 +418830,13 @@ epidídimo I-ENFERMEDAD
 túnica I-ENFERMEDAD
 albugínea I-ENFERMEDAD
 ni O
-invasión O
-vascular O
+invasión B-ENFERMEDAD
+vascular I-ENFERMEDAD
 . O
 
-Resto B-ENFERMEDAD
-de I-ENFERMEDAD
-parénquima I-ENFERMEDAD
+Resto O
+de O
+parénquima O
 testicular O
 con O
 atrofia O
@@ -419943,11 +419943,11 @@ interés O
 Estadio O
 III O
 , O
-T3N0M0 O
+T3N0M0 B-ENFERMEDAD
 ) O
 . O
 
-El B-ENFERMEDAD
+El O
 paciente O
 fue O
 dado O
@@ -420156,7 +420156,7 @@ cerebral I-ENFERMEDAD
 derecho O
 compatible O
 con O
-metástasis O
+metástasis B-ENFERMEDAD
 . O
 
 Se O
@@ -420231,8 +420231,8 @@ diagnóstico O
 de O
 las O
 metástasis B-ENFERMEDAD
-en O
-pene O
+en I-ENFERMEDAD
+pene I-ENFERMEDAD
 . O
 
 Ante O
@@ -420864,7 +420864,7 @@ Hilio O
 renal O
 libre O
 de O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
 Embolias B-ENFERMEDAD
@@ -420908,12 +420908,12 @@ Glándula O
 suprarrenal O
 libre O
 de O
-lesión O
+lesión B-ENFERMEDAD
 . O
 
-IHQ B-ENFERMEDAD
-: I-ENFERMEDAD
-WT1 I-ENFERMEDAD
+IHQ O
+: O
+WT1 O
 + O
 + O
 + O
@@ -421615,11 +421615,11 @@ lesiones B-ENFERMEDAD
 macroscópicas O
 compatibles O
 con O
-neoplasia O
+neoplasia B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-estudio I-ENFERMEDAD
+El O
+estudio O
 microscópico O
 muestra O
 parénquima O
@@ -422263,7 +422263,7 @@ negativa O
 persistiendo O
 una O
 mínima O
-eosinofilia O
+eosinofilia B-ENFERMEDAD
 . O
 
 Presentamos O
@@ -423357,8 +423357,8 @@ y O
 tamaño O
 de O
 los O
-nódulos O
-pulmonares O
+nódulos B-ENFERMEDAD
+pulmonares I-ENFERMEDAD
 . O
 
 En O
@@ -424371,9 +424371,9 @@ antecedentes O
 personales O
 destaca O
 una O
-enfermedad O
-de O
-Crohn O
+enfermedad B-ENFERMEDAD
+de I-ENFERMEDAD
+Crohn I-ENFERMEDAD
 diagnosticada O
 seis O
 años O
@@ -426399,12 +426399,12 @@ no I-ENFERMEDAD
 obstructivos I-ENFERMEDAD
 asociados O
 a O
-bifidez O
-piélica O
+bifidez B-ENFERMEDAD
+piélica I-ENFERMEDAD
 . O
 
-Decidimos B-ENFERMEDAD
-efectuar I-ENFERMEDAD
+Decidimos O
+efectuar O
 controles O
 cada O
 6 O
@@ -427040,7 +427040,7 @@ resección O
 endoscópica O
 de O
 las O
-lesiones O
+lesiones B-ENFERMEDAD
 descritas O
 bajo O
 anestesia O
@@ -427607,11 +427607,11 @@ borde O
 quirúrgico O
 libres O
 de O
-tumor O
+tumor B-ENFERMEDAD
 . O
 
-El B-ENFERMEDAD
-tratamiento I-ENFERMEDAD
+El O
+tratamiento O
 se O
 completó O
 con O
@@ -428298,14 +428298,14 @@ diferenciado O
 con O
 caracteres O
 de O
-mixoliposarcoma O
+mixoliposarcoma B-ENFERMEDAD
 G1 O
 - O
 2 O
 . O
 
-El B-ENFERMEDAD
-tumor I-ENFERMEDAD
+El O
+tumor B-ENFERMEDAD
 adiposo I-ENFERMEDAD
 quedo O
 separado O
@@ -428885,10 +428885,10 @@ se O
 trataba O
 de O
 un O
-CCR O
+CCR B-ENFERMEDAD
 . O
 
-En B-ENFERMEDAD
+En O
 Junio O
 de O
 2003 O
@@ -430125,11 +430125,11 @@ le O
 detectó O
 varicocele B-ENFERMEDAD
 o O
-hidrocele O
+hidrocele B-ENFERMEDAD
 . O
 
-Con B-ENFERMEDAD
-las I-ENFERMEDAD
+Con O
+las O
 manifestaciones O
 clínicas O
 , O
