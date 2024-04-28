@@ -105,9 +105,9 @@ class CustomConll2003(datasets.GeneratorBasedBuilder):
         #downloaded_file = dl_manager.download_and_extract(_URL)
         downloaded_file = os.getcwd()
         data_files = {
-            "train": os.path.join(downloaded_file, "custom_dataset_track2_es", _TRAINING_FILE),
-            "dev": os.path.join(downloaded_file, "custom_dataset_track2_es", _DEV_FILE),
-            "test": os.path.join(downloaded_file, "custom_dataset_track2_es", _TEST_FILE),
+            "train": os.path.join(downloaded_file, "data/custom_dataset_track2_es", _TRAINING_FILE),
+            "dev": os.path.join(downloaded_file, "data/custom_dataset_track2_es", _DEV_FILE),
+            "test": os.path.join(downloaded_file, "data/custom_dataset_track2_es", _TEST_FILE),
         }
 
         return [
