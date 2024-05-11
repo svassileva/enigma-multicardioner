@@ -23779,9 +23779,7 @@ Peak O
 fever O
 up O
 to O
-39 O
-º O
-C O
+39ºC O
 , O
 profuse O
 sweating O
@@ -29697,9 +29695,7 @@ seen O
 . O
 
 A O
-L O
-ö O
-wenstein O
+Löwenstein O
 urine O
 culture O
 was O
@@ -29964,9 +29960,7 @@ hypertrophy O
 . O
 
 Negative O
-L O
-ö O
-wenstein O
+Löwenstein O
 urine O
 cultures O
 were O
@@ -30085,8 +30079,7 @@ temperature O
 of O
 38 O
 . O
-2 O
-º O
+2º O
 C O
 . O
 
@@ -30326,9 +30319,7 @@ a O
 fever O
 peak O
 of O
-39 O
-º O
-C O
+39ºC O
 and O
 a O
 new O
@@ -31456,8 +31447,7 @@ Temperature O
 37 O
 . O
 8 O
-º O
-C O
+ºC O
 . O
 Abdomen O
 painful O
@@ -31549,8 +31539,7 @@ Leuc O
 , O
 800 O
 / O
-µ O
-L O
+µL O
 , O
 Neut O
 76 O
@@ -38450,8 +38439,7 @@ of O
 glucose O
 and O
 50 O
-µ O
-l O
+µl O
 of O
 blood O
 . O
@@ -40111,9 +40099,7 @@ fever O
 of O
 up O
 to O
-38 O
-º O
-C O
+38ºC O
 . O
 
 He O
@@ -40186,9 +40172,7 @@ temperature O
 of O
 38 O
 . O
-6 O
-º O
-C O
+6ºC O
 , O
 vital O
 signs O
@@ -43690,9 +43674,7 @@ peak O
 of O
 38 O
 . O
-5 O
-º O
-C O
+5ºC O
 . O
 Biochemistry O
 and O
@@ -44301,8 +44283,7 @@ to O
 39 O
 . O
 5 O
-º O
-C O
+ºC O
 , O
 predominantly O
 in O
@@ -45352,9 +45333,7 @@ fever O
 of O
 up O
 to O
-39 O
-º O
-C O
+39ºC O
 was O
 observed O
 , O
@@ -46264,8 +46243,7 @@ fever O
 ( O
 38 O
 . O
-5 O
-º O
+5º O
 ) O
 of O
 ten O
@@ -50450,8 +50428,7 @@ eosinophilia O
 ( O
 2800 O
 / O
-µ O
-L O
+µL O
 ) O
 . O
 
@@ -51530,8 +51507,7 @@ fever O
 ( O
 38 O
 - O
-39 O
-º O
+39º O
 C O
 ) O
 , O
@@ -53252,9 +53228,7 @@ fever O
 ( O
 37 O
 . O
-6 O
-º O
-C O
+6ºC O
 ) O
 , O
 abdominal O
@@ -60000,9 +59974,7 @@ Babylog O
 8000 O
 plus O
 , O
-Dr O
-ä O
-ger O
+Dräger O
 Medizintechnik O
 GMBH O
 . O
@@ -60267,8 +60239,7 @@ dopamine B-FARMACO
 perfusion O
 at O
 8 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -60451,9 +60422,7 @@ and O
 his O
 temperature O
 was O
-37 O
-º O
-C O
+37ºC O
 . O
 Blood O
 tests O
@@ -60742,8 +60711,7 @@ level O
 . O
 06 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 , O
@@ -61023,8 +60991,7 @@ level O
 < O
 20 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 and O
@@ -61040,8 +61007,7 @@ level O
 < O
 35 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 . O
@@ -61088,8 +61054,7 @@ were O
 25 O
 . O
 6 O
-µ O
-g O
+µg O
 / O
 l O
 and O
@@ -61631,8 +61596,7 @@ remifentanil B-FARMACO
 0 O
 . O
 02 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61708,8 +61672,7 @@ at O
 4 O
 . O
 5 O
-µ O
-g O
+µg O
 kg O
 - O
 1 O
@@ -61799,8 +61762,7 @@ at O
 0 O
 . O
 4 O
-µ O
-g O
+µg O
 kg O
 - O
 1 O
@@ -61816,8 +61778,7 @@ of O
 dobutamine B-FARMACO
 to O
 8 O
-µ O
-g O
+µg O
 kg O
 - O
 1 O
@@ -61923,8 +61884,7 @@ above O
 0 O
 . O
 5 O
-µ O
-g O
+µg O
 kg O
 - O
 1 O
@@ -62378,8 +62338,7 @@ leukocytes O
 , O
 820 O
 per O
-µ O
-l O
+µl O
 ( O
 neutrophils O
 , O
@@ -63043,8 +63002,7 @@ perfusion O
 ( O
 dopamine B-FARMACO
 5 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -63054,8 +63012,7 @@ noradrenaline B-FARMACO
 up O
 to O
 8 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -63207,9 +63164,7 @@ fever O
 of O
 up O
 to O
-39 O
-º O
-C O
+39ºC O
 , O
 generalised O
 myalgia O
@@ -63631,9 +63586,7 @@ saline I-FARMACO
 solution I-FARMACO
 heated O
 to O
-37 O
-º O
-C O
+37ºC O
 . O
 
 We O
@@ -64482,9 +64435,7 @@ and O
 temperature O
 36 O
 . O
-7 O
-º O
-C O
+7ºC O
 . O
 Examination O
 revealed O
@@ -64838,9 +64789,7 @@ and O
 temperature O
 35 O
 . O
-8 O
-º O
-C O
+8ºC O
 . O
 Table O
 2 O
@@ -65887,8 +65836,7 @@ shock O
 maximum O
 noradrenaline B-FARMACO
 1 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -66335,8 +66283,7 @@ noradrenaline B-FARMACO
 1 O
 . O
 5 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -69188,8 +69135,7 @@ reaction O
 × O
 103 O
 / O
-μ O
-l O
+μl O
 ) O
 . O
 
@@ -70400,8 +70346,7 @@ was O
 109 O
 cells O
 / O
-µ O
-L O
+µL O
 and O
 the O
 viral O
@@ -70410,8 +70355,7 @@ load O
 40 O
 cells O
 / O
-µ O
-L O
+µL O
 . O
 
 
@@ -72034,9 +71978,7 @@ fever O
 ( O
 38 O
 . O
-4 O
-º O
-C O
+4ºC O
 ) O
 and O
 abdominal O
@@ -76612,8 +76554,7 @@ of O
 6 O
 . O
 6 O
-µ O
-U O
+µU O
 / O
 ml O
 , O
@@ -80221,8 +80162,7 @@ intravenous O
 alfacalcidol B-FARMACO
 ( O
 2 O
-µ O
-g O
+µg O
 ) O
 immediately O
 after O
@@ -81716,8 +81656,7 @@ parameters O
 sideremia O
 : O
 25 O
-µ O
-g O
+µg O
 / O
 dl O
 ( O
@@ -84340,8 +84279,7 @@ were O
 50 O
 , O
 087 O
-µ O
-g O
+µg O
 / O
 ml O
 . O
@@ -87551,8 +87489,7 @@ red O
 blood O
 cells O
 / O
-μ O
-l O
+μl O
 in O
 the O
 sediment O
@@ -87699,8 +87636,7 @@ red O
 blood O
 cells O
 / O
-μ O
-l O
+μl O
 , O
 with O
 normoalbuminaemia O
@@ -88956,12 +88892,10 @@ started O
 with O
 pegylated B-FARMACO
 IFN I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 , O
 135 O
-μ O
-g O
+μg O
 weekly O
 , O
 and O
@@ -92713,8 +92647,7 @@ as O
 700 O
 copies O
 / O
-µ O
-g O
+µg O
 total O
 RNA O
 in O
@@ -95520,11 +95453,7 @@ deleterious O
 ; O
 MutationTaster O
 : O
-disease O
-_ O
-causing O
-_ O
-automatic O
+disease_causing_automatic O
 ; O
 mutation O
 assessor O
@@ -97149,8 +97078,7 @@ was O
 43 O
 . O
 9 O
-µ O
-g O
+µg O
 / O
 dl O
 at O
@@ -103901,8 +103829,7 @@ dl O
 , O
 Fe O
 63 O
-μ O
-g O
+μg O
 / O
 dl O
 ( O
@@ -103952,8 +103879,7 @@ cells O
 . O
 000 O
 / O
-μ O
-l O
+μl O
 ( O
 4 O
 , O
@@ -104014,8 +103940,7 @@ leukocytes O
 , O
 760 O
 / O
-μ O
-l O
+μl O
 ( O
 3 O
 , O
@@ -104029,8 +103954,7 @@ l O
 lymphocytes O
 830 O
 / O
-μ O
-l O
+μl O
 ( O
 800 O
 - O
@@ -104044,8 +103968,7 @@ polymorphonuclear O
 , O
 250 O
 / O
-μ O
-l O
+μl O
 ( O
 1 O
 , O
@@ -104067,8 +103990,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 ( O
 125 O
 , O
@@ -104121,8 +104043,7 @@ ml O
 , O
 zinc O
 52 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -106533,8 +106454,7 @@ to O
 0 O
 . O
 25 O
-μ O
-g O
+μg O
 / O
 48 O
 hours O
@@ -109297,8 +109217,7 @@ leukocytes O
 700 O
 cells O
 / O
-μ O
-l O
+μl O
 ( O
 mononuclear O
 92 O
@@ -109440,8 +109359,7 @@ doses O
 up O
 to O
 100 O
-μ O
-g O
+μg O
 / O
 8 O
 h O
@@ -109536,8 +109454,7 @@ of O
 700 O
 cells O
 / O
-μ O
-l O
+μl O
 . O
 
 During O
@@ -109639,8 +109556,7 @@ of O
 700 O
 cells O
 / O
-μ O
-l O
+μl O
 . O
 
 Subsequent O
@@ -114689,9 +114605,7 @@ fever O
 of O
 up O
 to O
-39 O
-º O
-C O
+39ºC O
 in O
 the O
 last O
@@ -115950,8 +115864,7 @@ up O
 to O
 38 O
 . O
-5 O
-º O
+5º O
 which O
 resolved O
 well O
@@ -116447,8 +116360,7 @@ of O
 up O
 to O
 38 O
-º O
-C O
+ºC O
 and O
 profuse O
 night O
@@ -116969,9 +116881,7 @@ revealed O
 a O
 temperature O
 of O
-39 O
-º O
-C O
+39ºC O
 , O
 general O
 malaise O
@@ -117687,8 +117597,7 @@ dL O
 900 O
 leukocytes O
 / O
-µ O
-L O
+µL O
 ( O
 79 O
 % O
@@ -117704,8 +117613,7 @@ lymphocytes O
 000 O
 platelets O
 / O
-µ O
-L O
+µL O
 ; O
 sodium O
 119 O
@@ -119099,9 +119007,7 @@ male O
 patient O
 with O
 a O
-Bj O
-ö O
-rk O
+Björk O
 - O
 Shilley O
 type O
@@ -119654,8 +119560,7 @@ to O
 38 O
 . O
 5 O
-º O
-C O
+ºC O
 , O
 back O
 pain O
@@ -119796,14 +119701,12 @@ dL O
 000 O
 platelets O
 / O
-µ O
-L O
+µL O
 , O
 5020 O
 leukocytes O
 / O
-µ O
-L O
+µL O
 , O
 with O
 82 O
@@ -121103,8 +121006,7 @@ cells O
 , O
 000 O
 / O
-µ O
-l O
+µl O
 , O
 MCV O
 81 O
@@ -121145,8 +121047,7 @@ reticulocytes O
 . O
 000 O
 / O
-µ O
-l O
+µl O
 ) O
 ; O
 b O
@@ -121159,8 +121060,7 @@ platelets O
 , O
 000 O
 / O
-µ O
-l O
+µl O
 ; O
 and O
 c O
@@ -121173,8 +121073,7 @@ leukocytes O
 , O
 500 O
 / O
-µ O
-l O
+µl O
 . O
 
 - O
@@ -121352,8 +121251,7 @@ dl O
 , O
 ferritin O
 7597 O
-µ O
-g O
+µg O
 / O
 dl O
 , O
@@ -122810,9 +122708,7 @@ Ziehl O
 Neelsen O
 staining O
 and O
-L O
-ö O
-wenstein O
+Löwenstein O
 - O
 Jensen O
 medium O
@@ -126617,9 +126513,7 @@ and O
 a O
 fever O
 of O
-38 O
-º O
-C O
+38ºC O
 , O
 with O
 skin O
@@ -127009,8 +126903,7 @@ to O
 38 O
 . O
 5 O
-º O
-C O
+ºC O
 ) O
 , O
 he O
@@ -127082,9 +126975,7 @@ temperature O
 : O
 37 O
 . O
-5 O
-º O
-C O
+5ºC O
 ; O
 BP O
 : O
@@ -128110,11 +128001,9 @@ a O
 daily O
 fever O
 of O
-39 O
-º O
+39º O
 - O
-40 O
-º O
+40º O
 , O
 intense O
 pleuritic O
@@ -129450,9 +129339,7 @@ she O
 was O
 diagnosed O
 with O
-Waldenstr O
-ö O
-m O
+Waldenström O
 ' O
 s O
 macroglobulinemia O
@@ -129584,9 +129471,7 @@ temperature O
 of O
 37 O
 . O
-5 O
-º O
-C O
+5ºC O
 , O
 swelling O
 and O
@@ -131396,9 +131281,7 @@ temperature O
 of O
 37 O
 . O
-5 O
-º O
-C O
+5ºC O
 , O
 blood O
 pressure O
@@ -131742,8 +131625,7 @@ of O
 38 O
 . O
 5 O
-º O
-C O
+ºC O
 predominantly O
 in O
 the O
@@ -134873,8 +134755,7 @@ fever O
 ( O
 37 O
 . O
-6 O
-º O
+6º O
 C O
 ) O
 , O
@@ -135336,9 +135217,7 @@ auramine O
 rhodamine O
 staining O
 and O
-L O
-ö O
-wenstein O
+Löwenstein O
 - O
 Jensen O
 medium O
@@ -136103,9 +135982,7 @@ and O
 intermittent O
 fever O
 of O
-38 O
-º O
-C O
+38ºC O
 since O
 one O
 month O
@@ -136150,9 +136027,7 @@ only O
 a O
 temperature O
 of O
-38 O
-º O
-C O
+38ºC O
 and O
 no O
 other O
@@ -136193,8 +136068,7 @@ volume O
 89 O
 . O
 7 O
-µ O
-mc O
+µmc O
 , O
 leukocyte O
 count O
@@ -137811,8 +137685,7 @@ reported O
 fever O
 ( O
 40 O
-º O
-C O
+ºC O
 ) O
 , O
 predominantly O
@@ -138015,8 +137888,7 @@ fever O
 remained O
 at O
 40 O
-º O
-C O
+ºC O
 , O
 with O
 similar O
@@ -138177,9 +138049,7 @@ expectoration O
 and O
 fever O
 of O
-38 O
-º O
-C O
+38ºC O
 . O
 
 He O
@@ -138256,8 +138126,7 @@ mmHg O
 , O
 37 O
 . O
-5 O
-º O
+5º O
 C O
 , O
 he O
@@ -140516,9 +140385,7 @@ smear O
 . O
 
 The O
-L O
-ö O
-westein O
+Löwestein O
 culture O
 of O
 the O
@@ -144014,8 +143881,7 @@ Odontostomatological O
 Surgery O
 of O
 the O
-Universit O
-à O
+Università O
 degli O
 studi O
 di O
@@ -149572,8 +149438,7 @@ department O
 with O
 fever O
 of O
-39 O
-º O
+39º O
 C O
 , O
 papulo O
@@ -151312,8 +151177,7 @@ and O
 episcleral O
 vascularisation O
 , O
-360 O
-º O
+360º O
 pannus O
 , O
 pterygium O
@@ -151338,8 +151202,7 @@ chamber O
 AC O
 ) O
 and O
-360 O
-º O
+360º O
 posterior O
 synechiae O
 , O
@@ -155430,8 +155293,7 @@ of O
 . O
 50 O
 x O
-135 O
-º O
+135º O
 ) O
 in O
 the O
@@ -155454,8 +155316,7 @@ and O
 . O
 50 O
 x O
-20 O
-º O
+20º O
 ) O
 in O
 the O
@@ -162435,8 +162296,7 @@ the O
 right O
 eye O
 of O
-15 O
-º O
+15º O
 . O
 
 She O
@@ -162485,8 +162345,7 @@ dioptres O
 - O
 2 O
 to O
-90 O
-º O
+90º O
 ) O
 in O
 the O
@@ -162502,8 +162361,7 @@ dioptres O
 - O
 2 O
 to O
-180 O
-º O
+180º O
 ) O
 in O
 the O
@@ -164175,8 +164033,7 @@ a O
 concentration O
 of O
 50 O
-µ O
-g O
+µg O
 / O
 0 O
 . O
@@ -166979,19 +166836,15 @@ an O
 exophoria O
 of O
 - O
-3 O
-º O
+3º O
 - O
-5 O
-º O
+5º O
 near O
 and O
 - O
-5 O
-º O
+5º O
 - O
-7 O
-º O
+7º O
 far O
 . O
 
@@ -167312,8 +167165,7 @@ The O
 patient O
 underwent O
 a O
-360 O
-º O
+360º O
 peritomy O
 , O
 extraction O
@@ -168024,8 +167876,7 @@ an O
 area O
 of O
 approximately O
-210 O
-º O
+210º O
 of O
 corneal O
 conjunctivalisation O
@@ -173381,8 +173232,7 @@ iridoplasty O
 impact O
 size O
 500 O
-µ O
-m O
+µm O
 , O
 0 O
 . O
@@ -174582,8 +174432,7 @@ days O
 later O
 , O
 25 O
-μ O
-g O
+μg O
 of O
 r B-FARMACO
 - I-FARMACO
@@ -177019,9 +176868,7 @@ alpha I-FARMACO
 - I-FARMACO
 2b I-FARMACO
 ( O
-100 O
-µ O
-g O
+100µg O
 / O
 week O
 ) O
@@ -180803,15 +180650,11 @@ persisted O
 
 Pachymetry O
 was O
-512 O
-µ O
-m O
+512µm O
 in O
 OD O
 and O
-574 O
-µ O
-m O
+574µm O
 in O
 OI O
 ( O
@@ -184014,17 +183857,13 @@ diameter O
 of O
 1 O
 , O
-347 O
-μ O
-m O
+347μm O
 in O
 OD O
 and O
 1 O
 , O
-409 O
-μ O
-m O
+409μm O
 in O
 OI O
 , O
@@ -185325,9 +185164,7 @@ temperature O
 of O
 37 O
 . O
-5 O
-º O
-C O
+5ºC O
 , O
 abdominal O
 ascites O
@@ -185392,8 +185229,7 @@ leukocytes O
 , O
 420 O
 per O
-µ O
-l O
+µl O
 ( O
 neutrophils O
 91 O
@@ -185407,8 +185243,7 @@ platelets O
 , O
 000 O
 per O
-µ O
-l O
+µl O
 ; O
 D O
 - O
@@ -185443,8 +185278,7 @@ D3 O
 . O
 000 O
 per O
-µ O
-l O
+µl O
 ; O
 Dimeros O
 D O
@@ -185617,9 +185451,7 @@ fever O
 ( O
 38 O
 . O
-4 O
-º O
-C O
+4ºC O
 ) O
 and O
 worsening O
@@ -185680,8 +185512,7 @@ leukocytosis O
 , O
 340 O
 per O
-µ O
-l O
+µl O
 , O
 neutrophils O
 96 O
@@ -186701,8 +186532,7 @@ a O
 fever O
 peak O
 of O
-40 O
-º O
+40º O
 C O
 . O
 
@@ -189984,14 +189814,12 @@ of O
 ankle O
 mobility O
 of O
-45 O
-º O
+45º O
 of O
 plantar O
 flexion O
 and O
-15 O
-º O
+15º O
 of O
 dorsal O
 flexion O
@@ -208571,9 +208399,7 @@ laboratory O
 data O
 showed O
 a O
-b2 O
-µ O
-globulin O
+b2µglobulin O
 of O
 5 O
 mg O
@@ -208739,10 +208565,7 @@ the O
 fourth O
 , O
 the O
-ß O
-2 O
-µ O
-globulin O
+ß2µglobulin O
 ( O
 1 O
 . O
@@ -212039,8 +211862,7 @@ fever O
 ( O
 37 O
 . O
-9 O
-º O
+9º O
 C O
 ) O
 , O
@@ -219091,9 +218913,7 @@ rise O
 in O
 temperature O
 of O
-40 O
-º O
-C O
+40ºC O
 , O
 abdominal O
 pain O
@@ -221655,8 +221475,7 @@ afebrile O
 ( O
 36 O
 . O
-3 O
-º O
+3º O
 ) O
 , O
 with O
@@ -221843,8 +221662,7 @@ SatO2 O
 , O
 fever O
 ( O
-38 O
-º O
+38º O
 ) O
 , O
 bilateral O
@@ -223395,8 +223213,7 @@ BMI O
 , O
 temperature O
 37 O
-º O
-C O
+ºC O
 , O
 blood O
 pressure O
@@ -226563,8 +226380,7 @@ U O
 l O
 ) O
 and O
-γ O
-GT O
+γGT O
 ( O
 107 O
 U O
@@ -227431,9 +227247,7 @@ and O
 fever O
 of O
 over O
-39 O
-º O
-C O
+39ºC O
 . O
 An O
 abdominal O
@@ -228256,8 +228070,7 @@ of O
 38 O
 . O
 5 O
-º O
-C O
+ºC O
 , O
 with O
 no O
@@ -228317,8 +228130,7 @@ temperature O
 37 O
 . O
 3 O
-º O
-C O
+ºC O
 . O
 Cardiac O
 and O
@@ -234649,9 +234461,7 @@ expectoration O
 and O
 fever O
 of O
-38 O
-º O
-C O
+38ºC O
 . O
 Initially O
 diagnosed O
@@ -234720,8 +234530,7 @@ temperature O
 37 O
 . O
 2 O
-º O
-C O
+ºC O
 and O
 pulmonary O
 auscultation O
@@ -236839,8 +236648,7 @@ anaemia O
 serum O
 levels O
 of O
-α O
-FP O
+αFP O
 were O
 4 O
 . O
@@ -239961,8 +239769,7 @@ temperature O
 36 O
 . O
 8 O
-º O
-C O
+ºC O
 ) O
 and O
 normal O
@@ -240001,8 +239808,7 @@ L O
 and O
 creatinine O
 67 O
-µ O
-mol O
+µmol O
 / O
 L O
 . O
@@ -242997,8 +242803,7 @@ being O
 febrile O
 ( O
 39 O
-º O
-C O
+ºC O
 ) O
 , O
 hypotensive O
@@ -248886,8 +248691,7 @@ leukocytosis O
 , O
 200 O
 / O
-μ O
-l O
+μl O
 ) O
 with O
 a O
@@ -259667,9 +259471,7 @@ operation O
 , O
 using O
 the O
-Bj O
-ö O
-rk O
+Björk O
 flap O
 as O
 a O
@@ -279506,8 +279308,7 @@ stimulus O
 duration O
 was O
 100 O
-µ O
-seconds O
+µseconds O
 and O
 the O
 frequency O
@@ -285403,9 +285204,7 @@ headache O
 and O
 fever O
 of O
-38 O
-º O
-C O
+38ºC O
 . O
 Samples O
 were O
@@ -288747,8 +288546,7 @@ count O
 of O
 50 O
 / O
-µ O
-l O
+µl O
 , O
 and O
 thrombopenia O
@@ -288758,8 +288556,7 @@ thrombopenia O
 103 O
 platelets O
 / O
-µ O
-l O
+µl O
 ) O
 . O
 
@@ -288980,15 +288777,13 @@ platelets O
 51 O
 χ O
 103 O
-µ O
-l O
+µl O
 ; O
 neutrophils O
 = O
 370 O
 / O
-µ O
-l O
+µl O
 ) O
 . O
 
@@ -290388,8 +290183,7 @@ HCC O
 with O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 and O
 RBV B-FARMACO
 ( O
@@ -290470,8 +290264,7 @@ dose O
 of O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 was O
 reduced O
 to O
@@ -290542,13 +290335,11 @@ IFN B-FARMACO
 from O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 to O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2b I-FARMACO
+α2b I-FARMACO
 ) O
 and O
 its O
@@ -294742,8 +294533,7 @@ of O
 5 O
 . O
 77 O
-μ O
-g O
+μg O
 / O
 mL O
 are O
@@ -294757,8 +294547,7 @@ to O
 10 O
 . O
 81 O
-μ O
-g O
+μg O
 / O
 mL O
 on O
@@ -297414,8 +297203,7 @@ cortisol O
 19 O
 . O
 7 O
-μ O
-g O
+μg O
 / O
 dL O
 ) O
@@ -298631,8 +298419,7 @@ lower O
 8 O
 . O
 4 O
-μ O
-g O
+μg O
 / O
 mL O
 ) O
@@ -298789,8 +298576,7 @@ to O
 43 O
 . O
 1 O
-μ O
-g O
+μg O
 / O
 mL O
 , O
@@ -298855,8 +298641,7 @@ of O
 25 O
 . O
 5 O
-μ O
-g O
+μg O
 / O
 mL O
 . O
@@ -300488,14 +300273,12 @@ and O
 homocysteine O
 of O
 32 O
-μ O
-mol O
+μmol O
 ( O
 4 O
 - O
 15 O
-μ O
-mol O
+μmol O
 / O
 L O
 ) O
@@ -300530,8 +300313,7 @@ of O
 1 O
 , O
 000 O
-μ O
-g O
+μg O
 / O
 day O
 of O
@@ -305910,8 +305692,7 @@ and O
 0 O
 . O
 5 O
-µ O
-g O
+µg O
 / O
 kg O
 - O
@@ -305987,8 +305768,7 @@ remifentanil B-FARMACO
 0 O
 . O
 25 O
-µ O
-g O
+µg O
 . O
 kg O
 - O
@@ -306192,8 +305972,7 @@ ropivacaine B-FARMACO
 % I-FARMACO
 with O
 1 O
-µ O
-g O
+µg O
 . O
 ml O
 - O
@@ -306891,8 +306670,7 @@ he O
 needs O
 two O
 400 O
-µ O
-g O
+µg O
 tablets O
 almost O
 every O
@@ -307456,8 +307234,7 @@ was O
 perfused O
 with O
 2 O
-µ O
-g O
+µg O
 . O
 ml O
 - O
@@ -309470,16 +309247,14 @@ January O
 Durogesic B-FARMACO
 ® O
 100 O
-μ O
-g O
+μg O
 / O
 h O
 plus O
 transmucosal O
 fentanyl B-FARMACO
 400 O
-μ O
-g O
+μg O
 rescue O
 was O
 prescribed O
@@ -309582,8 +309357,7 @@ from O
 400 O
 to O
 600 O
-μ O
-g O
+μg O
 . O
 
 After O
@@ -309597,8 +309371,7 @@ prescribed O
 Durogesic B-FARMACO
 ® O
 100 O
-μ O
-g O
+μg O
 / O
 h O
 , O
@@ -309656,8 +309429,7 @@ generic O
 transdermal O
 fentanyl B-FARMACO
 25 O
-μ O
-g O
+μg O
 / O
 h O
 for O
@@ -309693,8 +309465,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 25 O
-μ O
-g O
+μg O
 / O
 h O
 was O
@@ -309742,8 +309513,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 25 O
-μ O
-g O
+μg O
 / O
 h O
 , O
@@ -309806,8 +309576,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 as O
@@ -309898,8 +309667,7 @@ generic O
 transdermal O
 fentanyl B-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 , O
@@ -309941,8 +309709,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 . O
@@ -309999,8 +309766,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 and O
@@ -312786,8 +312552,7 @@ lidocaine B-FARMACO
 % O
 with O
 50 O
-μ O
-g O
+μg O
 of O
 fentanyl B-FARMACO
 was O
@@ -312816,8 +312581,7 @@ mg O
 hour O
 and O
 4 O
-μ O
-g O
+μg O
 / O
 hour O
 respectively O
@@ -315897,8 +315661,7 @@ m O
 . O
 a O
 25 O
-µ O
-g O
+µg O
 / O
 h O
 fentanyl B-FARMACO
@@ -315997,8 +315760,7 @@ the O
 pain O
 with O
 200 O
-µ O
-g O
+µg O
 transmucosal O
 oral O
 fentanyl B-FARMACO
@@ -317744,8 +317506,7 @@ was O
 : O
 fentanyl B-FARMACO
 100 O
-µ O
-g O
+µg O
 , O
 in O
 the O
@@ -317826,8 +317587,7 @@ v O
 and O
 fentanyl B-FARMACO
 400 O
-µ O
-g O
+µg O
 transmucosal O
 30 O
 minutes O
@@ -320732,8 +320492,7 @@ FAL O
 , O
 model O
 PARA O
-N O
-º O
+Nº O
 50 O
 - O
 63 O
@@ -327819,8 +327578,7 @@ in O
 fixed O
 flexion O
 of O
-40 O
-º O
+40º O
 and O
 external O
 rotation O
@@ -328130,8 +327888,7 @@ presented O
 flexion O
 of O
 - O
-30 O
-º O
+30º O
 and O
 full O
 extension O
@@ -328736,9 +328493,7 @@ febrile O
 ( O
 37 O
 . O
-6 O
-º O
-C O
+6ºC O
 ) O
 , O
 BP O
@@ -329117,9 +328872,7 @@ with O
 thermometric O
 temperature O
 above O
-38 O
-º O
-C O
+38ºC O
 , O
 poor O
 general O
@@ -332728,8 +332481,7 @@ HR O
 bpm O
 , O
 tachycardia O
-36 O
-º O
+36º O
 C O
 ; O
 nauseous O
@@ -332848,8 +332600,7 @@ leukocytes O
 , O
 500 O
 / O
-µ O
-L O
+µL O
 with O
 87 O
 % O
@@ -335635,8 +335386,7 @@ of O
 1 O
 . O
 7 O
-µ O
-g O
+µg O
 / O
 ml O
 and O
@@ -335652,8 +335402,7 @@ later O
 0 O
 . O
 4 O
-µ O
-g O
+µg O
 / O
 ml O
 ( O
@@ -335667,8 +335416,7 @@ of O
 0 O
 . O
 3 O
-µ O
-g O
+µg O
 / O
 ml O
 ) O
@@ -336359,8 +336107,7 @@ her O
 workplace O
 were O
 52 O
-μ O
-g O
+μg O
 / O
 m3 O
 ( O
@@ -336372,8 +336119,7 @@ ELV O
 ) O
 is O
 10 O
-μ O
-g O
+μg O
 / O
 m3 O
 ) O
@@ -336558,8 +336304,7 @@ blood O
 cadmium O
 of O
 20 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
@@ -336570,9 +336315,7 @@ Value O
 BLV O
 ] O
 : O
-5 O
-μ O
-g O
+5μg O
 / O
 l O
 ) O
@@ -336581,8 +336324,7 @@ urine O
 cadmium O
 of O
 85 O
-μ O
-g O
+μg O
 / O
 g O
 creatinine O
@@ -336590,8 +336332,7 @@ creatinine O
 BLV O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 g O
 creatinine O
@@ -336844,16 +336585,14 @@ cadmium O
 concentrations O
 are O
 7 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
 VLB O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 l O
 ) O
@@ -336862,16 +336601,14 @@ urine O
 cadmium O
 is O
 18 O
-μ O
-g O
+μg O
 / O
 g O
 ( O
 VLB O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 g O
 ) O
@@ -337561,8 +337298,7 @@ leukocytosis O
 000 O
 cells O
 / O
-μ O
-l O
+μl O
 with O
 77 O
 % O
@@ -337829,8 +337565,7 @@ leukocytosis O
 280 O
 cells O
 / O
-μ O
-l O
+μl O
 with O
 80 O
 % O
@@ -339604,9 +339339,7 @@ ratio O
 : O
 0 O
 . O
-6 O
-µ O
-g O
+6µg O
 / O
 mg O
 . O
@@ -341089,8 +340822,7 @@ of O
 16 O
 and O
 32 O
-µ O
-g O
+µg O
 / O
 mL O
 , O
@@ -347975,8 +347707,7 @@ serum O
 TG O
 was O
 351 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -347993,8 +347724,7 @@ TG O
 1788 O
 . O
 7 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -348061,16 +347791,14 @@ on O
 treatment O
 with O
 100 O
-µ O
-g O
+µg O
 levothyroxine B-FARMACO
 , O
 he O
 presented O
 TG O
 37 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -348108,8 +347836,7 @@ was O
 increased O
 to O
 125 O
-µ O
-g O
+µg O
 . O
 
 At O
@@ -348158,8 +347885,7 @@ TG O
 0 O
 . O
 20 O
-µ O
-g O
+µg O
 / O
 L O
 was O
@@ -349404,8 +349130,7 @@ ferritin O
 value O
 of O
 775 O
-µ O
-g O
+µg O
 / O
 dl O
 , O
@@ -349939,8 +349664,7 @@ leukocytosis O
 300 O
 leukocytes O
 / O
-µ O
-L O
+µL O
 , O
 normal O
 formula O
@@ -350899,16 +350623,14 @@ Ht O
 Platelets O
 85x1000 O
 / O
-μ O
-l O
+μl O
 , O
 Leukocytes O
 4 O
 . O
 6x1000 O
 / O
-μ O
-l O
+μl O
 
 - O
 Coagulation O
@@ -350985,8 +350707,7 @@ mg O
 , O
 plus O
 5 O
-μ O
-g O
+μg O
 of O
 fentanyl B-FARMACO
 ; O
@@ -352838,8 +352559,7 @@ MCV O
 79 O
 . O
 8 O
-µ O
-3 O
+µ3 O
 ; O
 Urea O
 29 O
@@ -352857,15 +352577,13 @@ dL O
 ; O
 Iron O
 29 O
-µ O
-g O
+µg O
 / O
 dL O
 , O
 Ferritin O
 12 O
-µ O
-g O
+µg O
 / O
 L O
 ) O
@@ -353025,8 +352743,7 @@ MCV O
 77 O
 . O
 2 O
-µ O
-3 O
+µ3 O
 ; O
 Urea O
 57 O
@@ -355203,8 +354920,7 @@ right O
 angle O
 ( O
 about O
-30 O
-º O
+30º O
 ) O
 while O
 keeping O
@@ -355226,8 +354942,7 @@ distal O
 implant O
 sites O
 with O
-30 O
-º O
+30º O
 inclination O
 . O
 
@@ -355329,9 +355044,7 @@ implant O
 ( O
 Nobelbiocare O
 ® O
-Br O
-å O
-nemark O
+Brånemark O
 implant O
 , O
 Ti O
@@ -355439,8 +355152,7 @@ we O
 insert O
 its O
 corresponding O
-30 O
-º O
+30º O
 angled O
 multi O
 - O
@@ -355457,8 +355169,7 @@ figure O
 4 O
 , O
 the O
-30 O
-º O
+30º O
 inclination O
 of O
 the O
@@ -356132,8 +355843,7 @@ of O
 2 O
 . O
 02 O
-m O
-_ O
+m_ O
 with O
 ischaemic O
 heart O
@@ -357850,8 +357560,7 @@ IV O
 bolus O
 of O
 50 O
-µ O
-g O
+µg O
 / O
 kg O
 of O
@@ -357869,8 +357578,7 @@ second O
 bolus O
 of O
 100 O
-µ O
-g O
+µg O
 / O
 kg O
 was O
@@ -357956,8 +357664,7 @@ a O
 concentration O
 of O
 100 O
-µ O
-g O
+µg O
 / O
 ml O
 . O
@@ -357970,8 +357677,7 @@ of O
 ml O
 ( O
 50 O
-µ O
-g O
+µg O
 / O
 kg O
 ) O
@@ -357992,8 +357698,7 @@ of O
 ml O
 ( O
 100 O
-µ O
-g O
+µg O
 / O
 kg O
 ) O
@@ -363537,8 +363242,7 @@ leukocytosis O
 , O
 460 O
 / O
-µ O
-l O
+µl O
 ) O
 with O
 lymphocyte O
@@ -365522,13 +365226,11 @@ interest O
 : O
 leukocytes O
 5400 O
-μ O
-l O
+μl O
 , O
 neutrophils O
 2370 O
-μ O
-l O
+μl O
 ( O
 44 O
 % O
@@ -365856,8 +365558,7 @@ showed O
 200 O
 leukocytes O
 / O
-µ O
-l O
+µl O
 ( O
 91 O
 % O
@@ -367389,8 +367090,7 @@ thrombocytosis O
 425 O
 000 O
 / O
-µ O
-l O
+µl O
 ) O
 , O
 no O
@@ -370923,8 +370623,7 @@ CBC O
 leukocytes O
 6310 O
 / O
-µ O
-l O
+µl O
 ( O
 67 O
 % O
@@ -370967,8 +370666,7 @@ platelets O
 492 O
 000 O
 / O
-µ O
-l O
+µl O
 , O
 C O
 - O
@@ -371103,8 +370801,7 @@ findings O
 leukocytes O
 2670 O
 / O
-µ O
-l O
+µl O
 ( O
 segmented O
 31 O
@@ -371152,8 +370849,7 @@ platelets O
 131 O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 Capillary O
@@ -371401,8 +371097,7 @@ admission O
 leukocytes O
 4060 O
 / O
-µ O
-l O
+µl O
 ( O
 segmented O
 59 O
@@ -371439,8 +371134,7 @@ platelets O
 25 O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 Smear O
@@ -371571,8 +371265,7 @@ of O
 8000 O
 platelets O
 / O
-µ O
-l O
+µl O
 , O
 it O
 was O
@@ -371606,8 +371299,7 @@ to O
 , O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 
@@ -375835,8 +375527,7 @@ lymphocytes O
 , O
 109 O
 / O
-µ O
-L O
+µL O
 ) O
 , O
 with O
@@ -378602,9 +378293,7 @@ characteristics O
 the O
 case O
 suggests O
-Sch O
-ö O
-nlein O
+Schönlein O
 - O
 Henoch O
 purpura O
@@ -384417,8 +384106,7 @@ they O
 were O
 fixed O
 in O
-99 O
-º O
+99º O
 methyl O
 alcohol O
 and O
@@ -398694,15 +398382,13 @@ CD4 O
 28 O
 cells O
 / O
-µ O
-L O
+µL O
 and O
 CD8 O
 262 O
 cells O
 / O
-µ O
-L O
+µL O
 with O
 a O
 CD4 O
@@ -399312,8 +398998,7 @@ with O
 fentanyl B-FARMACO
 ( O
 150 O
-μ O
-g O
+μg O
 iv O
 ) O
 , O
@@ -399579,8 +399264,7 @@ iv O
 and O
 fentanyl B-FARMACO
 150 O
-μ O
-g O
+μg O
 iv O
 ) O
 , O
@@ -418371,9 +418055,7 @@ dribbling O
 Total O
 PSA O
 was O
-2 O
-µ O
-g O
+2µg O
 / O
 mL O
 , O

@@ -23647,9 +23647,7 @@ en O
 picos O
 de O
 hasta O
-39 O
-º O
-C O
+39ºC O
 , O
 sudación O
 profusa O
@@ -25382,8 +25380,7 @@ dada O
 de O
 alta O
 al O
-10 O
-º O
+10º O
 día O
 tras O
 la O
@@ -25658,8 +25655,7 @@ a O
 nivel O
 de O
 la O
-5 O
-ª O
+5ª O
 vértebra O
 lumbar O
 , O
@@ -29570,9 +29566,7 @@ cultivo O
 de O
 orina O
 en O
-L O
-ö O
-wenstein O
+Löwenstein O
 , O
 y O
 se O
@@ -29834,9 +29828,7 @@ cultivos O
 de O
 orina O
 en O
-L O
-ö O
-wenstein O
+Löwenstein O
 negativos O
 finalizado O
 el O
@@ -29942,8 +29934,7 @@ axilar O
 de O
 38 O
 , O
-2 O
-º O
+2º O
 C O
 . O
 siendo O
@@ -30180,8 +30171,7 @@ un O
 pico O
 febril O
 de O
-39 O
-º O
+39º O
 C O
 . O
 y O
@@ -31264,14 +31254,12 @@ y O
 anchas O
 . O
 
-T O
-ª O
+Tª O
 de O
 37 O
 , O
 8 O
-º O
-C O
+ºC O
 . O
 
 Abdomen O
@@ -31363,8 +31351,7 @@ Leuc O
 . O
 800 O
 / O
-µ O
-L O
+µL O
 , O
 Neut O
 76 O
@@ -32078,8 +32065,7 @@ dado O
 de O
 alta O
 al O
-10 O
-º O
+10º O
 día O
 . O
 
@@ -32629,8 +32615,7 @@ posterolateral O
 izquierda O
 a O
 nivel O
-XII O
-ª O
+XIIª O
 costilla O
 . O
 
@@ -38229,8 +38214,7 @@ de O
 glucosa O
 y O
 50 O
-µ O
-l O
+µl O
 de O
 sangre O
 . O
@@ -39858,9 +39842,7 @@ y O
 fiebre O
 de O
 hasta O
-38 O
-º O
-C O
+38ºC O
 . O
 
 Llevaba O
@@ -39930,9 +39912,7 @@ temperatura O
 de O
 38 O
 , O
-6 O
-º O
-C O
+6ºC O
 , O
 constantes O
 vitales O
@@ -41394,8 +41374,7 @@ favorable O
 . O
 
 Al O
-5 O
-º O
+5º O
 día O
 el O
 paciente O
@@ -41526,8 +41505,7 @@ drenajes O
 y O
 , O
 al O
-10 O
-º O
+10º O
 día O
 , O
 la O
@@ -43448,9 +43426,7 @@ febril O
 de O
 38 O
 , O
-5 O
-º O
-C O
+5ºC O
 . O
 
 La O
@@ -44083,8 +44059,7 @@ hasta O
 39 O
 , O
 5 O
-º O
-C O
+ºC O
 de O
 predominio O
 vespertino O
@@ -44175,8 +44150,7 @@ VSG O
 100 O
 a O
 la O
-2 O
-ª O
+2ª O
 hora O
 y O
 PCR O
@@ -45085,9 +45059,7 @@ objetiva O
 fiebre O
 de O
 hasta O
-39 O
-º O
-C O
+39ºC O
 , O
 el O
 paciente O
@@ -45963,8 +45935,7 @@ fiebre O
 ( O
 38 O
 , O
-5 O
-º O
+5º O
 ) O
 de O
 diez O
@@ -50149,8 +50120,7 @@ relativa O
 ( O
 2800 O
 / O
-µ O
-L O
+µL O
 ) O
 . O
 
@@ -50435,8 +50405,7 @@ el O
 lecho O
 de O
 la O
-12 O
-ª O
+12ª O
 costilla O
 . O
 
@@ -51245,8 +51214,7 @@ fiebre O
 ( O
 38 O
 - O
-39 O
-º O
+39º O
 C O
 ) O
 se O
@@ -51341,8 +51309,7 @@ ocasiones O
 anteriores O
 . O
 
-5 O
-ª O
+5ª O
 Leoch O
 de O
 litiasis O
@@ -51470,8 +51437,7 @@ control O
 . O
 
 Al O
-4 O
-º O
+4º O
 día O
 postoperatorio O
 fue O
@@ -51763,8 +51729,7 @@ este O
 riñón O
 . O
 
-N O
-º O
+Nº O
 ondas O
 e O
 intensidad O
@@ -51964,8 +51929,7 @@ Primera O
 Leoch O
 . O
 
-N O
-º O
+Nº O
 e O
 intensidad O
 de O
@@ -52909,8 +52873,7 @@ fiebre O
 37 O
 , O
 6 O
-º O
-C O
+ºC O
 ) O
 , O
 dolor O
@@ -56180,9 +56143,7 @@ regresión O
 parcial O
 de O
 las O
-let O
-à O
-lides O
+letàlides O
 y O
 desaparición O
 de O
@@ -59735,9 +59696,7 @@ Babylog O
 8000 O
 plus O
 , O
-Dr O
-ä O
-ger O
+Dräger O
 Medizintechnik O
 GMBH O
 . O
@@ -60019,8 +59978,7 @@ de O
 dopamina B-FARMACO
 a O
 8 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -60206,8 +60164,7 @@ su O
 temperatura O
 de O
 37 O
-º O
-C O
+ºC O
 . O
 
 En O
@@ -60392,8 +60349,7 @@ de O
 35 O
 , O
 2 O
-º O
-C O
+ºC O
 , O
 una O
 presión O
@@ -60506,8 +60462,7 @@ normal O
 , O
 06 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 , O
@@ -60808,8 +60763,7 @@ normal O
 < O
 20 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 y O
@@ -60824,8 +60778,7 @@ normal O
 < O
 35 O
 ) O
-µ O
-g O
+µg O
 / O
 l O
 . O
@@ -60879,8 +60832,7 @@ de O
 25 O
 , O
 6 O
-µ O
-g O
+µg O
 / O
 l O
 y O
@@ -60916,8 +60868,7 @@ presentó O
 fiebre O
 de O
 40 O
-º O
-C O
+ºC O
 e O
 hipotensión O
 arterial O
@@ -61393,8 +61344,7 @@ alcanzó O
 una O
 hipotermia O
 de O
-29 O
-º O
+29º O
 C O
 . O
 Se O
@@ -61443,8 +61393,7 @@ remifentanilo B-FARMACO
 0 O
 , O
 02 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61527,8 +61476,7 @@ a O
 4 O
 , O
 5 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61626,8 +61574,7 @@ a O
 0 O
 , O
 4 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61648,8 +61595,7 @@ de O
 dobutamina B-FARMACO
 hasta O
 8 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61758,8 +61704,7 @@ de O
 0 O
 , O
 5 O
-µ O
-g O
+µg O
 . O
 
 kg O
@@ -61812,8 +61757,7 @@ La O
 temperatura O
 central O
 era O
-35 O
-º O
+35º O
 C O
 y O
 no O
@@ -62248,8 +62192,7 @@ leucocitos O
 . O
 820 O
 por O
-µ O
-l O
+µl O
 ( O
 neutrófilos O
 , O
@@ -62926,8 +62869,7 @@ catecolaminas O
 ( O
 dopamina B-FARMACO
 5 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -62936,8 +62878,7 @@ y O
 noradrenalina B-FARMACO
 hasta O
 8 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -63080,8 +63021,7 @@ con O
 fiebre O
 de O
 hasta O
-39 O
-º O
+39º O
 C O
 , O
 mialgias O
@@ -63515,8 +63455,7 @@ salina I-FARMACO
 isotónica I-FARMACO
 calentada O
 a O
-37 O
-º O
+37º O
 C O
 . O
 Infundimos O
@@ -63648,8 +63587,7 @@ de O
 solución B-FARMACO
 salina I-FARMACO
 a O
-37 O
-º O
+37º O
 C O
 para O
 obtener O
@@ -64191,8 +64129,7 @@ y O
 la O
 temperatura O
 de O
-36 O
-º O
+36º O
 C O
 . O
 Los O
@@ -64384,8 +64321,7 @@ temperatura O
 de O
 36 O
 , O
-7 O
-º O
+7º O
 C O
 . O
 En O
@@ -64747,8 +64683,7 @@ temperatura O
 de O
 35 O
 , O
-8 O
-º O
+8º O
 C O
 . O
 La O
@@ -65846,8 +65781,7 @@ séptico O
 noradrenalina B-FARMACO
 máxima O
 1 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -66291,8 +66225,7 @@ máxima O
 1 O
 , O
 5 O
-µ O
-g O
+µg O
 / O
 kg O
 / O
@@ -69177,8 +69110,7 @@ leucocitaria O
 × O
 103 O
 / O
-μ O
-l O
+μl O
 ) O
 . O
 
@@ -70428,8 +70360,7 @@ es O
 de O
 109células O
 / O
-µ O
-l O
+µl O
 y O
 la O
 carga O
@@ -70437,8 +70368,7 @@ viral O
 < O
 40copias O
 / O
-µ O
-l O
+µl O
 . O
 
 Varón O
@@ -72044,9 +71974,7 @@ fiebre O
 ( O
 38 O
 , O
-4 O
-º O
-C O
+4ºC O
 ) O
 y O
 distensión O
@@ -76621,8 +76549,7 @@ TSH O
 6 O
 , O
 6 O
-µ O
-U O
+µU O
 / O
 ml O
 , O
@@ -80297,8 +80224,7 @@ alfacalcidol B-FARMACO
 intravenoso O
 ( O
 2 O
-µ O
-g O
+µg O
 ) O
 inmediatamente O
 después O
@@ -81837,8 +81763,7 @@ férricos O
 sideremia O
 : O
 25 O
-µ O
-g O
+µg O
 / O
 dl O
 ( O
@@ -84522,8 +84447,7 @@ de O
 50 O
 , O
 087 O
-µ O
-g O
+µg O
 / O
 ml O
 . O
@@ -87796,8 +87720,7 @@ día O
 448 O
 hematíes O
 / O
-μ O
-l O
+μl O
 en O
 sedimento O
 , O
@@ -87933,8 +87856,7 @@ y O
 250 O
 hematíes O
 / O
-μ O
-l O
+μl O
 , O
 con O
 normoalbuminemia O
@@ -89208,12 +89130,10 @@ tratamiento O
 con O
 IFN B-FARMACO
 pegilado I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 , O
 135 O
-μ O
-g O
+μg O
 semanales O
 , O
 y O
@@ -92991,8 +92911,7 @@ oculto O
 700 O
 copias O
 / O
-µ O
-g O
+µg O
 RNA O
 total O
 en O
@@ -95899,11 +95818,7 @@ deleterious O
 ; O
 MutationTaster O
 : O
-disease O
-_ O
-causing O
-_ O
-automatic O
+disease_causing_automatic O
 ; O
 mutation O
 assessor O
@@ -97561,8 +97476,7 @@ de O
 43 O
 , O
 9 O
-µ O
-g O
+µg O
 / O
 dl O
 a O
@@ -99964,8 +99878,7 @@ semanas O
 de O
 gestación O
 , O
-12 O
-º O
+12º O
 día O
 de O
 apoyo O
@@ -104532,8 +104445,7 @@ dl O
 , O
 Fe O
 63 O
-μ O
-g O
+μg O
 / O
 dl O
 ( O
@@ -104582,8 +104494,7 @@ hematíes O
 . O
 000 O
 / O
-μ O
-l O
+μl O
 ( O
 4 O
 . O
@@ -104644,8 +104555,7 @@ leucocitos O
 . O
 760 O
 / O
-μ O
-l O
+μl O
 ( O
 3 O
 . O
@@ -104659,8 +104569,7 @@ l O
 linfocitos O
 830 O
 / O
-μ O
-l O
+μl O
 ( O
 800 O
 - O
@@ -104674,8 +104583,7 @@ polimorfonucleares O
 . O
 250 O
 / O
-μ O
-l O
+μl O
 ( O
 1 O
 . O
@@ -104697,8 +104605,7 @@ plaquetas O
 . O
 000 O
 / O
-μ O
-l O
+μl O
 ( O
 125 O
 . O
@@ -104752,8 +104659,7 @@ ml O
 , O
 zinc O
 52 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -107130,8 +107036,7 @@ a O
 0 O
 . O
 25 O
-μ O
-g O
+μg O
 / O
 48 O
 horas O
@@ -109925,8 +109830,7 @@ leucocitos O
 700 O
 células O
 / O
-μ O
-l O
+μl O
 ( O
 mononucleares O
 92 O
@@ -110068,8 +109972,7 @@ dosis O
 creciente O
 hasta O
 100 O
-μ O
-g O
+μg O
 / O
 8 O
 h O
@@ -110162,8 +110065,7 @@ de O
 700 O
 cél O
 / O
-μ O
-l O
+μl O
 . O
 
 Durante O
@@ -110270,8 +110172,7 @@ linfocitos O
 700 O
 cél O
 / O
-μ O
-l O
+μl O
 . O
 
 La O
@@ -115293,9 +115194,7 @@ añadiéndose O
 fiebre O
 de O
 hasta O
-39 O
-º O
-C O
+39ºC O
 en O
 los O
 dos O
@@ -115510,8 +115409,7 @@ duodenal O
 y O
 biopsia O
 de O
-2 O
-ª O
+2ª O
 porción O
 duodenal O
 sin O
@@ -116589,8 +116487,7 @@ de O
 hasta O
 38 O
 , O
-5 O
-º O
+5º O
 que O
 cede O
 bien O
@@ -117107,8 +117004,7 @@ fiebre O
 de O
 hasta O
 38 O
-º O
-C O
+ºC O
 y O
 de O
 sudoración O
@@ -117633,11 +117529,9 @@ la O
 exploración O
 física O
 destacaba O
-T O
-ª O
+Tª O
 39 O
-º O
-C O
+ºC O
 , O
 afectación O
 del O
@@ -118370,8 +118264,7 @@ dL O
 900 O
 leucocitos O
 / O
-µ O
-L O
+µL O
 ( O
 79 O
 % O
@@ -118387,8 +118280,7 @@ linfocitos O
 000 O
 plaquetas O
 / O
-µ O
-L O
+µL O
 ; O
 sodio O
 119 O
@@ -119793,9 +119685,7 @@ prótesis O
 mitral O
 metálica O
 tipo O
-Bj O
-ö O
-rk O
+Björk O
 - O
 Shilley O
 y O
@@ -120099,8 +119989,7 @@ vegetaciones O
 . O
 
 Al O
-9 O
-º O
+9º O
 día O
 de O
 tratamiento O
@@ -120350,8 +120239,7 @@ hasta O
 38 O
 , O
 5 O
-º O
-C O
+ºC O
 , O
 dolor O
 lumbar O
@@ -120497,14 +120385,12 @@ dl O
 000 O
 plaquetas O
 / O
-µ O
-L O
+µL O
 , O
 5020 O
 leucocitos O
 / O
-µ O
-L O
+µL O
 , O
 con O
 82 O
@@ -120528,8 +120414,7 @@ de O
 mm O
 en O
 la O
-1 O
-ª O
+1ª O
 hora O
 , O
 y O
@@ -121840,8 +121725,7 @@ hematíes O
 . O
 000 O
 / O
-µ O
-l O
+µl O
 , O
 VCM O
 81 O
@@ -121882,8 +121766,7 @@ reticulocitos O
 . O
 000 O
 / O
-µ O
-l O
+µl O
 ) O
 ; O
 b O
@@ -121896,8 +121779,7 @@ plaquetas O
 . O
 000 O
 / O
-µ O
-l O
+µl O
 ; O
 y O
 c O
@@ -121910,8 +121792,7 @@ leucocitos O
 . O
 500 O
 / O
-µ O
-l O
+µl O
 . O
 
 - O
@@ -122092,8 +121973,7 @@ dl O
 , O
 ferritina O
 7597 O
-µ O
-g O
+µg O
 / O
 dl O
 , O
@@ -123615,9 +123495,7 @@ cultivo O
 en O
 medio O
 de O
-L O
-ö O
-wenstein O
+Löwenstein O
 - O
 Jensen O
 del O
@@ -124077,8 +123955,7 @@ VSG O
 mm O
 a O
 la O
-1 O
-ª O
+1ª O
 hora O
 . O
 
@@ -125221,8 +125098,7 @@ destacó O
 fiebre O
 de O
 38 O
-º O
-C O
+ºC O
 , O
 cianosis O
 central O
@@ -127515,8 +127391,7 @@ con O
 fiebre O
 de O
 38 O
-º O
-C O
+ºC O
 evidenciándose O
 unas O
 lesiones O
@@ -127927,8 +127802,7 @@ hasta O
 38 O
 , O
 5 O
-º O
-C O
+ºC O
 ) O
 , O
 desarrolla O
@@ -127995,14 +127869,12 @@ física O
 , O
 hallamos O
 : O
-T O
-ª O
+Tª O
 : O
 37 O
 , O
 5 O
-º O
-C O
+ºC O
 ; O
 TA O
 : O
@@ -129014,11 +128886,9 @@ en O
 fiebre O
 diaria O
 de O
-39 O
-º O
+39º O
 - O
-40 O
-º O
+40º O
 , O
 dolor O
 intenso O
@@ -130390,9 +130260,7 @@ diagnosticada O
 de O
 macroglobulinemia O
 de O
-Waldenstr O
-ö O
-m O
+Waldenström O
 . O
 
 Debido O
@@ -130523,8 +130391,7 @@ de O
 37 O
 , O
 5 O
-º O
-C O
+ºC O
 , O
 tumefacción O
 y O
@@ -130613,8 +130480,7 @@ de O
 120 O
 mm O
 / O
-1 O
-ª O
+1ª O
 hora O
 . O
 
@@ -132324,13 +132190,11 @@ buen O
 estado O
 general O
 con O
-T O
-ª O
+Tª O
 37 O
 , O
 5 O
-º O
-C O
+ºC O
 , O
 la O
 tensión O
@@ -132694,8 +132558,7 @@ de O
 38 O
 , O
 5 O
-º O
-C O
+ºC O
 de O
 predominio O
 vespertino O
@@ -134461,8 +134324,7 @@ Mycoplasma O
 . O
 
 Al O
-8 O
-º O
+8º O
 día O
 del O
 inicio O
@@ -134495,8 +134357,7 @@ alguna O
 . O
 
 Al O
-9 O
-º O
+9º O
 día O
 presentó O
 un O
@@ -134521,8 +134382,7 @@ izquierda O
 . O
 
 Al O
-11 O
-º O
+11º O
 día O
 presentó O
 un O
@@ -135809,8 +135669,7 @@ febrícula O
 ( O
 37 O
 , O
-6 O
-º O
+6º O
 C O
 ) O
 , O
@@ -135993,8 +135852,7 @@ de O
 85 O
 mm O
 / O
-1 O
-ª O
+1ª O
 h O
 y O
 de O
@@ -136294,9 +136152,7 @@ el O
 cultivo O
 en O
 medio O
-L O
-ö O
-wenstein O
+Löwenstein O
 - O
 Jensen O
 del O
@@ -136425,8 +136281,7 @@ a O
 21 O
 mm O
 / O
-1 O
-ª O
+1ª O
 h O
 y O
 la O
@@ -137059,9 +136914,7 @@ y O
 fiebre O
 intermitente O
 de O
-38 O
-º O
-C O
+38ºC O
 desde O
 un O
 mes O
@@ -137109,8 +136962,7 @@ destacando O
 una O
 temperatura O
 de O
-38 O
-ª O
+38ª O
 C O
 y O
 sin O
@@ -137150,8 +137002,7 @@ medio O
 89 O
 , O
 7 O
-µ O
-mc O
+µmc O
 , O
 el O
 número O
@@ -138814,8 +138665,7 @@ Refiere O
 fiebre O
 ( O
 40 O
-º O
-C O
+ºC O
 ) O
 de O
 predominio O
@@ -139011,8 +138861,7 @@ mantiene O
 fiebre O
 de O
 40 O
-º O
-C O
+ºC O
 , O
 con O
 valores O
@@ -139169,9 +139018,7 @@ mucopurulenta O
 y O
 fiebre O
 de O
-38 O
-º O
-C O
+38ºC O
 . O
 
 Acudió O
@@ -139242,8 +139089,7 @@ mmHg O
 , O
 37 O
 , O
-5 O
-º O
+5º O
 C O
 , O
 estaba O
@@ -140289,11 +140135,9 @@ en O
 terceras O
 falanges O
 del O
-2 O
-º O
+2º O
 y O
-3 O
-º O
+3º O
 dedos O
 de O
 mano O
@@ -140304,14 +140148,11 @@ en O
 terceras O
 falanges O
 del O
-1 O
-º O
+1º O
 , O
-3 O
-º O
+3º O
 y O
-5 O
-º O
+5º O
 dedos O
 de O
 mano O
@@ -141014,11 +140855,9 @@ y O
 necrosis O
 completa O
 de O
-1 O
-ª O
+1ª O
 y O
-2 O
-ª O
+2ª O
 falanges O
 distales O
 de O
@@ -141523,9 +141362,7 @@ agudo O
 El O
 cultivo O
 de O
-L O
-ö O
-westein O
+Löwestein O
 del O
 BAS O
 fue O
@@ -142875,8 +142712,7 @@ de O
 la O
 corona O
 del O
-1 O
-º O
+1º O
 premolar O
 superior O
 derecho O
@@ -145186,8 +145022,7 @@ Cirugía O
 Odontoestomatológica O
 de O
 la O
-Universit O
-à O
+Università O
 degli O
 studi O
 di O
@@ -150791,8 +150626,7 @@ urgencias O
 con O
 fiebre O
 de O
-39 O
-º O
+39º O
 C O
 , O
 exantema O
@@ -152580,8 +152414,7 @@ y O
 epiescleral O
 , O
 pannus O
-360 O
-º O
+360º O
 , O
 pterigión O
 , O
@@ -152610,8 +152443,7 @@ CA O
 y O
 sinequias O
 posteriores O
-360 O
-º O
+360º O
 , O
 con O
 PIO O
@@ -156813,8 +156645,7 @@ de O
 , O
 50 O
 x O
-135 O
-º O
+135º O
 ) O
 en O
 ojo O
@@ -156836,8 +156667,7 @@ y O
 , O
 50 O
 x O
-20 O
-º O
+20º O
 ) O
 en O
 ojo O
@@ -157412,8 +157242,7 @@ de O
 , O
 50 O
 a O
-1 O
-º O
+1º O
 en O
 el O
 ojo O
@@ -157429,8 +157258,7 @@ de O
 , O
 25 O
 a O
-179 O
-º O
+179º O
 en O
 el O
 izquierdo O
@@ -163967,8 +163795,7 @@ del O
 ojo O
 derecho O
 de O
-15 O
-º O
+15º O
 . O
 
 Presenta O
@@ -164018,8 +163845,7 @@ dioptrías O
 - O
 2 O
 a O
-90 O
-º O
+90º O
 ) O
 en O
 ojo O
@@ -164034,8 +163860,7 @@ dioptrías O
 - O
 2 O
 a O
-180 O
-º O
+180º O
 ) O
 en O
 ojo O
@@ -165711,8 +165536,7 @@ una O
 concentración O
 de O
 50 O
-µ O
-g O
+µg O
 / O
 0 O
 , O
@@ -168681,20 +168505,16 @@ una O
 exoforia O
 de O
 - O
-3 O
-º O
+3º O
 - O
-5 O
-º O
+5º O
 de O
 cerca O
 y O
 - O
-5 O
-º O
+5º O
 - O
-7 O
-º O
+7º O
 de O
 lejos O
 . O
@@ -169027,8 +168847,7 @@ realizándose O
 una O
 peritomía O
 de O
-360 O
-º O
+360º O
 , O
 extracción O
 del O
@@ -169756,8 +169575,7 @@ un O
 área O
 de O
 aproximadamente O
-210 O
-º O
+210º O
 de O
 conjuntivalización O
 corneal O
@@ -175280,8 +175098,7 @@ argón O
 tamaño O
 impacto O
 500 O
-µ O
-m O
+µm O
 , O
 0 O
 , O
@@ -176503,8 +176320,7 @@ forma O
 intravítrea O
 , O
 25 O
-μ O
-g O
+μg O
 de O
 r B-FARMACO
 - I-FARMACO
@@ -178936,9 +178752,7 @@ alpha I-FARMACO
 - I-FARMACO
 2b I-FARMACO
 ( O
-100 O
-µ O
-g O
+100µg O
 / O
 semana O
 ) O
@@ -182850,15 +182664,11 @@ de O
 La O
 paquimetría O
 era O
-512 O
-µ O
-m O
+512µm O
 en O
 OD O
 y O
-574 O
-µ O
-m O
+574µm O
 en O
 OI O
 ( O
@@ -186166,9 +185976,7 @@ basal O
 de O
 1 O
 . O
-347 O
-μ O
-m O
+347μm O
 en O
 OD O
 y O
@@ -187511,8 +187319,7 @@ presencia O
 de O
 37 O
 , O
-5 O
-º O
+5º O
 C O
 de O
 temperatura O
@@ -187587,8 +187394,7 @@ Leucocitos O
 . O
 420 O
 por O
-µ O
-l O
+µl O
 ( O
 neutrófilos O
 91 O
@@ -187602,8 +187408,7 @@ Plaquetas O
 . O
 000 O
 por O
-µ O
-l O
+µl O
 ; O
 Dimeros O
 D O
@@ -187775,8 +187580,7 @@ fiebre O
 ( O
 38 O
 , O
-4 O
-º O
+4º O
 C O
 ) O
 y O
@@ -187847,8 +187651,7 @@ leucocitosis O
 . O
 340 O
 por O
-µ O
-l O
+µl O
 , O
 neutrófilos O
 96 O
@@ -188488,8 +188291,7 @@ se O
 mantuvieron O
 durante O
 el O
-2 O
-º O
+2º O
 y O
 el O
 3er O
@@ -188500,8 +188302,7 @@ de O
 Endermología O
 durante O
 el O
-4 O
-º O
+4º O
 mes O
 . O
 
@@ -188880,8 +188681,7 @@ un O
 pico O
 febril O
 de O
-40 O
-º O
+40º O
 C O
 . O
 Se O
@@ -192209,8 +192009,7 @@ de O
 flexión O
 plantar O
 y O
-15 O
-º O
+15º O
 de O
 flexión O
 dorsal O
@@ -210891,9 +210690,7 @@ de O
 laboratorio O
 mostraban O
 una O
-b2 O
-µ O
-globulina O
+b2µglobulina O
 de O
 5 O
 mg O
@@ -211067,10 +210864,7 @@ cuarto O
 los O
 valores O
 de O
-ß O
-2 O
-µ O
-globulina O
+ß2µglobulina O
 ( O
 1 O
 ' O
@@ -214437,8 +214231,7 @@ febrícula O
 ( O
 37 O
 . O
-9 O
-º O
+9º O
 C O
 ) O
 , O
@@ -215877,8 +215670,7 @@ iliaca O
 izquierda O
 , O
 el O
-2 O
-º O
+2º O
 en O
 hemivértebras O
 izquierdas O
@@ -215887,8 +215679,7 @@ y O
 L5 O
 y O
 el O
-3 O
-º O
+3º O
 a O
 la O
 altura O
@@ -216458,8 +216249,7 @@ clínica O
 
 Tras O
 el O
-4 O
-º O
+4º O
 ciclo O
 se O
 realiza O
@@ -216474,8 +216264,7 @@ y O
 al O
 finalizar O
 el O
-6 O
-º O
+6º O
 ciclo O
 se O
 realiza O
@@ -216689,8 +216478,7 @@ paciente O
 
 Tras O
 el O
-2 O
-º O
+2º O
 ciclo O
 la O
 paciente O
@@ -216716,8 +216504,7 @@ en O
 la O
 administración O
 del O
-3 O
-º O
+3º O
 ciclo O
 . O
 
@@ -221793,8 +221580,7 @@ en O
 región O
 dorsal O
 de O
-4t O
-º O
+4tº O
 dedo O
 de O
 pie O
@@ -223989,8 +223775,7 @@ afebril O
 ( O
 36 O
 , O
-3 O
-º O
+3º O
 ) O
 , O
 con O
@@ -224170,8 +223955,7 @@ SatO2 O
 , O
 fiebre O
 ( O
-38 O
-º O
+38º O
 ) O
 , O
 sibilancias O
@@ -225735,8 +225519,7 @@ de O
 fiebre O
 de O
 39 O
-º O
-C O
+ºC O
 , O
 dolor O
 y O
@@ -225783,8 +225566,7 @@ IMC O
 , O
 temperatura O
 37 O
-º O
-C O
+ºC O
 , O
 tensión O
 arterial O
@@ -228951,8 +228733,7 @@ U O
 l O
 ) O
 y O
-γ O
-GT O
+γGT O
 ( O
 107 O
 U O
@@ -229567,8 +229348,7 @@ febricular O
 37 O
 , O
 4 O
-º O
-C O
+ºC O
 ) O
 . O
 
@@ -229808,8 +229588,7 @@ fiebre O
 mayor O
 de O
 39 O
-º O
-C O
+ºC O
 . O
 
 Se O
@@ -230627,8 +230406,7 @@ de O
 38 O
 , O
 5 O
-º O
-C O
+ºC O
 , O
 sin O
 otra O
@@ -230681,14 +230459,12 @@ FR O
 20 O
 rpm O
 , O
-t O
-ª O
+tª O
 axilar O
 37 O
 , O
 3 O
-º O
-C O
+ºC O
 . O
 
 Auscultación O
@@ -232419,8 +232195,7 @@ min O
 , O
 temperatura O
 37 O
-º O
-C O
+ºC O
 y O
 saturación O
 O2 O
@@ -233618,8 +233393,7 @@ ileostomía O
 . O
 
 El O
-8 O
-º O
+8º O
 día O
 postoperatorio O
 ante O
@@ -234057,8 +233831,7 @@ mediante O
 dos O
 puertos O
 del O
-n O
-º O
+nº O
 12 O
 , O
 periumbilical O
@@ -236982,8 +236755,7 @@ pediátrica O
 . O
 
 El O
-7 O
-º O
+7º O
 día O
 postoperatorio O
 se O
@@ -237132,8 +236904,7 @@ y O
 fiebre O
 de O
 38 O
-º O
-C O
+ºC O
 . O
 
 Diagnosticado O
@@ -237196,14 +236967,12 @@ palidez O
 de O
 piel O
 , O
-T O
-ª O
+Tª O
 : O
 37 O
 , O
 2 O
-º O
-C O
+ºC O
 y O
 en O
 la O
@@ -237227,8 +236996,7 @@ VSG O
 : O
 66 O
 mm O
-1 O
-ª O
+1ª O
 hora O
 , O
 leucocitos O
@@ -238395,8 +238163,7 @@ una O
 temperatura O
 objetivo O
 105 O
-º O
-C O
+ºC O
 , O
 un O
 tiempo O
@@ -239349,8 +239116,7 @@ los O
 niveles O
 séricos O
 de O
-α O
-FP O
+αFP O
 fueron O
 de O
 4 O
@@ -242237,8 +242003,7 @@ dado O
 de O
 alta O
 al O
-5 O
-º O
+5º O
 día O
 . O
 
@@ -242504,8 +242269,7 @@ temperatura O
 36 O
 , O
 8 O
-º O
-C O
+ºC O
 ) O
 y O
 exploración O
@@ -242543,8 +242307,7 @@ L O
 y O
 creatinina O
 67 O
-µ O
-mol O
+µmol O
 / O
 L O
 . O
@@ -243606,8 +243369,7 @@ su O
 retirada O
 completa O
 al O
-4 O
-º O
+4º O
 mes O
 , O
 retirándose O
@@ -245533,8 +245295,7 @@ estando O
 febril O
 ( O
 39 O
-º O
-C O
+ºC O
 ) O
 , O
 hipotenso O
@@ -248686,8 +248447,7 @@ la O
 paciente O
 en O
 el O
-5 O
-º O
+5º O
 día O
 postoperatorio O
 . O
@@ -250100,8 +249860,7 @@ alta O
 al O
 paciente O
 al O
-7 O
-º O
+7º O
 día O
 post O
 - O
@@ -250338,8 +250097,7 @@ satisfactoriamente O
 . O
 
 Al O
-5 O
-º O
+5º O
 día O
 postoperatorio O
 pasa O
@@ -250371,8 +250129,7 @@ de O
 alta O
 en O
 el O
-19 O
-º O
+19º O
 día O
 . O
 
@@ -250701,8 +250458,7 @@ la O
 ingesta O
 oral O
 al O
-4 O
-º O
+4º O
 día O
 y O
 siendo O
@@ -250710,8 +250466,7 @@ dada O
 de O
 alta O
 al O
-7 O
-º O
+7º O
 día O
 . O
 
@@ -251428,8 +251183,7 @@ leucocitosis O
 . O
 200 O
 / O
-μ O
-l O
+μl O
 ) O
 con O
 una O
@@ -254773,8 +254527,7 @@ de O
 2000 O
 y O
 la O
-2 O
-ª O
+2ª O
 serie O
 comenzó O
 en O
@@ -254790,8 +254543,7 @@ la O
 finalización O
 de O
 la O
-1 O
-ª O
+1ª O
 serie O
 . O
 
@@ -255348,8 +255100,7 @@ de O
 se O
 realizó O
 la O
-2 O
-ª O
+2ª O
 serie O
 , O
 2 O
@@ -255360,8 +255111,7 @@ la O
 finalización O
 de O
 la O
-1 O
-ª O
+1ª O
 . O
 
 En O
@@ -255414,8 +255164,7 @@ meses O
 de O
 finalizada O
 la O
-2 O
-ª O
+2ª O
 serie O
 y O
 tras O
@@ -257877,8 +257626,7 @@ positivo O
 , O
 ELISA O
 ( O
-2 O
-ª O
+2ª O
 técnica O
 ) O
 : O
@@ -258202,8 +257950,7 @@ nivel O
 de O
 T12 O
 , O
-8 O
-ª O
+8ª O
 costilla O
 derecha O
 y O
@@ -258211,8 +257958,7 @@ en O
 unión O
 costocondral O
 de O
-6 O
-ª O
+6ª O
 costilla O
 derecha O
 . O
@@ -260885,8 +260631,7 @@ paciente O
 hija O
 del O
 paciente O
-n O
-º O
+nº O
 3 O
 , O
 fue O
@@ -262304,9 +262049,7 @@ empleando O
 el O
 colgajo O
 de O
-Bj O
-ö O
-rk O
+Björk O
 como O
 modo O
 de O
@@ -263804,8 +263547,7 @@ una O
 angulación O
 de O
 aproximadamente O
-45 O
-º O
+45º O
 . O
 
 Esta O
@@ -282543,8 +282285,7 @@ estímulo O
 fue O
 de O
 100 O
-µ O
-segundos O
+µsegundos O
 y O
 la O
 frecuencia O
@@ -288469,8 +288210,7 @@ dexametasona B-FARMACO
 + O
 Aredia B-FARMACO
 ( O
-2 O
-º O
+2º O
 ciclo O
 ) O
 ; O
@@ -288483,8 +288223,7 @@ dexametasona B-FARMACO
 + O
 Aredia B-FARMACO
 ( O
-3 O
-º O
+3º O
 ciclo O
 ) O
 . O
@@ -288555,9 +288294,7 @@ cefalea O
 y O
 fiebre O
 de O
-38 O
-º O
-C O
+38ºC O
 . O
 
 Se O
@@ -291993,8 +291730,7 @@ neutrófilos O
 de O
 50 O
 / O
-µ O
-l O
+µl O
 , O
 y O
 trombopenia O
@@ -292004,8 +291740,7 @@ trombopenia O
 103 O
 plaquetas O
 / O
-µ O
-l O
+µl O
 ) O
 . O
 
@@ -292247,15 +291982,13 @@ plaquetas O
 51 O
 χ O
 103 O
-µ O
-l O
+µl O
 ; O
 neutrófilos O
 = O
 370 O
 / O
-µ O
-l O
+µl O
 ) O
 . O
 
@@ -293685,8 +293418,7 @@ HCC O
 con O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 y O
 RBV B-FARMACO
 ( O
@@ -293770,8 +293502,7 @@ dosis O
 de O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 a O
 135 O
 mcg O
@@ -293847,13 +293578,11 @@ IFN B-FARMACO
 de O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2a I-FARMACO
+α2a I-FARMACO
 a O
 pegIFN B-FARMACO
 - I-FARMACO
-α I-FARMACO
-2b I-FARMACO
+α2b I-FARMACO
 ) O
 y O
 su O
@@ -298062,8 +297791,7 @@ de O
 5 O
 , O
 77 O
-μ O
-g O
+μg O
 / O
 mL O
 . O
@@ -298075,8 +297803,7 @@ hasta O
 10 O
 , O
 81 O
-μ O
-g O
+μg O
 / O
 mL O
 el O
@@ -300757,8 +300484,7 @@ cortisol O
 19 O
 . O
 7 O
-μ O
-g O
+μg O
 / O
 dL O
 ) O
@@ -301930,8 +301656,7 @@ inferiores O
 8 O
 , O
 4 O
-μ O
-g O
+μg O
 / O
 mL O
 ) O
@@ -302095,8 +301820,7 @@ hasta O
 43 O
 , O
 1 O
-μ O
-g O
+μg O
 / O
 mL O
 , O
@@ -302171,8 +301895,7 @@ de O
 25 O
 , O
 5 O
-μ O
-g O
+μg O
 / O
 mL O
 . O
@@ -303863,14 +303586,12 @@ y O
 homocisteína O
 de O
 32 O
-μ O
-mol O
+μmol O
 ( O
 4 O
 - O
 15 O
-μ O
-mol O
+μmol O
 / O
 L O
 ) O
@@ -303908,8 +303629,7 @@ de O
 1 O
 . O
 000 O
-μ O
-g O
+μg O
 / O
 día O
 de O
@@ -309324,8 +309044,7 @@ y O
 0 O
 , O
 5 O
-µ O
-g O
+µg O
 . O
 kg O
 - O
@@ -309408,8 +309127,7 @@ remifentanilo B-FARMACO
 0 O
 , O
 25 O
-µ O
-g O
+µg O
 . O
 kg O
 - O
@@ -309620,8 +309338,7 @@ al I-FARMACO
 % I-FARMACO
 con O
 1 O
-µ O
-g O
+µg O
 . O
 ml O
 - O
@@ -310351,8 +310068,7 @@ dos O
 comprimidos O
 de O
 400 O
-µ O
-g O
+µg O
 para O
 controlar O
 sus O
@@ -310927,8 +310643,7 @@ bupivacaína B-FARMACO
 % O
 con O
 2 O
-µ O
-g O
+µg O
 . O
 ml O
 - O
@@ -311058,8 +310773,7 @@ del O
 paciente O
 , O
 al O
-3 O
-º O
+3º O
 día O
 postparto O
 . O
@@ -313003,16 +312717,14 @@ de O
 Durogesic B-FARMACO
 ® O
 100 O
-μ O
-g O
+μg O
 / O
 h O
 más O
 fentanilo B-FARMACO
 transmucosa O
 400 O
-μ O
-g O
+μg O
 de O
 rescate O
 . O
@@ -313101,8 +312813,7 @@ de O
 400 O
 a O
 600 O
-μ O
-g O
+μg O
 . O
 
 A O
@@ -313118,8 +312829,7 @@ paciente O
 Durogesic B-FARMACO
 ® O
 100 O
-μ O
-g O
+μg O
 / O
 h O
 , O
@@ -313178,8 +312888,7 @@ transdérmico O
 genérico O
 de O
 25 O
-μ O
-g O
+μg O
 / O
 h O
 desde O
@@ -313218,8 +312927,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 25 O
-μ O
-g O
+μg O
 / O
 h O
 . O
@@ -313262,8 +312970,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 25 O
-μ O
-g O
+μg O
 / O
 h O
 , O
@@ -313328,8 +313035,7 @@ Durogesic B-FARMACO
 Matrix I-FARMACO
 de O
 50 O
-μ O
-g O
+μg O
 / O
 h O
 desde O
@@ -313426,8 +313132,7 @@ fentanilo B-FARMACO
 transdérmico O
 de O
 50 O
-μ O
-g O
+μg O
 / O
 h O
 genérico O
@@ -313470,8 +313175,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 . O
@@ -313535,8 +313239,7 @@ Durogesic B-FARMACO
 ® I-FARMACO
 Matrix I-FARMACO
 50 O
-μ O
-g O
+μg O
 / O
 h O
 y O
@@ -316418,8 +316121,7 @@ al O
 % O
 con O
 50 O
-μ O
-g O
+μg O
 de O
 fentanilo B-FARMACO
 y O
@@ -316447,8 +316149,7 @@ mg O
 hora O
 y O
 4 O
-μ O
-g O
+μg O
 / O
 hora O
 respectivamente O
@@ -319492,8 +319193,7 @@ parche O
 de O
 fentanilo B-FARMACO
 25 O
-µ O
-g O
+µg O
 / O
 h O
 ( O
@@ -319593,8 +319293,7 @@ oral O
 transmucosa O
 de O
 200 O
-µ O
-g O
+µg O
 ( O
 máximo O
 cada O
@@ -321399,8 +321098,7 @@ fue O
 : O
 fentanilo B-FARMACO
 100 O
-µ O
-g O
+µg O
 , O
 en O
 la O
@@ -321485,8 +321183,7 @@ o O
 y O
 fentanilo B-FARMACO
 400 O
-µ O
-g O
+µg O
 transmucoso O
 30 O
 minutos O
@@ -324346,8 +324043,7 @@ FAL O
 , O
 modelo O
 PARA O
-N O
-º O
+Nº O
 50 O
 - O
 63 O
@@ -331576,8 +331272,7 @@ en O
 flexión O
 fija O
 de O
-40 O
-º O
+40º O
 y O
 actitud O
 en O
@@ -331782,8 +331477,7 @@ extensión O
 y O
 semiflexión O
 de O
-30 O
-º O
+30º O
 , O
 no O
 existiendo O
@@ -331896,8 +331590,7 @@ presentaba O
 flexión O
 de O
 - O
-30 O
-º O
+30º O
 y O
 extensión O
 completa O
@@ -332531,9 +332224,7 @@ febricular O
 ( O
 37 O
 , O
-6 O
-º O
-C O
+6ºC O
 ) O
 , O
 TA O
@@ -332926,9 +332617,7 @@ temperatura O
 termometrada O
 superior O
 a O
-38 O
-º O
-C O
+38ºC O
 , O
 mal O
 estado O
@@ -333319,8 +333008,7 @@ antitérmicos O
 . O
 
 Al O
-10 O
-º O
+10º O
 día O
 de O
 ingreso O
@@ -333336,8 +333024,7 @@ general O
 . O
 
 Al O
-12 O
-º O
+12º O
 de O
 ingreso O
 la O
@@ -333415,8 +333102,7 @@ rodillas O
 tobillo O
 derecho O
 y O
-1 O
-ª O
+1ª O
 MTCF O
 derecha O
 . O
@@ -334483,11 +334169,9 @@ y O
 puntos O
 en O
 el O
-1 O
-º O
+1º O
 y O
-5 O
-º O
+5º O
 minuto O
 , O
 respectivamente O
@@ -336527,8 +336211,7 @@ lpm O
 , O
 ta O
 de O
-36 O
-º O
+36º O
 C O
 ; O
 nauseoso O
@@ -336648,8 +336331,7 @@ leucocitos O
 . O
 500 O
 / O
-µ O
-L O
+µL O
 con O
 87 O
 % O
@@ -339437,8 +339119,7 @@ de O
 1 O
 , O
 7 O
-µ O
-g O
+µg O
 / O
 ml O
 y O
@@ -339453,8 +339134,7 @@ después O
 0 O
 , O
 4 O
-µ O
-g O
+µg O
 / O
 ml O
 ( O
@@ -339468,8 +339148,7 @@ en O
 0 O
 , O
 3 O
-µ O
-g O
+µg O
 / O
 ml O
 ) O
@@ -340182,8 +339861,7 @@ trabajo O
 fueron O
 de O
 52 O
-μ O
-g O
+μg O
 / O
 m3 O
 ( O
@@ -340196,8 +339874,7 @@ VLA O
 es O
 de O
 10 O
-μ O
-g O
+μg O
 / O
 m3 O
 ) O
@@ -340397,8 +340074,7 @@ en O
 sangre O
 de O
 20 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
@@ -340409,9 +340085,7 @@ Biológico O
 VLB O
 ] O
 : O
-5 O
-μ O
-g O
+5μg O
 / O
 l O
 ) O
@@ -340422,8 +340096,7 @@ la O
 orina O
 de O
 85 O
-μ O
-g O
+μg O
 / O
 g O
 de O
@@ -340432,8 +340105,7 @@ creatinina O
 VLB O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 g O
 creatinina O
@@ -340718,16 +340390,14 @@ sangre O
 son O
 de O
 7 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
 VLB O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 l O
 ) O
@@ -340739,16 +340409,14 @@ orina O
 es O
 de O
 18 O
-μ O
-g O
+μg O
 / O
 g O
 ( O
 VLB O
 : O
 5 O
-μ O
-g O
+μg O
 / O
 g O
 ) O
@@ -341467,8 +341135,7 @@ leucocitosis O
 000 O
 células O
 / O
-μ O
-l O
+μl O
 con O
 77 O
 % O
@@ -341760,8 +341427,7 @@ leucocitosis O
 280 O
 células O
 / O
-μ O
-l O
+μl O
 con O
 80 O
 % O
@@ -343555,9 +343221,7 @@ creatinina O
 : O
 0 O
 , O
-6 O
-µ O
-g O
+6µg O
 / O
 mgr O
 . O
@@ -345029,8 +344693,7 @@ de O
 16 O
 y O
 32 O
-µ O
-g O
+µg O
 / O
 mL O
 , O
@@ -351840,8 +351503,7 @@ basal O
 fue O
 de O
 351 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -351858,8 +351520,7 @@ estimulada O
 1788 O
 , O
 7 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -351934,15 +351595,13 @@ en O
 tratamiento O
 con O
 100 O
-µ O
-g O
+µg O
 de O
 levotiroxina B-FARMACO
 presentó O
 TG O
 37 O
-µ O
-g O
+µg O
 / O
 L O
 ( O
@@ -351981,8 +351640,7 @@ de O
 levotiroxina B-FARMACO
 a O
 125 O
-µ O
-g O
+µg O
 . O
 
 En O
@@ -352040,8 +351698,7 @@ TG O
 0 O
 , O
 20 O
-µ O
-g O
+µg O
 / O
 L O
 con O
@@ -353266,8 +352923,7 @@ de O
 ferritina O
 de O
 775 O
-µ O
-g O
+µg O
 / O
 dl O
 , O
@@ -353807,8 +353463,7 @@ leucocitosis O
 300 O
 leucocitos O
 / O
-µ O
-L O
+µL O
 , O
 fórmula O
 normal O
@@ -354769,16 +354424,14 @@ Hto O
 Plaquetas O
 85x1000 O
 / O
-μ O
-l O
+μl O
 , O
 Leucocitos O
 4 O
 , O
 6x1000 O
 / O
-μ O
-l O
+μl O
 
 - O
 Coagulación O
@@ -354861,8 +354514,7 @@ mg O
 , O
 más O
 5 O
-μ O
-g O
+μg O
 de O
 fentanilo B-FARMACO
 ; O
@@ -356756,8 +356408,7 @@ VCM O
 79 O
 , O
 8 O
-µ O
-3 O
+µ3 O
 ; O
 Urea O
 29 O
@@ -356775,15 +356426,13 @@ dL O
 ; O
 Hierro O
 29 O
-µ O
-g O
+µg O
 / O
 dL O
 , O
 Ferritina O
 12 O
-µ O
-g O
+µg O
 / O
 L O
 ) O
@@ -356938,8 +356587,7 @@ VCM O
 77 O
 , O
 2 O
-µ O
-3 O
+µ3 O
 ; O
 Urea O
 57 O
@@ -358510,8 +358158,7 @@ a O
 una O
 posición O
 de O
-90 O
-º O
+90º O
 de O
 la O
 original O
@@ -359141,8 +358788,7 @@ angulación O
 adecuada O
 ( O
 unos O
-30 O
-º O
+30º O
 ) O
 a O
 la O
@@ -359169,8 +358815,7 @@ distales O
 con O
 inclinación O
 de O
-30 O
-º O
+30º O
 . O
 
 Obsérvese O
@@ -359265,9 +358910,7 @@ distal O
 derecho O
 ( O
 implante O
-Br O
-å O
-nemark O
+Brånemark O
 de O
 Nobelbiocare O
 ® O
@@ -359384,8 +359027,7 @@ multi O
 unit O
 angulado O
 de O
-30 O
-º O
+30º O
 . O
 
 Como O
@@ -359399,8 +359041,7 @@ figura O
 la O
 inclinación O
 de O
-30 O
-º O
+30º O
 del O
 implante O
 , O
@@ -360021,8 +359662,7 @@ de O
 2 O
 , O
 02 O
-m O
-_ O
+m_ O
 con O
 cardiopatía O
 isquémica O
@@ -361741,8 +361381,7 @@ IV O
 ) O
 de O
 50 O
-µ O
-g O
+µg O
 / O
 kg O
 de O
@@ -361758,8 +361397,7 @@ segundo O
 bolo O
 de O
 100 O
-µ O
-g O
+µg O
 / O
 kg O
 , O
@@ -361845,8 +361483,7 @@ una O
 concentración O
 de O
 100 O
-µ O
-g O
+µg O
 / O
 ml O
 . O
@@ -361862,8 +361499,7 @@ de O
 ml O
 ( O
 50 O
-µ O
-g O
+µg O
 / O
 kg O
 ) O
@@ -361881,8 +361517,7 @@ de O
 ml O
 ( O
 100 O
-µ O
-g O
+µg O
 / O
 kg O
 ) O
@@ -362061,8 +361696,7 @@ temperatura O
 de O
 37 O
 , O
-4 O
-º O
+4º O
 C O
 , O
 presión O
@@ -367432,8 +367066,7 @@ leucocitosis O
 18 O
 460 O
 / O
-µ O
-l O
+µl O
 ) O
 con O
 predominio O
@@ -369458,13 +369091,11 @@ interés O
 : O
 leucocitos O
 5400 O
-μ O
-l O
+μl O
 , O
 neutrófilos O
 2370 O
-μ O
-l O
+μl O
 ( O
 44 O
 % O
@@ -369785,8 +369416,7 @@ muestra O
 200 O
 leucocitos O
 / O
-µ O
-l O
+µl O
 ( O
 91 O
 % O
@@ -370182,8 +369812,7 @@ máximo O
 38 O
 , O
 5 O
-º O
-C O
+ºC O
 ) O
 , O
 acompañada O
@@ -371355,8 +370984,7 @@ trombocitosis O
 425 O
 000 O
 / O
-µ O
-l O
+µl O
 ) O
 , O
 sin O
@@ -374840,8 +374468,7 @@ inicial O
 leucocitos O
 6310 O
 / O
-µ O
-l O
+µl O
 ( O
 segmentados O
 67 O
@@ -374884,8 +374511,7 @@ plaquetas O
 492 O
 000 O
 / O
-µ O
-l O
+µl O
 , O
 proteína O
 C O
@@ -375018,8 +374644,7 @@ de O
 leucocitos O
 2670 O
 / O
-µ O
-l O
+µl O
 ( O
 segmentados O
 31 O
@@ -375067,8 +374692,7 @@ plaquetas O
 131 O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 Gasometría O
@@ -375308,8 +374932,7 @@ ingreso O
 leucocitos O
 4060 O
 / O
-µ O
-l O
+µl O
 ( O
 segmentados O
 59 O
@@ -375344,8 +374967,7 @@ plaquetas O
 25 O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 En O
@@ -375475,8 +375097,7 @@ analítico O
 8000 O
 plaquetas O
 / O
-µ O
-l O
+µl O
 , O
 se O
 decide O
@@ -375505,8 +375126,7 @@ hasta O
 16 O
 000 O
 / O
-µ O
-l O
+µl O
 . O
 
 Se O
@@ -379714,8 +379334,7 @@ B O
 , O
 109 O
 / O
-µ O
-L O
+µL O
 ) O
 , O
 con O
@@ -382506,9 +382125,7 @@ posibilidad O
 una O
 púrpura O
 de O
-Sch O
-ö O
-nlein O
+Schönlein O
 - O
 Henoch O
 con O
@@ -388591,8 +388208,7 @@ en O
 alcohol O
 metílico O
 de O
-99 O
-º O
+99º O
 , O
 y O
 posteriormente O
@@ -402830,8 +402446,7 @@ CD4 O
 28 O
 células O
 / O
-µ O
-L O
+µL O
 y O
 la O
 de O
@@ -402839,8 +402454,7 @@ CD8 O
 262 O
 células O
 / O
-µ O
-L O
+µL O
 con O
 un O
 cociente O
@@ -403499,8 +403113,7 @@ con O
 fentanilo B-FARMACO
 ( O
 150 O
-μ O
-g O
+μg O
 iv O
 ) O
 , O
@@ -403781,8 +403394,7 @@ iv O
 y O
 fentanilo B-FARMACO
 150 O
-μ O
-g O
+μg O
 iv O
 ) O
 se O
@@ -412958,8 +412570,7 @@ exploración O
 física O
 revela O
 : O
-T O
-ª O
+Tª O
 40 O
 , O
 2 O
@@ -413166,8 +412777,7 @@ VSG O
 : O
 40 O
 mm O
-1 O
-ª O
+1ª O
 hora O
 . O
 
@@ -422593,9 +422203,7 @@ PSA O
 total O
 estaba O
 en O
-2 O
-µ O
-g O
+2µg O
 / O
 ml O
 , O

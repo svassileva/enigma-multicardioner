@@ -1321,8 +1321,7 @@ at O
 0 O
 . O
 3 O
-μ O
-g O
+μg O
 / O
 Kg O
 / O
@@ -2163,8 +2162,7 @@ support O
 dobutamine B-FARMACO
 at O
 10 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -2175,8 +2173,7 @@ at O
 0 O
 . O
 3 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -2187,8 +2184,7 @@ at O
 0 O
 . O
 3 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -2199,8 +2195,7 @@ at O
 0 O
 . O
 05 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -10458,8 +10453,7 @@ Leukocytes O
 800 O
 thousands O
 / O
-μ O
-l O
+μl O
 , O
 PMN O
 70 O
@@ -10483,8 +10477,7 @@ platelets O
 127 O
 thousands O
 / O
-μ O
-l O
+μl O
 , O
 prothrombin O
 activity O
@@ -10780,8 +10773,7 @@ noradrenaline B-FARMACO
 0 O
 . O
 6 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -10793,8 +10785,7 @@ dobutamine B-FARMACO
 10 O
 - O
 12 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -30646,8 +30637,7 @@ TSH O
 1 O
 . O
 13 O
-μ O
-U O
+μU O
 / O
 ml O
 , O
@@ -33856,8 +33846,7 @@ leukocytes O
 , O
 x10e3 O
 / O
-μ O
-l O
+μl O
 ( O
 3 O
 . O
@@ -33883,8 +33872,7 @@ platelets O
 258 O
 x10e3 O
 / O
-μ O
-l O
+μl O
 ( O
 150 O
 - O
@@ -34089,8 +34077,7 @@ cells O
 31 O
 x10e6 O
 / O
-μ O
-l O
+μl O
 ( O
 3 O
 . O
@@ -34133,8 +34120,7 @@ leucocytes O
 3 O
 x10e3 O
 / O
-μ O
-l O
+μl O
 ( O
 3 O
 . O
@@ -34169,8 +34155,7 @@ platelets O
 271 O
 x10e3 O
 / O
-μ O
-l O
+μl O
 ( O
 150 O
 - O
@@ -36000,8 +35985,7 @@ leucocytes O
 1 O
 10e3 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 11 O
@@ -36019,8 +36003,7 @@ platelets O
 234 O
 10e3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -41877,8 +41860,7 @@ of O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 ) O
 . O
 
@@ -42210,8 +42192,7 @@ leucocytes O
 , O
 590 O
 / O
-μ O
-l O
+μl O
 ( O
 77 O
 % O
@@ -42237,8 +42218,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 INR O
@@ -43688,15 +43668,13 @@ leukocytes O
 55 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 128 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Biochemistry O
@@ -45515,8 +45493,7 @@ to O
 0 O
 . O
 2 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -46411,8 +46388,7 @@ profile O
 hydroxyindolacetic O
 acid O
 355 O
-μ O
-mol O
+μmol O
 / O
 orine O
 24 O
@@ -46424,8 +46400,7 @@ values O
 10 O
 - O
 40 O
-μ O
-mol O
+μmol O
 / O
 orine O
 24 O
@@ -47986,16 +47961,14 @@ profile O
 : O
 ferritin O
 54 O
-μ O
-g O
+μg O
 / O
 l O
 . O
 
 Iron O
 94 O
-μ O
-g O
+μg O
 / O
 dl O
 . O
@@ -50010,8 +49983,7 @@ metabolism O
 : O
 ferritin O
 45 O
-μ O
-g O
+μg O
 / O
 l O
 and O
@@ -50032,8 +50004,7 @@ carboxymaltose B-FARMACO
 : O
 ferritin O
 141 O
-μ O
-g O
+μg O
 / O
 l O
 and O
@@ -51435,9 +51406,7 @@ platelets O
 ^ O
 3 O
 / O
-ƒ O
-Ê O
-L O
+ƒÊL O
 ; O
 leucocytes O
 6 O
@@ -51448,9 +51417,7 @@ leucocytes O
 ^ O
 3 O
 / O
-ƒ O
-Ê O
-L O
+ƒÊL O
 . O
 
 Coagulation O
@@ -53723,8 +53690,7 @@ cells O
 56 O
 xmill O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 14 O
@@ -53770,8 +53736,7 @@ platelets O
 277 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 MPV O
 8 O
@@ -53785,8 +53750,7 @@ leucocytes O
 4 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 6 O
@@ -53794,8 +53758,7 @@ neutrophils O
 8 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 % O
@@ -53810,8 +53773,7 @@ lymphocytes O
 8 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 % O
@@ -53826,8 +53788,7 @@ monocytes O
 7 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 % O
@@ -53842,8 +53803,7 @@ eosinophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 % O
@@ -53858,8 +53818,7 @@ basophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 basophils O
 % O
@@ -53940,8 +53899,7 @@ TSH O
 4 O
 . O
 49 O
-μ O
-lU O
+μlU O
 / O
 ml O
 , O
@@ -58516,8 +58474,7 @@ Leukocytes O
 8 O
 , O
 700 O
-μ O
-l O
+μl O
 N O
 82 O
 . O
@@ -58528,8 +58485,7 @@ Platelets O
 163 O
 , O
 000 O
-μ O
-l O
+μl O
 . O
 
 INR O
@@ -59852,8 +59808,7 @@ cells O
 29 O
 x10E6 O
 / O
-μ O
-l O
+μl O
 . O
 
 MCV O
@@ -59885,8 +59840,7 @@ Leucocytes O
 18 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -59907,8 +59861,7 @@ Neutrophils O
 27 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -59926,8 +59879,7 @@ Lymphocytes O
 24 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Monocytes O
@@ -59947,8 +59899,7 @@ Monocytes O
 53 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Eosinophils O
@@ -59988,8 +59939,7 @@ granulocytes O
 15 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 UPLAQ O
@@ -62204,16 +62154,14 @@ metabolism O
 : O
 ferritin O
 59 O
-μ O
-g O
+μg O
 / O
 l O
 . O
 
 Iron O
 48 O
-μ O
-g O
+μg O
 / O
 l O
 . O
@@ -62558,16 +62506,14 @@ metabolism O
 : O
 ferritin O
 190 O
-μ O
-g O
+μg O
 / O
 l O
 . O
 
 Iron O
 70 O
-μ O
-g O
+μg O
 / O
 L O
 . O
@@ -62773,15 +62719,13 @@ metabolism O
 : O
 ferritin O
 180 O
-μ O
-g O
+μg O
 / O
 l O
 , O
 iron O
 68 O
-μ O
-g O
+μg O
 / O
 l O
 , O
@@ -65967,8 +65911,7 @@ at O
 0 O
 . O
 7 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -70429,8 +70372,7 @@ hours O
 198 O
 , O
 7 O
-μ O
-g O
+μg O
 / O
 24 O
 hours O
@@ -70443,8 +70385,7 @@ hours O
 377 O
 . O
 4 O
-μ O
-g O
+μg O
 / O
 24 O
 hours O
@@ -71195,16 +71136,14 @@ leukocytes O
 , O
 500 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 212 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Baseline O
@@ -78267,8 +78206,7 @@ cells O
 01 O
 xmill O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 11 O
@@ -78314,8 +78252,7 @@ platelets O
 141 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 MPV O
 10 O
@@ -78329,8 +78266,7 @@ leukocytes O
 3 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 3 O
@@ -78338,8 +78274,7 @@ neutrophils O
 9 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 % O
@@ -78354,8 +78289,7 @@ lymphocytes O
 6 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 % O
@@ -78370,8 +78304,7 @@ monocytes O
 4 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 % O
@@ -78386,8 +78319,7 @@ eosinophils O
 4 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 % O
@@ -78402,8 +78334,7 @@ basophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 basophils O
 % O
@@ -78588,8 +78519,7 @@ ml O
 , O
 iron O
 49 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -78609,8 +78539,7 @@ saturation O
 , O
 TIBC O
 351 O
-μ O
-g O
+μg O
 / O
 dl O
 . O
@@ -82196,8 +82125,7 @@ cells O
 47 O
 x10 O
 / O
-μ O
-l O
+μl O
 . O
 
 Haematocrit O
@@ -84753,8 +84681,7 @@ nadir O
 100 O
 cells O
 / O
-μ O
-L O
+μL O
 ) O
 ; O
 platelets O
@@ -85796,8 +85723,7 @@ of O
 100 O
 cells O
 / O
-μ O
-l O
+μl O
 and O
 31000 O
 / O
@@ -89858,8 +89784,7 @@ Ferrokinetics O
 : O
 iron O
 75 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -89893,16 +89818,14 @@ leucocytes O
 , O
 300 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 292 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 reticulocytes O
 1 O
@@ -96754,8 +96677,7 @@ dl O
 leukocytes O
 2400 O
 / O
-μ O
-l O
+μl O
 ( O
 1900 O
 segmented O
@@ -96770,8 +96692,7 @@ monocytes O
 platelets O
 130000 O
 / O
-μ O
-l O
+μl O
 ; O
 glycaemia O
 : O
@@ -96963,8 +96884,7 @@ dl O
 Leukocytes O
 4700 O
 / O
-μ O
-l O
+μl O
 ( O
 3600 O
 segmented O
@@ -96979,8 +96899,7 @@ monocytes O
 platelets O
 237000 O
 / O
-μ O
-l O
+μl O
 ; O
 glycaemia O
 : O
@@ -97069,8 +96988,7 @@ ultrasensitive O
 troponin O
 I O
 78 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
@@ -97078,8 +96996,7 @@ reference O
 limit O
 < O
 20 O
-μ O
-g O
+μg O
 / O
 l O
 ) O
@@ -97099,8 +97016,7 @@ profile O
 : O
 iron O
 147 O
-μ O
-g O
+μg O
 / O
 dl O
 ( O
@@ -97111,8 +97027,7 @@ ref O
 , O
 ferritin O
 94 O
-μ O
-g O
+μg O
 / O
 ml O
 , O
@@ -102843,8 +102758,7 @@ leucocytes O
 4 O
 x1000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Red O
@@ -102854,8 +102768,7 @@ cells O
 87 O
 xmill O
 / O
-μ O
-l O
+μl O
 . O
 
 Haemoglobin O
@@ -102911,8 +102824,7 @@ Platelets O
 240 O
 x1000 O
 / O
-μ O
-l O
+μl O
 . O
 
 MPV O
@@ -102928,8 +102840,7 @@ Neutrophils O
 1 O
 x1000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -102945,8 +102856,7 @@ Lymphocytes O
 2 O
 x1000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -102962,8 +102872,7 @@ Monocytes O
 1 O
 x1000 O
 / O
-μ O
-l O
+μl O
 Monocytes O
 % O
 11 O
@@ -102975,8 +102884,7 @@ Eosinophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Eosinophils O
@@ -102987,8 +102895,7 @@ Basophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 Basophils O
 % O
 0 O
@@ -104409,8 +104316,7 @@ Platelets O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Leucocytes O
@@ -104423,8 +104329,7 @@ Leucocytes O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -104442,8 +104347,7 @@ Neutrophils O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -104461,8 +104365,7 @@ Lymphocytes O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Prothrombin O
@@ -108719,8 +108622,7 @@ I O
 30 O
 . O
 52 O
-μ O
-g O
+μg O
 / O
 l O
 ( O
@@ -108789,8 +108691,7 @@ Leukocytes O
 26 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 ( O
 4 O
 . O
@@ -108807,8 +108708,7 @@ neutrophils O
 27 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Haemolobin O
@@ -109135,8 +109035,7 @@ Maximum O
 troponin O
 I O
 102 O
-μ O
-g O
+μg O
 / O
 l O
 . O
@@ -110634,9 +110533,7 @@ characteristic O
 of O
 Henoch O
 - O
-Sch O
-ö O
-nlein O
+Schönlein O
 purpura O
 , O
 we O
@@ -110679,17 +110576,13 @@ SAMS O
 with O
 manifestations O
 of O
-Sch O
-ö O
-nlein O
+Schönlein O
 - O
 Henoch O
 purpura O
 ( O
 " O
-Sch O
-ö O
-nlein O
+Schönlein O
 - O
 Henoch O
 like O
@@ -117613,8 +117506,7 @@ leucocytes O
 , O
 600 O
 / O
-μ O
-l O
+μl O
 with O
 normal O
 formula O
@@ -117624,8 +117516,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -128347,8 +128238,7 @@ leukocytes O
 , O
 600 O
 / O
-μ O
-l O
+μl O
 ( O
 normal O
 leukocyte O
@@ -128374,8 +128264,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -129344,8 +129233,7 @@ leukocytes O
 , O
 220 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 12 O
@@ -129360,8 +129248,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 INR O
 2 O
@@ -130667,8 +130554,7 @@ TSH O
 0 O
 . O
 74 O
-μ O
-U O
+μU O
 / O
 ml O
 , O
@@ -134005,8 +133891,7 @@ fl O
 leukocytes O
 5880 O
 / O
-μ O
-l O
+μl O
 with O
 normal O
 formula O
@@ -134014,8 +133899,7 @@ formula O
 platelets O
 132000 O
 / O
-μ O
-l O
+μl O
 . O
 
 INR O
@@ -134429,8 +134313,7 @@ fl O
 leukocytes O
 7200 O
 / O
-μ O
-l O
+μl O
 with O
 normal O
 formula O
@@ -134438,8 +134321,7 @@ formula O
 platelets O
 225000 O
 / O
-μ O
-l O
+μl O
 . O
 
 INR O
@@ -149296,8 +149178,7 @@ cells O
 x O
 mill O
 / O
-μ O
-l O
+μl O
 . O
 
 Haemoglobin O
@@ -149348,8 +149229,7 @@ Platelets O
 . O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 MPV O
@@ -149364,8 +149244,7 @@ Leukocytes O
 , O
 600 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -149373,8 +149252,7 @@ Neutrophils O
 , O
 100 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -149387,8 +149265,7 @@ Neutrophils O
 Lymphocytes O
 900 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -149401,8 +149278,7 @@ Lymphocytes O
 Monocytes O
 600 O
 / O
-μ O
-l O
+μl O
 . O
 
 Monocytes O
@@ -149415,8 +149291,7 @@ Monocytes O
 Eosinophils O
 0 O
 / O
-μ O
-l O
+μl O
 . O
 
 Eosinophils O
@@ -149431,8 +149306,7 @@ cent O
 Basophils O
 0 O
 / O
-μ O
-l O
+μl O
 . O
 
 Basophils O
@@ -151664,9 +151538,7 @@ with O
 Marfan O
 syndrome O
 ( O
-NC O
-_ O
-000015 O
+NC_000015 O
 . O
 9 O
 mutation O
@@ -154696,8 +154568,7 @@ cells O
 38 O
 x10E6 O
 / O
-μ O
-l O
+μl O
 . O
 
 MCV O
@@ -154720,8 +154591,7 @@ Leukocytes O
 09 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -154740,8 +154610,7 @@ blood O
 25 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -154759,8 +154628,7 @@ Lymphocytes O
 44 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 UPLAQ O
@@ -154768,8 +154636,7 @@ platelets O
 313 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Haematocrit O
@@ -155270,8 +155137,7 @@ cells O
 30 O
 x10E6 O
 / O
-μ O
-l O
+μl O
 . O
 
 MCV O
@@ -155303,8 +155169,7 @@ Leukocytes O
 85 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -155324,8 +155189,7 @@ Neutrophils O
 77 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -155343,8 +155207,7 @@ Lymphocytes O
 40 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Monocytes O
@@ -155364,8 +155227,7 @@ platelets O
 271 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 VPM O
@@ -155565,8 +155427,7 @@ index O
 . O
 Iron O
 71 O
-μ O
-g O
+μg O
 / O
 dl O
 . O
@@ -161621,8 +161482,7 @@ Haemogram O
 leucocytes O
 16800 O
 / O
-μ O
-L O
+μL O
 ( O
 80 O
 % O
@@ -161642,8 +161502,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -167965,8 +167824,7 @@ cells O
 17 O
 x10E6 O
 / O
-μ O
-l O
+μl O
 , O
 MCV O
 88 O
@@ -167994,8 +167852,7 @@ leucocytes O
 39 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 ( O
@@ -168014,8 +167871,7 @@ neutrophils O
 83 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 ( O
@@ -168032,8 +167888,7 @@ lymphocytes O
 17 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 ( O
@@ -168052,8 +167907,7 @@ monocytes O
 21 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 ( O
@@ -168093,16 +167947,14 @@ granulocytes O
 54 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 UPLAQ O
 191 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 , O
 VPM O
 10 O
@@ -169209,8 +169061,7 @@ negative O
 0 O
 . O
 014 O
-μ O
-g O
+μg O
 / O
 l O
 ) O
@@ -169222,8 +169073,7 @@ dimer O
 0 O
 . O
 5 O
-μ O
-g O
+μg O
 / O
 ml O
 . O
@@ -171324,8 +171174,7 @@ leucocytes O
 , O
 600 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 12 O
@@ -171340,8 +171189,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -173955,16 +173803,14 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 leucocytes O
 14 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 International O
@@ -180014,14 +179860,12 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 leukocytes O
 8430 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 66 O
@@ -181763,16 +181607,14 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 leucocytes O
 6 O
 , O
 500 O
 / O
-μ O
-l O
+μl O
 , O
 INR O
 1 O
@@ -183870,8 +183712,7 @@ leukocytes O
 11 O
 , O
 600 O
-μ O
-L O
+μL O
 ( O
 N O
 68 O
@@ -183880,8 +183721,7 @@ N O
 , O
 platelets O
 77000 O
-μ O
-L O
+μL O
 . O
 
 ECOCARDIOGRAM O
@@ -194304,8 +194144,7 @@ platelets O
 ^ O
 3 O
 / O
-μ O
-L O
+μL O
 [ O
 135 O
 - O
@@ -194321,8 +194160,7 @@ leucocytes O
 ^ O
 3 O
 / O
-μ O
-L O
+μL O
 [ O
 4 O
 . O
@@ -194433,8 +194271,7 @@ metabolism O
 : O
 iron O
 93 O
-μ O
-g O
+μg O
 / O
 dl O
 [ O
@@ -194478,8 +194315,7 @@ TSH O
 1 O
 . O
 29 O
-μ O
-U O
+μU O
 / O
 ml O
 [ O
@@ -198076,8 +197912,7 @@ cells O
 76 O
 x10E6 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 13 O
@@ -198122,8 +197957,7 @@ Leukocytes O
 73 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Neutrophils O
@@ -198144,8 +197978,7 @@ Neutrophils O
 03 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Lymphocytes O
@@ -198163,8 +197996,7 @@ Lymphocytes O
 33 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Monocytes O
@@ -198182,8 +198014,7 @@ Monocytes O
 33 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Eosinophils O
@@ -198203,8 +198034,7 @@ Eosinophils O
 01 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 low O
 ( O
 a O
@@ -198228,8 +198058,7 @@ Basophils O
 03 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 UPLAQ O
@@ -198237,8 +198066,7 @@ platelets O
 214 O
 x10E3 O
 / O
-μ O
-l O
+μl O
 . O
 
 VPM O
@@ -201104,8 +200932,7 @@ l O
 , O
 iron O
 103 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -201137,8 +200964,7 @@ TSH O
 0 O
 . O
 005 O
-μ O
-U O
+μU O
 / O
 ml O
 , O
@@ -201208,8 +201034,7 @@ platelets O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 leucocytes O
 5 O
@@ -201219,8 +201044,7 @@ leucocytes O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 43 O
@@ -209972,8 +209796,7 @@ Leukocytes O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Platelets O
@@ -209984,8 +209807,7 @@ Platelets O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Biochemistry O
@@ -214140,9 +213962,7 @@ the O
 TTN O
 gene O
 : O
-NP O
-_ O
-003310 O
+NP_003310 O
 . O
 4 O
 : O
@@ -214151,9 +213971,7 @@ p O
 Arg5902 O
 * O
 , O
-M O
-_ O
-003319 O
+M_003319 O
 . O
 4 O
 : O
@@ -214163,9 +213981,7 @@ c O
 > O
 T O
 , O
-NC O
-_ O
-000002 O
+NC_000002 O
 . O
 11g O
 . O
@@ -218818,8 +218634,7 @@ CBC O
 leukocytes O
 6600 O
 / O
-μ O
-l O
+μl O
 ( O
 70 O
 % O
@@ -218839,8 +218654,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -234486,8 +234300,7 @@ Tyrotropin O
 2 O
 . O
 71 O
-μ O
-IU O
+μIU O
 / O
 ml O
 ( O
@@ -238884,9 +238697,7 @@ normal O
 < O
 0 O
 . O
-01 O
-μ O
-g O
+01μg O
 / O
 l O
 ) O
@@ -240324,16 +240135,14 @@ platelets O
 , O
 000 O
 / O
-μ O
-L O
+μL O
 ; O
 leukocytes O
 9 O
 , O
 200 O
 / O
-μ O
-L O
+μL O
 ( O
 N O
 78 O
@@ -240660,8 +240469,7 @@ at O
 0 O
 . O
 2 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -240735,8 +240543,7 @@ noradrenaline B-FARMACO
 up O
 to O
 2 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -240748,8 +240555,7 @@ dopamine B-FARMACO
 up O
 to O
 20 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -240763,8 +240569,7 @@ to O
 0 O
 . O
 4 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -241537,8 +241342,7 @@ leucocytes O
 ^ O
 3 O
 / O
-μ O
-L O
+μL O
 ( O
 N O
 52 O
@@ -241555,8 +241359,7 @@ platelets O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Chest O
@@ -244132,16 +243935,14 @@ platelets O
 , O
 000 O
 / O
-μ O
-L O
+μL O
 . O
 Leukocytes O
 5 O
 , O
 670 O
 / O
-μ O
-L O
+μL O
 . O
 Slight O
 iron O
@@ -244149,8 +243950,7 @@ deficiency O
 ( O
 iron O
 34 O
-μ O
-g O
+μg O
 / O
 dl O
 ) O
@@ -247849,8 +247649,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-L O
+μL O
 , O
 the O
 rest O
@@ -252492,9 +252291,7 @@ cardiac O
 - O
 type O
 , O
-NP O
-_ O
-000247 O
+NP_000247 O
 . O
 2 O
 : O
@@ -252502,9 +252299,7 @@ p O
 . O
 Glu542Gln O
 / O
-NC O
-_ O
-000011 O
+NC_000011 O
 . O
 9 O
 : O
@@ -261925,8 +261720,7 @@ h O
 naproxen B-FARMACO
 . O
 
-ʟ O
-ʟ O
+ʟʟ O
 SFB O
 : O
 active O
@@ -262076,8 +261870,7 @@ to O
 1 O
 . O
 5 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -262467,16 +262260,14 @@ Platelets O
 . O
 000 O
 / O
-μ O
-L O
+μL O
 . O
 Leukocytes O
 16 O
 , O
 500 O
 / O
-μ O
-L O
+μL O
 ( O
 neutrophils O
 83 O
@@ -262732,8 +262523,7 @@ to O
 1 O
 . O
 5 O
-μ O
-g O
+μg O
 / O
 kg O
 / O
@@ -273656,16 +273446,14 @@ profile O
 ferritin O
 * O
 304 O
-μ O
-g O
+μg O
 / O
 l O
 , O
 iron O
 * O
 60 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -275432,8 +275220,7 @@ at O
 9 O
 and O
 8 O
-μ O
-gr O
+μgr O
 / O
 kg O
 / O
@@ -277589,16 +277376,14 @@ leukocytes O
 , O
 987 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 186 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Biochemistry O
@@ -281396,14 +281181,12 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 leukocytes O
 7400 O
 / O
-μ O
-l O
+μl O
 . O
 
 International O
@@ -291657,58 +291440,50 @@ cells O
 . O
 86x106 O
 / O
-μ O
-l O
+μl O
 , O
 leukocytes O
 10 O
 , O
 520 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 8 O
 , O
 760 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 1 O
 , O
 150 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 530 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 70 O
 / O
-μ O
-L O
+μL O
 , O
 basophils O
 10 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 235 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -297279,8 +297054,7 @@ leucocytes O
 , O
 800 O
 / O
-μ O
-l O
+μl O
 ( O
 79 O
 . O
@@ -302996,8 +302770,7 @@ Leukocytes O
 15 O
 , O
 700 O
-μ O
-l O
+μl O
 with O
 left O
 shift O
@@ -303021,8 +302794,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 INR O
@@ -303846,8 +303618,7 @@ Leukocytes O
 , O
 500 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 10 O
@@ -303862,8 +303633,7 @@ platelets O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 ESR O
 76 O
@@ -306195,8 +305965,7 @@ x10 O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 with O
 eosinophils O
@@ -306207,8 +305976,7 @@ x10 O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 ( O
 normal O
 0 O
@@ -306226,8 +305994,7 @@ x10 O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -306633,8 +306400,7 @@ thyrotropin O
 0 O
 . O
 34 O
-μ O
-UI O
+μUI O
 / O
 ml O
 ( O
@@ -307161,9 +306927,7 @@ history O
 , O
 compatible O
 with O
-L O
-ö O
-ffler O
+Löffler O
 ' O
 s O
 endocarditis O
@@ -308006,9 +307770,7 @@ myocardial O
 infiltration O
 compatible O
 with O
-L O
-ö O
-ffler O
+Löffler O
 ' O
 s O
 endocarditis O
@@ -308825,8 +308587,7 @@ leucocytes O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 113 O
@@ -308836,8 +308597,7 @@ platelets O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Prothrombin O
@@ -310459,8 +310219,7 @@ I O
 ultrasensitive O
 peak O
 196000 O
-μ O
-g O
+μg O
 / O
 l O
 . O
@@ -311249,8 +311008,7 @@ profile O
 : O
 iron O
 50 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -312961,8 +312719,7 @@ profile O
 : O
 iron O
 89 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -312971,8 +312728,7 @@ Fe O
 binding O
 capacity O
 291 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -313007,8 +312763,7 @@ x O
 ^ O
 6 O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 12 O
@@ -313043,8 +312798,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 3 O
@@ -313055,8 +312809,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 2 O
@@ -313067,8 +312820,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 0 O
@@ -313079,8 +312831,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 0 O
@@ -313091,8 +312842,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-L O
+μL O
 , O
 basophils O
 0 O
@@ -313103,8 +312853,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 228 O
@@ -313113,8 +312862,7 @@ x O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Thyroid O
@@ -317415,24 +317163,21 @@ leukocytes O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 with O
 neutrophilia O
 12 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 222 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -318146,24 +317891,21 @@ leucocytes O
 , O
 940 O
 / O
-μ O
-l O
+μl O
 with O
 neutrophils O
 6 O
 , O
 610 O
 / O
-μ O
-l O
+μl O
 , O
 platelets O
 158 O
 , O
 000 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulation O
@@ -319672,15 +319414,13 @@ Met O
 : O
 ferritin O
 25 O
-μ O
-g O
+μg O
 / O
 l O
 , O
 iron O
 48 O
-μ O
-g O
+μg O
 / O
 dl O
 , O
@@ -320487,8 +320227,7 @@ x10 O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 ( O
 4 O
 - O
@@ -320504,8 +320243,7 @@ x10 O
 ^ O
 3 O
 / O
-μ O
-l O
+μl O
 . O
 
 Coagulopathy O
@@ -323186,8 +322924,7 @@ cells O
 77 O
 xmill O
 / O
-μ O
-l O
+μl O
 , O
 haemoglobin O
 13 O
@@ -323233,8 +322970,7 @@ platelets O
 216 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 MPV O
 9 O
@@ -323248,8 +322984,7 @@ leukocytes O
 3 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 5 O
@@ -323257,8 +322992,7 @@ neutrophils O
 9 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 neutrophils O
 % O
@@ -323273,8 +323007,7 @@ lymphocytes O
 3 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 lymphocytes O
 % O
@@ -323289,8 +323022,7 @@ monocytes O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 monocytes O
 % O
@@ -323305,8 +323037,7 @@ eosinophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 eosinophils O
 % O
@@ -323321,8 +323052,7 @@ basophils O
 0 O
 x1000 O
 / O
-μ O
-l O
+μl O
 , O
 basophils O
 % O
@@ -327382,8 +327112,7 @@ leukocytes O
 > O
 9430 O
 / O
-μ O
-l O
+μl O
 and O
 plaq O
 293 O
@@ -327404,8 +327133,7 @@ plaq O
 > O
 130 O
 / O
-μ O
-l O
+μl O
 . O
 
 
@@ -329041,8 +328769,7 @@ examination O
 she O
 had O
 : O
-ʟ O
-ʟ O
+ʟʟ O
 BP O
 : O
 108 O
@@ -329056,18 +328783,14 @@ hR O
 bpm O
 . O
 
-ʟ O
-ʟ O
-ʟ O
+ʟʟʟ O
 Ta O
 : O
 36 O
 ° O
 C O
 . O
-ʟ O
-ʟ O
-ʟ O
+ʟʟʟ O
 Cardiac O
 auscultation O
 : O
@@ -334914,8 +334637,7 @@ factors O
 
 Personal O
 history O
-ʟ O
-ʟ O
+ʟʟ O
 Previous O
 heart O
 disease O
@@ -337916,8 +337638,7 @@ denosumab B-FARMACO
 duloxetine B-FARMACO
 . O
 
-ʟ O
-ʟ O
+ʟʟ O
 Baseline O
 functional O
 status O
@@ -339453,8 +339174,7 @@ GAP O
 . O
 9 O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 
 Electrocardiogram O
 : O
@@ -340971,8 +340691,7 @@ the O
 cardiology O
 ward O
 : O
-ʟ O
-ʟ O
+ʟʟ O
 Leucocytes O
 : O
 12 O
@@ -343313,8 +343032,7 @@ mcU O
 / O
 mL O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 Auto O
 antibodies O
 : O
@@ -343449,8 +343167,7 @@ microglobulin O
 4 O
 . O
 59 O
-μ O
-g O
+μg O
 / O
 ml O
 . O
@@ -343473,8 +343190,7 @@ pO2 O
 68 O
 mmHg O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 24 O
 - O
 hour O
@@ -344106,8 +343822,7 @@ of O
 predicted O
 ) O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 Gated O
 SPECT O
 of O
@@ -345270,8 +344985,7 @@ mcU O
 / O
 mL O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 Auto O
 antibodies O
 : O
@@ -345406,8 +345120,7 @@ microglobulin O
 4 O
 . O
 59 O
-μ O
-g O
+μg O
 / O
 ml O
 . O
@@ -345430,8 +345143,7 @@ pO2 O
 68 O
 mmHg O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 24 O
 - O
 hour O
@@ -346133,8 +345845,7 @@ of O
 predicted O
 ) O
 . O
-ʟ O
-ʟ O
+ʟʟ O
 Gated O
 SPECT O
 of O
