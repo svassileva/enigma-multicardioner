@@ -50,7 +50,7 @@ def predictions(tokens, labels):
         return align_labels_with_tokens(labels, word_ids), predicted_token_class
     inputs = tokenizer(tokens, return_tensors="pt", is_split_into_words=True, truncation=True)
     word_ids = inputs.word_ids(0)
-    return align_labels_with_tokens(labels, word_ids), ["О"] * len(word_ids)
+    return align_labels_with_tokens(labels, word_ids), ["O"] * len(word_ids)
 
 
 classifier = pipeline(task="text-classification", model=MODEL_CLASS, device='cuda')
